@@ -1,0 +1,1016 @@
+OrderID,CustomerID,CustomerName,Age,Gender,City,State,Category,ProductName,Quantity,UnitPrice,Discount,ShippingCost,PaymentMethod,OrderDate,DeliveryDays,Rating,CustomerSatisfaction,TotalPrice,DiscountAmount,FinalPrice
+ORD00001,CUST0103,John Smith,22.0,Female,Chicago,PA,Food,Jeans,2,141.34,0,16.07,Cash,2024-03-06,5,,Very Satisfied,282.68,0.0,298.75
+ORD00002,CUST0271,William Moore,18.0,Male,Chicago,OH,Sports,Sofa,2,407.62,0,19.91,Debit Card,2024-10-06,14,4.0,Satisfied,815.24,0.0,835.15
+ORD00003,CUST0107,William Moore,120.0,Female,San Jose,AZ,Toys,Lipstick,2,37.13,0,5.05,Cash,2024-01-28,2,4.0,Very Satisfied,74.26,0.0,79.31
+ORD00004,CUST0072,Jessica White,29.0,Male,Dallas,NY,Food,Smartphone,2,273.68,15,8.74,Credit Card,2024-04-26,13,5.0,Neutral,547.36,82.104,473.99600000000004
+ORD00005,CUST0189,Lisa Anderson,53.0,Female,Houston,NY,Beauty,Coffee,4,44.57,10,10.4,Credit Card,2024-11-12,11,,Neutral,178.28,17.828,170.852
+ORD00006,CUST0021,Mike Johnson,62.0,Female,Houston,WA,Toys,Jeans,5,467.68,10,5.9,Debit Card,2024-11-20,9,,Very Satisfied,2338.4,233.84000000000003,2110.46
+ORD00007,CUST0103,Jane Doe,40.0,Female,San Antonio,GA,Home & Garden,Lamp,4,385.51,0,0.31,PayPal,2024-04-23,7,5.0,Satisfied,1542.04,0.0,1542.35
+ORD00008,CUST0122,John Smith,64.0,Male,Los Angeles,PA,Food,Basketball,4,332.4,15,4.4,Credit Card,2024-03-15,10,1.0,Very Satisfied,1329.6,199.43999999999997,1134.56
+ORD00009,CUST0215,Jessica White,48.0,Male,San Diego,GA,Home & Garden,Basketball,1,413.71,0,5.64,Cash,2024-07-20,8,5.0,Neutral,413.71,0.0,419.34999999999997
+ORD00010,CUST0088,Mike Johnson,28.0,Male,Philadelphia,AZ,Books,Novel,1,327.28,15,8.87,Credit Card,2024-02-28,6,5.0,Very Satisfied,327.28,49.09199999999999,287.058
+ORD00011,CUST0100,James Harris,27.0,Male,Chicago,NY,Food,Lipstick,1,484.78,5,3.42,Credit Card,2024-01-15,9,4.0,Satisfied,484.78,24.239,463.961
+ORD00012,CUST0152,Jane Doe,20.0,Male,Dallas,PA,Food,Lamp,3,359.84,0,17.47,Credit Card,2024-08-18,6,5.0,Very Dissatisfied,1079.52,0.0,1096.99
+ORD00013,CUST0131,Jane Doe,31.0,Female,Phoenix,PA,Toys,Novel,1,463.08,5,14.1,PayPal,2024-04-14,7,4.0,Very Satisfied,463.08,23.154,454.026
+ORD00014,CUST0150,Emily Davis,33.0,Male,San Diego,IL,Home & Garden,Chocolate,5,263.39,10,1.7,Cash,2024-06-13,7,2.0,,1316.9499999999998,131.695,1186.955
+ORD00015,CUST0258,Jennifer Lee,27.0,Male,San Antonio,OH,Beauty,Lipstick,4,67.36,0,13.0,Debit Card,2024-07-17,9,5.0,Satisfied,269.44,0.0,282.44
+ORD00016,CUST0294,John Smith,46.0,Female,San Diego,NY,Electronics,Cookbook,5,268.81,15,13.07,Credit Card,2024-12-19,11,4.0,Very Satisfied,1344.05,201.6075,1155.5124999999998
+ORD00017,CUST0192,Jane Doe,27.0,Male,San Antonio,NY,Sports,Coffee,1,72.17,5,19.12,Cash,2024-02-04,8,4.0,Satisfied,72.17,3.6085000000000003,87.6815
+ORD00018,CUST0277,Jessica White,29.0,Female,Chicago,PA,Electronics,Jeans,3,300.32,0,0.06,Cash,2024-06-10,13,4.0,Neutral,900.96,0.0,901.02
+ORD00019,CUST0161,Emily Davis,47.0,Male,Los Angeles,GA,Sports,Shampoo,3,246.42,0,4.96,Debit Card,2024-09-01,1,5.0,Satisfied,739.26,0.0,744.22
+ORD00020,CUST0022,Mike Johnson,58.0,Female,,NY,Beauty,Jeans,4,315.06,5,18.56,Credit Card,2024-10-13,4,4.0,Very Satisfied,1260.24,63.012,1215.788
+ORD00021,CUST0253,James Harris,18.0,Male,Chicago,PA,Food,Doll,5,14.92,5,18.64,PayPal,2024-01-19,7,4.0,Very Satisfied,74.6,3.73,89.50999999999999
+ORD00022,CUST0236,Sarah Williams,22.0,Male,Chicago,NY,Food,Basketball,2,105.47,5,14.41,Cash,2024-10-06,11,5.0,Neutral,210.94,10.547,214.803
+ORD00023,CUST0049,John Smith,37.0,Female,Los Angeles,PA,Toys,T-Shirt,5,250.75,10,15.32,Debit Card,2024-12-05,8,5.0,Satisfied,1253.75,125.375,1143.695
+ORD00024,CUST0059,Lisa Anderson,25.0,Male,Houston,IL,Books,Shampoo,1,475.75,5,1.83,PayPal,2024-12-13,7,4.0,Satisfied,475.75,23.7875,453.79249999999996
+ORD00025,CUST0170,William Moore,60.0,Female,San Diego,OH,Home & Garden,Cookbook,2,197.97,25,10.28,Cash,2024-06-30,12,5.0,Very Satisfied,395.94,98.985,307.23499999999996
+ORD00026,CUST0188,Chris Wilson,29.0,Male,New York,PA,Home & Garden,Jeans,3,217.94,5,4.63,Credit Card,2024-05-26,3,5.0,Neutral,653.8199999999999,32.690999999999995,625.7589999999999
+ORD00027,CUST0271,Chris Wilson,18.0,Male,New York,NY,Home & Garden,Chocolate,4,360.2,15,3.62,Cash,2024-06-24,4,5.0,Very Dissatisfied,1440.8,216.11999999999998,1228.3
+ORD00028,CUST0190,Mike Johnson,37.0,Female,Phoenix,AZ,Toys,Smartphone,4,305.86,0,16.21,PayPal,2024-06-11,12,4.0,Very Satisfied,1223.44,0.0,1239.65
+ORD00029,CUST0175,Amy Taylor,45.0,Male,Phoenix,OH,Sports,Coffee,3,156.47,0,2.7,PayPal,2024-06-23,7,5.0,Very Satisfied,469.40999999999997,0.0,472.10999999999996
+ORD00030,CUST0051,Amy Taylor,60.0,Female,,IL,Food,Basketball,1,211.3,0,9.37,Credit Card,2024-02-16,8,4.0,Dissatisfied,211.3,0.0,220.67000000000002
+ORD00031,CUST0055,Mike Johnson,54.0,Other,Philadelphia,PA,Beauty,Novel,3,116.67,5,18.77,Credit Card,2024-09-12,7,2.0,Neutral,350.01,17.5005,351.2795
+ORD00032,CUST0244,Jessica White,64.0,Female,New York,AZ,Home & Garden,Coffee,1,483.35,15,3.72,Debit Card,2024-06-22,6,4.0,Satisfied,483.35,72.5025,414.56750000000005
+ORD00033,CUST0131,Jane Doe,54.0,Female,Phoenix,PA,Electronics,Lamp,2,8132.465659176024,0,19.56,Credit Card,2024-04-12,9,5.0,Very Dissatisfied,148.02,0.0,167.58
+ORD00034,CUST0135,Jennifer Lee,29.0,Male,Dallas,GA,Home & Garden,Novel,3,192.2,0,19.89,Debit Card,2024-04-30,9,2.0,Satisfied,576.5999999999999,0.0,596.4899999999999
+ORD00035,CUST0021,John Smith,54.0,Male,Phoenix,NY,Food,Lipstick,1,22.66,15,11.11,PayPal,2024-12-15,11,3.0,Very Satisfied,22.66,3.399,30.371
+ORD00036,CUST0167,Chris Wilson,66.0,Male,Philadelphia,FL,Toys,Headphones,2,118.67,0,3.4,PayPal,2024-05-24,13,5.0,Neutral,237.34,0.0,240.74
+ORD00037,CUST0274,Chris Wilson,66.0,Female,San Diego,WA,Beauty,Coffee,3,392.43,10,6.32,Cash,2024-02-11,7,5.0,Satisfied,1177.29,117.729,1065.8809999999999
+ORD00038,CUST0089,Jennifer Lee,61.0,F,New York,CA,Books,Coffee,4,108.58,5,8.49,Cash,2024-01-29,8,5.0,,434.32,21.716,421.094
+ORD00039,CUST0014,Jane Doe,45.0,Male,Los Angeles,GA,Beauty,T-Shirt,3,49.23,15,6.19,Debit Card,2024-09-29,6,4.0,Very Satisfied,147.69,22.153499999999998,131.72650000000002
+ORD00040,CUST0242,Chris Wilson,64.0,Female,Dallas,AZ,Electronics,Jeans,5,242.48,0,5.61,Credit Card,2024-01-14,1,2.0,Satisfied,1212.3999999999999,0.0,1218.0099999999998
+ORD00041,CUST0265,William Moore,32.0,Male,Chicago,GA,Home & Garden,Sofa,3,14.88,0,19.44,Credit Card,2024-11-01,1,5.0,Neutral,44.64,0.0,64.08
+ORD00042,CUST0053,Lisa Anderson,23.0,Female,Philadelphia,TX,Home & Garden,Laptop,5,51.54,5,3.07,Cash,2024-11-08,6,2.0,Very Satisfied,257.7,12.885,247.885
+ORD00043,CUST0092,John Smith,61.0,Male,Phoenix,PA,Clothing,T-Shirt,2,405.74,20,14.67,PayPal,2024-07-07,2,5.0,Satisfied,811.48,162.29600000000002,663.8539999999999
+ORD00044,CUST0264,Tom Martinez,37.0,Other,Los Angeles,PA,Sports,Doll,3,388.02,5,0.01,Debit Card,2024-12-25,14,4.0,Dissatisfied,1164.06,58.203,1105.867
+ORD00045,CUST0035,Chris Wilson,67.0,Female,San Antonio,CA,Electronics,Lipstick,2,458.42,0,11.92,PayPal,2024-10-21,8,5.0,Satisfied,916.84,0.0,928.76
+ORD00046,CUST0206,Mike Johnson,31.0,Male,Houston,CA,Clothing,Basketball,2,428.71,10,18.32,PayPal,2024-07-01,1,4.0,Satisfied,857.42,85.742,789.998
+ORD00047,CUST0081,Lisa Anderson,19.0,Male,New York,TX,Beauty,Shampoo,1,344.76,20,5.76,Credit Card,2024-12-17,13,4.0,Dissatisfied,344.76,68.952,281.568
+ORD00048,CUST0050,Chris Wilson,26.0,Male,Houston,NY,Books,Jeans,2,35.64,15,3.71,Debit Card,2024-02-05,2,5.0,Very Satisfied,71.28,10.692,64.298
+ORD00049,CUST0002,Robert Garcia,54.0,Male,Philadelphia,WA,Sports,Lamp,2,393.6,25,13.03,PayPal,2024-02-06,8,4.0,,787.2,196.8,603.4300000000001
+ORD00050,CUST0054,James Harris,37.0,Male,San Antonio,FL,Electronics,Shampoo,3,424.3,0,14.25,Cash,2024-01-14,12,4.0,Neutral,1272.9,0.0,1287.15
+ORD00051,CUST0106,William Moore,43.0,Female,San Antonio,FL,Home & Garden,Jeans,3,401.55,0,13.76,Cash,2024-05-02,6,5.0,Satisfied,1204.65,0.0,1218.41
+ORD00052,CUST0260,Lisa Anderson,46.0,Female,San Antonio,IL,Beauty,Shampoo,4,259.15,10,6.39,Credit Card,2024-03-23,12,4.0,Satisfied,1036.6,103.66,939.3299999999999
+ORD00053,CUST0191,Emily Davis,18.0,Female,Chicago,IL,Electronics,Shampoo,1,124.12,15,5.04,Cash,2024-06-07,10,4.0,Very Dissatisfied,124.12,18.618,110.54200000000002
+ORD00054,CUST0218,Tom Martinez,52.0,Male,Philadelphia,NY,Home & Garden,Laptop,2,424.21,0,19.12,Cash,2024-11-24,2,4.0,Very Satisfied,848.42,0.0,867.54
+ORD00055,CUST0044,James Harris,23.0,Female,San Diego,IL,Food,Doll,1,366.31,0,18.47,PayPal,2024-04-11,2,3.0,Very Satisfied,366.31,0.0,384.78
+ORD00056,CUST0162,David Brown,54.0,Female,Houston,IL,Sports,Lamp,5,490.57,10,9.15,Cash,2024-12-02,11,2.0,Very Satisfied,2452.85,245.285,2216.715
+ORD00057,CUST0202,Mike Johnson,22.0,Male,San Diego,TX,Food,Novel,2,86.29,0,16.92,Cash,2024-03-23,14,5.0,Very Satisfied,172.58,0.0,189.5
+ORD00058,CUST0270,Mike Johnson,50.0,Female,Los Angeles,,Food,Shampoo,1,120.58,0,9.05,PayPal,2024-02-13,7,5.0,Satisfied,120.58,0.0,129.63
+ORD00059,CUST0271,John Smith,66.0,Female,San Jose,IL,Home & Garden,Lamp,4,113.78,5,8.49,Credit Card,2024-03-08,5,4.0,,455.12,22.756,440.85400000000004
+ORD00060,CUST0215,Jennifer Lee,68.0,Male,Dallas,GA,Books,Doll,4,398.34,5,3.14,Credit Card,2024-02-17,5,4.0,Dissatisfied,1593.36,79.668,1516.832
+ORD00061,CUST0252,James Harris,31.0,Male,Dallas,OH,Beauty,Chocolate,2,101.58,10,8.53,Debit Card,2024-02-26,8,5.0,Very Satisfied,203.16,20.316000000000003,191.374
+ORD00062,CUST0190,Lisa Anderson,29.0,Female,San Diego,OH,Toys,Shampoo,5,42.66,0,10.75,Cash,2024-03-15,12,,Satisfied,213.29999999999998,0.0,224.04999999999998
+ORD00063,CUST0296,Jane Doe,59.0,Male,San Jose,NY,Home & Garden,Coffee,4,499.29,10,0.45,PayPal,2024-01-22,12,4.0,Neutral,1997.16,199.716,1797.894
+ORD00064,CUST0213,Mike Johnson,37.0,Female,San Jose,FL,Books,T-Shirt,4,22.16,5,8.88,Debit Card,2024-05-11,7,5.0,Very Satisfied,88.64,4.432,93.088
+ORD00065,CUST0208,Lisa Anderson,67.0,Female,New York,CA,Toys,Novel,5,419.27,5,15.63,Credit Card,2024-10-28,12,5.0,Neutral,2096.35,104.8175,2007.1625
+ORD00066,CUST0237,Jessica White,41.0,Female,Los Angeles,NY,Beauty,Coffee,1,189.03,10,13.6,Credit Card,2024-09-23,14,4.0,Dissatisfied,189.03,18.903000000000002,183.727
+ORD00067,CUST0053,Lisa Anderson,60.0,Male,Philadelphia,IL,Food,Jeans,4,422.39,0,12.7,PayPal,2024-10-13,9,2.0,Dissatisfied,1689.56,0.0,1702.26
+ORD00068,CUST0280,Jessica White,51.0,Male,,TX,Sports,Basketball,3,281.76,0,18.19,Debit Card,2024-04-29,4,3.0,Satisfied,845.28,0.0,863.47
+ORD00069,CUST0217,Robert Garcia,42.0,Female,Phoenix,PA,Sports,Cookbook,4,451.8,0,0.36,Debit Card,2024-09-02,10,5.0,Satisfied,1807.2,0.0,1807.56
+ORD00070,CUST0252,Sarah Williams,67.0,Female,Dallas,GA,Beauty,Lipstick,1,463.83,0,11.14,PayPal,2024-02-25,4,5.0,Very Satisfied,463.83,0.0,474.96999999999997
+ORD00071,CUST0188,Sarah Williams,46.0,Male,Phoenix,AZ,Beauty,Lipstick,1,14.46,5,15.75,PayPal,2024-02-07,2,5.0,Satisfied,14.46,0.7230000000000001,29.487000000000002
+ORD00072,CUST0041,David Brown,56.0,Female,Los Angeles,TX,Electronics,Basketball,2,46.95,15,10.83,Debit Card,2024-09-01,3,3.0,Satisfied,93.9,14.085,90.645
+ORD00073,CUST0157,Emily Davis,48.0,Female,San Jose,OH,Books,Jeans,3,132.68,10,6.48,Credit Card,2024-01-21,1,5.0,Dissatisfied,398.04,39.804,364.716
+ORD00074,CUST0015,David Brown,64.0,Male,Houston,TX,Food,Laptop,1,337.96,10,2.73,Cash,2024-04-19,1,5.0,Dissatisfied,337.96,33.796,306.894
+ORD00075,CUST0065,Jessica White,60.0,Male,Dallas,GA,Books,Lipstick,5,445.25,0,17.75,Credit Card,2024-04-03,7,5.0,Very Dissatisfied,2226.25,0.0,2244.0
+ORD00076,CUST0009,James Harris,67.0,Female,New York,CA,Beauty,Cookbook,3,235.37,5,9.42,PayPal,2024-05-15,14,1.0,Dissatisfied,706.11,35.3055,680.2244999999999
+ORD00077,CUST0129,Chris Wilson,40.0,Male,New York,IL,Clothing,Lipstick,3,307.42,0,17.56,Debit Card,2024-08-18,14,5.0,Very Satisfied,922.26,0.0,939.8199999999999
+ORD00078,CUST0136,Jane Doe,61.0,Male,San Antonio,PA,Clothing,Jeans,5,102.36,0,11.72,Debit Card,2024-01-08,5,1.0,Satisfied,511.8,0.0,523.52
+ORD00079,CUST0063,Chris Wilson,55.0,Male,Chicago,OH,Toys,Sofa,4,404.43,0,13.48,Cash,2024-11-23,3,5.0,Very Satisfied,1617.72,0.0,1631.2
+ORD00080,CUST0139,Amy Taylor,37.0,Male,San Jose,OH,Toys,T-Shirt,5,483.99,5,16.09,Debit Card,2024-10-16,7,5.0,Very Satisfied,2419.95,120.9975,2315.0425
+ORD00081,CUST0081,Chris Wilson,40.0,Female,Los Angeles,WA,Clothing,Sofa,5,141.61,25,13.18,Cash,2024-09-07,14,3.0,Satisfied,708.0500000000001,177.01250000000002,544.2175
+ORD00082,CUST0163,John Smith,62.0,Female,Dallas,FL,Beauty,Lipstick,4,252.46,0,7.96,Credit Card,2024-12-26,2,5.0,Neutral,1009.84,0.0,1017.8000000000001
+ORD00083,CUST0289,Chris Wilson,69.0,Male,Chicago,CA,Beauty,Novel,4,52.2,0,10.27,Credit Card,2024-03-27,3,2.0,Neutral,208.8,0.0,219.07000000000002
+ORD00084,CUST0261,David Brown,33.0,Female,Los Angeles,OH,Toys,Headphones,4,283.98,10,16.06,Debit Card,2024-07-22,1,5.0,Very Satisfied,1135.92,113.59200000000001,1038.3880000000001
+ORD00085,CUST0231,Mike Johnson,67.0,Female,San Diego,FL,Home & Garden,Jeans,4,256.36,0,7.47,Debit Card,2024-08-06,8,4.0,Very Satisfied,1025.44,0.0,1032.91
+ORD00086,CUST0041,William Moore,59.0,Female,San Jose,OH,Beauty,Smartphone,4,80.77,15,7.76,PayPal,2024-08-28,2,5.0,Very Satisfied,323.08,48.461999999999996,282.378
+ORD00087,CUST0028,Mike Johnson,25.0,Male,Philadelphia,IL,Clothing,Chocolate,5,226.61,10,1.91,PayPal,2024-11-15,7,5.0,Very Satisfied,1133.0500000000002,113.30500000000002,1021.6550000000001
+ORD00088,CUST0135,Sarah Williams,67.0,Male,Philadelphia,FL,Books,Smartphone,2,173.71,20,18.29,Debit Card,2024-09-14,11,4.0,Very Satisfied,347.42,69.48400000000001,296.22600000000006
+ORD00089,CUST0201,William Moore,38.0,Other,San Jose,GA,Beauty,Shampoo,2,265.7,5,1.82,Debit Card,2024-04-18,9,4.0,Neutral,531.4,26.57,506.65
+ORD00090,CUST0268,Jennifer Lee,18.0,Female,San Antonio,WA,Food,Lamp,1,296.97,10,12.96,Credit Card,2024-09-12,6,4.0,Neutral,296.97,29.697000000000003,280.233
+ORD00091,CUST0033,Jane Doe,25.0,Male,San Antonio,IL,Beauty,Basketball,2,14.16,5,8.26,Debit Card,2024-10-08,2,3.0,Satisfied,28.32,1.4160000000000001,35.164
+ORD00092,CUST0048,Jane Doe,46.0,Male,Philadelphia,GA,Home & Garden,Shampoo,2,382.89,10,8.11,PayPal,2024-08-07,2,5.0,Neutral,765.78,76.578,697.312
+ORD00093,CUST0062,John Smith,49.0,Male,Houston,PA,Toys,Basketball,5,359.38,5,13.59,Credit Card,2024-03-23,9,5.0,Very Satisfied,1796.9,89.84500000000001,1720.645
+ORD00094,CUST0216,James Harris,55.0,Female,Dallas,CA,Beauty,Chocolate,4,189.48,0,1.34,Cash,2024-04-16,10,5.0,Very Dissatisfied,757.92,0.0,759.26
+ORD00095,CUST0293,David Brown,22.0,male,Philadelphia,CA,Sports,Doll,4,35.94,5,11.87,PayPal,2024-03-09,8,5.0,Very Satisfied,143.76,7.188,148.442
+ORD00096,CUST0099,Sarah Williams,64.0,Female,Houston,AZ,Electronics,Basketball,5,379.92,5,15.44,PayPal,2024-04-06,14,4.0,Neutral,1899.6000000000001,94.98000000000002,1820.0600000000002
+ORD00097,CUST0172,Robert Garcia,39.0,Male,Chicago,AZ,Clothing,Sofa,2,478.04,15,16.56,Credit Card,2024-07-30,14,5.0,Very Dissatisfied,956.08,143.412,829.228
+ORD00098,CUST0214,Amy Taylor,64.0,Female,Houston,FL,Food,T-Shirt,5,127.67,10,3.41,Cash,2024-10-12,14,5.0,Dissatisfied,638.35,63.83500000000001,577.925
+ORD00099,CUST0035,James Harris,51.0,Female,Chicago,CA,Food,Jeans,1,168.53,10,17.95,PayPal,2024-08-24,9,4.0,Very Satisfied,168.53,16.853,169.62699999999998
+ORD00100,CUST0227,Jane Doe,18.0,Male,Los Angeles,FL,Food,Laptop,4,100.07,0,13.12,Debit Card,2024-01-08,4,3.0,Neutral,400.28,0.0,413.4
+ORD00101,CUST0101,Mike Johnson,43.0,Female,Phoenix,AZ,Sports,Lamp,3,292.7,10,17.64,PayPal,2024-10-20,4,4.0,Very Satisfied,878.0999999999999,87.81,807.93
+ORD00102,CUST0131,Chris Wilson,60.0,Other,Los Angeles,PA,Food,Novel,1,85.87,5,9.71,Credit Card,2024-07-07,2,5.0,Very Satisfied,85.87,4.293500000000001,91.28650000000002
+ORD00103,CUST0257,Chris Wilson,27.0,Male,Philadelphia,OH,Food,Cookbook,1,184.54,15,10.84,Credit Card,2024-03-21,14,5.0,Very Satisfied,184.54,27.680999999999997,167.69899999999998
+ORD00104,CUST0005,Jennifer Lee,47.0,Female,Chicago,GA,Toys,Novel,5,351.54,20,18.38,Credit Card,2024-04-17,10,5.0,Dissatisfied,1757.7,351.54,1424.5400000000002
+ORD00105,CUST0218,Sarah Williams,67.0,Male,Philadelphia,,Books,Jeans,2,284.46,0,18.0,PayPal,2024-11-16,1,3.0,Dissatisfied,568.92,0.0,586.92
+ORD00106,CUST0255,David Brown,35.0,Female,San Jose,FL,Electronics,Headphones,4,199.37,15,8.96,Cash,2024-03-07,10,,Very Satisfied,797.48,119.622,686.8180000000001
+ORD00107,CUST0283,David Brown,34.0,Female,Dallas,PA,Sports,Basketball,3,215.92,0,5.49,Debit Card,2024-06-22,13,4.0,Satisfied,647.76,0.0,653.25
+ORD00108,CUST0207,Emily Davis,43.0,Female,New York,GA,Electronics,Doll,1,285.43,0,7.86,Credit Card,2024-12-11,4,5.0,Very Dissatisfied,285.43,0.0,293.29
+ORD00109,CUST0015,Jessica White,25.0,Female,Philadelphia,CA,Clothing,Cookbook,3,12.87,5,7.76,Cash,2024-12-16,10,1.0,Satisfied,38.61,1.9305,44.439499999999995
+ORD00110,CUST0042,Tom Martinez,64.0,Male,Dallas,OH,Toys,Coffee,2,48.47,0,5.74,Debit Card,2024-11-23,10,3.0,Satisfied,96.94,0.0,102.67999999999999
+ORD00111,CUST0179,Jane Doe,57.0,Female,Houston,GA,Beauty,Sofa,2,441.82,10,5.37,Credit Card,2024-02-12,11,5.0,Satisfied,883.64,88.364,800.646
+ORD00112,CUST0063,David Brown,66.0,Female,Los Angeles,WA,Books,Coffee,3,48.16,0,17.22,Debit Card,2024-07-05,8,,Neutral,144.48,0.0,161.7
+ORD00113,CUST0231,Jennifer Lee,29.0,Male,Houston,AZ,Toys,Jeans,4,356.33,0,1.4,Debit Card,2024-10-28,2,4.0,Satisfied,1425.32,0.0,1426.72
+ORD00114,CUST0241,Mike Johnson,44.0,Female,New York,GA,Electronics,Shampoo,2,460.82,5,13.55,Cash,2024-07-18,13,2.0,Neutral,921.64,46.082,889.108
+ORD00115,CUST0052,Sarah Williams,25.0,Female,Chicago,TX,Sports,Headphones,3,142.63,10,3.46,Debit Card,2024-02-08,12,4.0,Satisfied,427.89,42.789,388.561
+ORD00116,CUST0096,Amy Taylor,42.0,Male,San Jose,PA,Clothing,Sofa,1,191.54,20,6.89,Credit Card,2024-08-07,11,1.0,Very Satisfied,191.54,38.308,160.12199999999999
+ORD00117,CUST0222,Emily Davis,63.0,Female,Dallas,OH,Clothing,Headphones,3,288.77,10,1.23,Cash,2024-11-02,8,3.0,Very Satisfied,866.31,86.631,780.909
+ORD00118,CUST0231,Jennifer Lee,21.0,Female,San Jose,IL,Toys,Basketball,3,442.04,10,5.4,PayPal,2024-01-04,1,5.0,Very Satisfied,1326.1200000000001,132.61200000000002,1198.9080000000001
+ORD00119,CUST0237,Lisa Anderson,50.0,Male,Phoenix,GA,Beauty,Lipstick,5,471.53,0,15.37,PayPal,2024-04-30,1,5.0,Satisfied,2357.6499999999996,0.0,2373.0199999999995
+ORD00120,CUST0143,John Smith,18.0,Other,Philadelphia,NY,Sports,Sofa,2,372.39,0,17.7,Cash,2024-12-01,4,3.0,Very Satisfied,744.78,0.0,762.48
+ORD00121,CUST0171,Amy Taylor,36.0,Male,Chicago,TX,Beauty,T-Shirt,4,52.44,0,4.43,PayPal,2024-03-17,7,5.0,Neutral,209.76,0.0,214.19
+ORD00122,CUST0029,Jessica White,48.0,Male,Phoenix,TX,Beauty,Coffee,4,337.89,5,9.27,Debit Card,2024-06-27,9,4.0,Satisfied,1351.56,67.578,1293.252
+ORD00123,CUST0036,Lisa Anderson,33.0,Male,San Diego,NY,Food,Smartphone,5,211.05,10,9.41,Credit Card,2024-05-12,5,3.0,Neutral,1055.25,105.525,959.135
+ORD00124,CUST0013,Robert Garcia,31.0,Female,Philadelphia,WA,Sports,Novel,4,240.64,5,17.47,Debit Card,2024-11-06,2,4.0,Very Dissatisfied,962.56,48.128,931.9019999999999
+ORD00125,CUST0160,Jessica White,65.0,Female,Houston,IL,Electronics,T-Shirt,3,34.08,10,15.26,Cash,2024-08-16,12,5.0,Neutral,102.24,10.224,107.276
+ORD00126,CUST0187,Chris Wilson,22.0,Male,Los Angeles,AZ,Toys,Cookbook,5,103.62,5,10.26,Credit Card,2024-10-02,7,2.0,Very Dissatisfied,518.1,25.905,502.45500000000004
+ORD00127,CUST0243,John Smith,58.0,Male,Dallas,PA,Toys,Lamp,1,,0,13.41,Cash,2024-05-31,11,4.0,Satisfied,397.35,0.0,410.76000000000005
+ORD00128,CUST0086,Jane Doe,43.0,Female,New York,,Food,Lipstick,2,232.44,0,16.95,Cash,2024-06-12,2,3.0,Very Satisfied,464.88,0.0,481.83
+ORD00129,CUST0284,Mike Johnson,45.0,Male,New York,PA,Home & Garden,Smartphone,2,157.81,15,0.19,Cash,2024-10-16,9,4.0,Very Dissatisfied,315.62,47.342999999999996,268.467
+ORD00130,CUST0066,John Smith,19.0,Female,Houston,IL,Toys,T-Shirt,2,198.17,10,8.06,Debit Card,2024-04-18,9,3.0,Dissatisfied,396.34,39.634,364.76599999999996
+ORD00131,CUST0170,Jessica White,67.0,Female,San Antonio,PA,Clothing,Jeans,3,428.66,15,18.14,Credit Card,2024-05-05,3,5.0,Dissatisfied,1285.98,192.897,1111.2230000000002
+ORD00132,CUST0045,Tom Martinez,23.0,Female,New York,NY,Electronics,Headphones,1,377.01,0,14.81,Credit Card,2024-08-27,13,5.0,Neutral,377.01,0.0,391.82
+ORD00133,CUST0062,Lisa Anderson,26.0,Other,Dallas,TX,Sports,Cookbook,5,143.43,25,10.86,Credit Card,2024-11-05,8,5.0,Satisfied,717.1500000000001,179.28750000000002,548.7225000000001
+ORD00134,CUST0134,Jane Doe,50.0,Male,Houston,PA,Toys,Shampoo,5,67.58,0,10.59,Debit Card,2024-12-10,11,4.0,Very Satisfied,337.9,0.0,348.48999999999995
+ORD00135,CUST0284,William Moore,58.0,Other,Chicago,FL,Electronics,Jeans,2,133.48,0,6.96,PayPal,2024-05-25,4,4.0,Neutral,266.96,0.0,273.91999999999996
+ORD00136,CUST0028,Tom Martinez,42.0,Female,New York,GA,Food,Smartphone,1,461.17,25,10.41,Debit Card,2024-09-08,3,4.0,Very Satisfied,461.17,115.2925,356.2875
+ORD00137,CUST0108,Chris Wilson,65.0,Female,San Jose,IL,Toys,Doll,1,294.98,0,13.11,Debit Card,2024-07-01,1,1.0,Very Satisfied,294.98,0.0,308.09000000000003
+ORD00138,CUST0044,Tom Martinez,30.0,Male,Houston,WA,Sports,Headphones,1,271.41,10,8.37,Cash,2024-11-04,5,5.0,Satisfied,271.41,27.141000000000005,252.639
+ORD00139,CUST0286,Emily Davis,26.0,Female,Dallas,FL,Books,Chocolate,4,302.23,0,14.28,Credit Card,2024-11-01,13,4.0,Satisfied,1208.92,0.0,1223.2
+ORD00140,CUST0128,Emily Davis,30.0,Male,San Jose,NY,Sports,Coffee,4,189.35,5,17.22,Credit Card,2024-03-12,14,4.0,Very Satisfied,757.4,37.87,736.75
+ORD00141,CUST0231,Robert Garcia,48.0,Male,Philadelphia,CA,Sports,Cookbook,2,405.48,20,3.09,PayPal,2024-08-06,11,5.0,Neutral,810.96,162.192,651.8580000000001
+ORD00142,CUST0190,Jessica White,58.0,Male,Philadelphia,NY,Sports,Lamp,1,266.41,0,9.03,PayPal,2024-07-25,4,4.0,Dissatisfied,266.41,0.0,275.44
+ORD00143,CUST0225,Sarah Williams,28.0,Female,New York,WA,Toys,Smartphone,1,67.21,10,8.16,Cash,2024-06-21,1,,Neutral,67.21,6.721,68.64899999999999
+ORD00144,CUST0283,Amy Taylor,21.0,Female,San Jose,WA,Home & Garden,Cookbook,5,73.24,0,13.75,Credit Card,2024-05-20,10,4.0,Satisfied,366.2,0.0,379.95
+ORD00145,CUST0121,Amy Taylor,51.0,Female,Los Angeles,FL,Sports,Chocolate,5,273.06,10,5.0,PayPal,2024-09-28,8,5.0,Very Dissatisfied,1365.3,136.53,1233.77
+ORD00146,CUST0116,William Moore,55.0,Female,Philadelphia,GA,Food,T-Shirt,2,468.92,0,12.81,PayPal,2024-08-01,8,4.0,Very Satisfied,937.84,0.0,950.65
+ORD00147,CUST0233,William Moore,63.0,Male,Los Angeles,IL,Clothing,Shampoo,1,161.09,0,17.55,Credit Card,2024-09-25,13,,Neutral,161.09,0.0,178.64000000000001
+ORD00148,CUST0259,Jane Doe,21.0,male,Chicago,AZ,Clothing,Cookbook,2,436.08,0,8.36,Debit Card,2024-01-20,8,4.0,Very Satisfied,872.16,0.0,880.52
+ORD00149,CUST0198,Chris Wilson,55.0,Male,Houston,TX,Food,Coffee,5,384.41,0,18.22,PayPal,2024-03-06,3,5.0,Satisfied,1922.0500000000002,0.0,1940.2700000000002
+ORD00150,CUST0137,David Brown,36.0,Female,Phoenix,FL,Electronics,Shampoo,5,131.43,20,19.86,Credit Card,2024-10-29,6,3.0,Satisfied,657.1500000000001,131.43000000000004,545.58
+ORD00151,CUST0165,Robert Garcia,23.0,Female,Dallas,WA,Home & Garden,Smartphone,4,27.81,0,2.12,PayPal,2024-05-26,12,5.0,Neutral,111.24,0.0,113.36
+ORD00152,CUST0225,Emily Davis,51.0,Female,Houston,CA,Electronics,Coffee,2,59.91,0,4.66,Cash,2024-06-13,12,4.0,Very Satisfied,119.82,0.0,124.47999999999999
+ORD00153,CUST0234,Jane Doe,35.0,Female,Dallas,OH,Food,Lipstick,2,366.96,5,19.01,PayPal,2024-11-05,7,4.0,Very Satisfied,733.92,36.696,716.2339999999999
+ORD00154,CUST0172,David Brown,30.0,Male,San Jose,WA,Clothing,Basketball,1,107.84,0,19.17,Credit Card,2024-01-06,9,5.0,Satisfied,107.84,0.0,127.01
+ORD00155,CUST0152,Amy Taylor,58.0,Male,Chicago,GA,Beauty,Lipstick,1,191.92,10,1.95,PayPal,2024-01-14,5,,Satisfied,191.92,19.192,174.67799999999997
+ORD00156,CUST0160,Sarah Williams,40.0,Female,San Diego,GA,Clothing,T-Shirt,4,255.83,25,0.3,Cash,2024-05-11,9,4.0,Satisfied,1023.32,255.83,767.79
+ORD00157,CUST0096,Tom Martinez,36.0,Male,New York,WA,Books,Jeans,3,365.48,5,3.22,Cash,2024-12-07,6,5.0,Very Satisfied,1096.44,54.822,1044.838
+ORD00158,CUST0233,Emily Davis,62.0,Male,Dallas,GA,Sports,Smartphone,3,65.48,15,19.92,PayPal,2024-08-30,10,2.0,Satisfied,196.44,29.465999999999998,186.894
+ORD00159,CUST0180,Jane Doe,28.0,Female,Dallas,FL,Beauty,Basketball,3,209.12,5,3.6,PayPal,2024-08-18,10,5.0,Very Satisfied,627.36,31.368000000000002,599.592
+ORD00160,CUST0113,John Smith,18.0,Female,San Jose,WA,Clothing,Laptop,2,247.69,0,10.05,Cash,2024-08-15,10,5.0,Very Satisfied,495.38,0.0,505.43
+ORD00161,CUST0052,David Brown,41.0,Male,Los Angeles,WA,Toys,Lamp,2,275.01,10,16.97,Cash,2024-06-10,4,4.0,Satisfied,550.02,55.002,511.98799999999994
+ORD00162,CUST0268,Tom Martinez,24.0,Male,Houston,IL,Toys,Basketball,5,,5,0.41,Debit Card,2024-10-09,13,5.0,Neutral,2055.0,102.75,1952.66
+ORD00163,CUST0295,Emily Davis,42.0,Female,San Diego,TX,Electronics,Laptop,2,94.12,10,12.09,Debit Card,2024-09-19,1,5.0,Very Satisfied,188.24,18.824,181.506
+ORD00164,CUST0113,Amy Taylor,38.0,Female,San Antonio,CA,Beauty,Doll,2,405.84,15,5.54,Cash,2024-05-10,1,4.0,Very Satisfied,811.68,121.75199999999998,695.468
+ORD00165,CUST0101,Jennifer Lee,32.0,Male,New York,GA,Electronics,Doll,2,349.51,5,17.25,PayPal,2024-08-12,14,5.0,Satisfied,699.02,34.951,681.319
+ORD00166,CUST0113,Chris Wilson,18.0,Male,Phoenix,IL,Sports,Novel,4,282.38,20,5.67,Credit Card,2024-09-14,10,3.0,Very Satisfied,1129.52,225.904,909.286
+ORD00167,CUST0081,David Brown,29.0,Male,San Antonio,AZ,Sports,Headphones,2,352.77,10,13.74,PayPal,2024-08-21,5,5.0,Satisfied,705.54,70.554,648.726
+ORD00168,CUST0187,Amy Taylor,24.0,Male,Houston,AZ,Books,Chocolate,1,211.89,5,13.48,PayPal,2024-12-01,13,5.0,Satisfied,211.89,10.5945,214.77549999999997
+ORD00169,CUST0113,Emily Davis,32.0,Male,New York,PA,Food,Basketball,1,77.81,10,4.43,Debit Card,2024-11-11,14,3.0,Very Satisfied,77.81,7.781000000000001,74.459
+ORD00170,CUST0002,David Brown,38.0,Female,Dallas,FL,Food,Sofa,5,336.22,0,0.7,Debit Card,2024-01-24,3,5.0,Very Satisfied,1681.1000000000001,0.0,1681.8000000000002
+ORD00171,CUST0130,Robert Garcia,36.0,Female,Phoenix,FL,Home & Garden,Lamp,4,267.09,25,8.18,Debit Card,2024-09-27,5,5.0,Dissatisfied,1068.36,267.09,809.4499999999999
+ORD00172,CUST0220,Tom Martinez,46.0,Female,Los Angeles,NY,Electronics,Basketball,1,323.29,10,5.78,Cash,2024-04-04,5,5.0,Neutral,323.29,32.329,296.741
+ORD00173,CUST0054,James Harris,42.0,Male,San Diego,CA,Sports,Laptop,4,9606.075500531428,0,16.18,Cash,2024-05-21,1,4.0,Neutral,702.48,0.0,718.66
+ORD00174,CUST0224,Emily Davis,50.0,female,Los Angeles,WA,Food,Chocolate,4,454.36,0,16.01,PayPal,2024-06-30,14,4.0,Satisfied,1817.44,0.0,1833.45
+ORD00175,CUST0225,Robert Garcia,66.0,Male,Chicago,GA,Electronics,Sofa,5,297.81,10,9.14,PayPal,2024-07-24,8,5.0,Neutral,1489.05,148.905,1349.285
+ORD00176,CUST0126,Lisa Anderson,49.0,Other,San Jose,CA,Sports,Lamp,4,51.85,0,12.13,Credit Card,2024-03-21,5,4.0,Very Dissatisfied,207.4,0.0,219.53
+ORD00177,CUST0130,Jane Doe,66.0,Female,New York,PA,Clothing,Sofa,2,230.4,0,12.09,PayPal,2024-09-30,5,4.0,Neutral,460.8,0.0,472.89
+ORD00178,CUST0053,Jennifer Lee,52.0,Male,Los Angeles,NY,Electronics,T-Shirt,4,380.61,5,16.54,PayPal,2024-10-02,9,5.0,Very Satisfied,1522.44,76.122,1462.858
+ORD00179,CUST0172,William Moore,61.0,male,San Antonio,IL,Clothing,Laptop,5,399.13,0,8.5,Debit Card,2024-07-26,8,3.0,Satisfied,1995.65,0.0,2004.15
+ORD00180,CUST0218,Tom Martinez,55.0,Male,San Jose,CA,Electronics,Doll,5,252.35,5,5.51,Debit Card,2024-10-22,13,5.0,Satisfied,1261.75,63.087500000000006,1204.1725
+ORD00181,CUST0160,David Brown,43.0,Female,Los Angeles,IL,Home & Garden,Cookbook,5,448.43,0,5.3,Debit Card,2024-02-08,1,5.0,Satisfied,2242.15,0.0,2247.4500000000003
+ORD00182,CUST0198,Chris Wilson,28.0,Male,Philadelphia,AZ,Books,T-Shirt,1,141.16,0,10.72,Debit Card,2024-10-14,3,5.0,Satisfied,141.16,0.0,151.88
+ORD00183,CUST0247,Amy Taylor,52.0,Male,Chicago,GA,Toys,Lamp,2,211.19,10,8.98,Debit Card,2024-05-03,12,4.0,Dissatisfied,422.38,42.238,389.122
+ORD00184,CUST0203,William Moore,25.0,Female,Houston,PA,Food,Lamp,1,450.31,5,8.8,Credit Card,2024-12-29,7,4.0,Neutral,450.31,22.515500000000003,436.5945
+ORD00185,CUST0184,John Smith,63.0,Male,San Diego,WA,Toys,Smartphone,3,449.17,0,1.82,Credit Card,2024-10-09,1,4.0,Very Satisfied,1347.51,0.0,1349.33
+ORD00186,CUST0123,Amy Taylor,31.0,Female,Chicago,GA,Toys,Laptop,2,346.0,0,14.37,Credit Card,2024-06-28,1,5.0,Very Satisfied,692.0,0.0,706.37
+ORD00187,CUST0255,David Brown,27.0,Male,San Jose,TX,Clothing,Novel,4,430.9,5,4.27,Debit Card,2024-04-06,5,3.0,Satisfied,1723.6,86.18,1641.6899999999998
+ORD00188,CUST0294,Jennifer Lee,19.0,Female,Philadelphia,FL,Beauty,Novel,5,53.5,0,3.94,Cash,2024-07-09,9,,Very Satisfied,267.5,0.0,271.44
+ORD00189,CUST0280,Jessica White,63.0,Female,New York,PA,Sports,Lamp,3,433.85,0,8.26,Debit Card,2024-03-14,6,5.0,Very Satisfied,1301.5500000000002,0.0,1309.8100000000002
+ORD00190,CUST0098,Amy Taylor,26.0,Female,San Antonio,CA,Toys,Chocolate,2,167.1,0,4.56,Debit Card,2024-09-29,10,5.0,Satisfied,334.2,0.0,338.76
+ORD00191,CUST0198,Jessica White,20.0,Male,San Diego,GA,Home & Garden,Coffee,1,97.38,15,11.68,Credit Card,2024-02-18,2,4.0,Satisfied,97.38,14.607,94.453
+ORD00192,CUST0240,Jane Doe,38.0,Male,San Diego,OH,Toys,Coffee,5,127.29,10,7.43,Debit Card,2024-12-02,11,4.0,Very Dissatisfied,636.45,63.64500000000001,580.235
+ORD00193,CUST0144,Jennifer Lee,43.0,Male,Chicago,FL,Electronics,Coffee,1,214.8,10,8.98,Credit Card,2024-07-28,9,5.0,Very Satisfied,214.8,21.480000000000004,202.29999999999998
+ORD00194,CUST0097,Emily Davis,25.0,female,San Jose,FL,Clothing,Coffee,2,133.08,10,10.74,Debit Card,2024-04-25,6,3.0,Very Satisfied,266.16,26.616000000000003,250.28400000000002
+ORD00195,CUST0201,Robert Garcia,65.0,Female,New York,OH,Beauty,Novel,2,167.08,10,4.07,PayPal,2024-01-23,5,3.0,Very Satisfied,334.16,33.416000000000004,304.814
+ORD00196,CUST0124,John Smith,19.0,Female,Dallas,NY,Electronics,Headphones,3,76.14,5,3.12,Cash,2024-04-07,5,4.0,Satisfied,228.42000000000002,11.421000000000001,220.11900000000003
+ORD00197,CUST0187,Mike Johnson,23.0,Female,Philadelphia,NY,Beauty,Doll,4,155.13,10,17.61,Cash,2024-11-23,12,,Very Satisfied,620.52,62.052,576.078
+ORD00198,CUST0259,David Brown,45.0,Female,Dallas,OH,Electronics,Smartphone,1,290.42,0,8.67,Credit Card,2024-11-08,3,5.0,Satisfied,290.42,0.0,299.09000000000003
+ORD00199,CUST0148,Sarah Williams,46.0,Female,San Antonio,TX,Electronics,Lamp,3,226.51,10,8.24,PayPal,2024-07-08,14,5.0,Very Satisfied,679.53,67.953,619.817
+ORD00200,CUST0252,Mike Johnson,43.0,Female,New York,AZ,Food,Novel,5,179.89,10,0.71,Cash,2024-06-30,6,5.0,Satisfied,899.4499999999999,89.945,810.2149999999999
+ORD00201,CUST0147,Amy Taylor,42.0,Male,New York,OH,Books,Laptop,4,375.76,5,9.96,Credit Card,2024-05-27,13,4.0,Neutral,1503.04,75.152,1437.848
+ORD00202,CUST0148,William Moore,29.0,Female,Philadelphia,AZ,Books,Lipstick,3,447.82,0,11.08,Debit Card,2024-12-07,4,5.0,Very Satisfied,1343.46,0.0,1354.54
+ORD00203,CUST0199,David Brown,22.0,Female,Phoenix,GA,Sports,Basketball,1,380.83,0,11.18,Debit Card,2024-01-23,13,4.0,Satisfied,380.83,0.0,392.01
+ORD00204,CUST0128,Robert Garcia,51.0,Female,Dallas,TX,Clothing,Cookbook,2,172.68,10,14.14,PayPal,2024-04-14,12,5.0,Satisfied,345.36,34.536,324.964
+ORD00205,CUST0039,Lisa Anderson,65.0,Male,Los Angeles,PA,Home & Garden,Coffee,5,374.78,10,3.55,Cash,2024-06-11,10,4.0,Neutral,1873.8999999999999,187.39,1690.0599999999997
+ORD00206,CUST0129,Robert Garcia,54.0,Male,San Diego,AZ,Home & Garden,Shampoo,1,84.47,15,5.04,Debit Card,2024-03-07,14,4.0,Satisfied,84.47,12.670499999999999,76.8395
+ORD00207,CUST0267,Sarah Williams,32.0,Male,Phoenix,FL,Home & Garden,Coffee,4,73.86,0,16.21,Credit Card,2024-10-16,2,4.0,Satisfied,295.44,0.0,311.65
+ORD00208,CUST0151,John Smith,61.0,Female,Los Angeles,GA,Food,Doll,4,179.36,10,18.94,Debit Card,2024-10-15,13,4.0,Neutral,717.44,71.74400000000001,664.6360000000001
+ORD00209,CUST0298,Robert Garcia,53.0,Female,San Jose,FL,Electronics,T-Shirt,2,405.77,5,2.72,Debit Card,2024-02-15,3,5.0,Satisfied,811.54,40.577,773.683
+ORD00210,CUST0099,Chris Wilson,32.0,Male,Philadelphia,TX,Books,Chocolate,2,130.71,15,9.95,Cash,2024-03-21,9,4.0,Satisfied,261.42,39.213,232.157
+ORD00211,CUST0263,Lisa Anderson,60.0,Other,San Jose,AZ,Clothing,Lipstick,5,40.99,5,4.28,Cash,2024-05-26,11,4.0,Very Satisfied,204.95000000000002,10.247500000000002,198.98250000000002
+ORD00212,CUST0252,Mike Johnson,65.0,Male,San Diego,IL,Electronics,Chocolate,5,74.54,5,1.2,Credit Card,2024-08-09,11,4.0,Neutral,372.70000000000005,18.635,355.26500000000004
+ORD00213,CUST0144,Emily Davis,40.0,Male,Houston,TX,Beauty,T-Shirt,2,430.79,5,6.51,PayPal,2024-12-08,9,5.0,Dissatisfied,861.58,43.07900000000001,825.011
+ORD00214,CUST0112,Jane Doe,23.0,Male,Los Angeles,TX,Books,Headphones,2,320.55,10,2.87,PayPal,2024-01-15,6,3.0,Very Dissatisfied,641.1,64.11,579.86
+ORD00215,CUST0060,Chris Wilson,63.0,Female,Phoenix,IL,Books,Sofa,4,134.07,25,14.2,Debit Card,2024-04-30,10,5.0,Dissatisfied,536.28,134.07,416.40999999999997
+ORD00216,CUST0002,James Harris,67.0,Female,Los Angeles,GA,Toys,Laptop,2,282.09,0,10.67,Credit Card,2024-03-18,10,4.0,Neutral,564.18,0.0,574.8499999999999
+ORD00217,CUST0254,Lisa Anderson,61.0,Male,Los Angeles,AZ,Toys,Sofa,3,268.51,0,2.88,PayPal,2024-11-17,14,4.0,Satisfied,805.53,0.0,808.41
+ORD00218,CUST0140,Emily Davis,60.0,Female,Philadelphia,AZ,Food,Smartphone,1,331.16,20,0.18,PayPal,2024-10-21,9,4.0,Neutral,331.16,66.23200000000001,265.108
+ORD00219,CUST0037,Emily Davis,62.0,Male,San Jose,FL,Clothing,Cookbook,2,124.26,5,16.16,Debit Card,2024-08-28,4,5.0,Satisfied,248.52,12.426000000000002,252.254
+ORD00220,CUST0160,David Brown,38.0,Female,,TX,Beauty,Smartphone,5,433.56,10,3.52,Credit Card,2024-01-18,11,5.0,Satisfied,2167.8,216.78000000000003,1954.5400000000002
+ORD00221,CUST0009,Lisa Anderson,40.0,Female,Houston,TX,Clothing,Lamp,3,161.59,5,12.12,PayPal,2024-09-12,5,4.0,Very Satisfied,484.77,24.238500000000002,472.6515
+ORD00222,CUST0233,John Smith,60.0,Female,Philadelphia,WA,Clothing,Lipstick,5,350.12,0,6.74,Cash,2024-10-03,10,5.0,Very Satisfied,1750.6,0.0,1757.34
+ORD00223,CUST0099,Amy Taylor,33.0,Male,San Antonio,PA,Food,Laptop,3,17.9,10,11.71,Cash,2024-01-27,6,5.0,Neutral,53.699999999999996,5.37,60.04
+ORD00224,CUST0147,Sarah Williams,64.0,Other,Philadelphia,TX,Food,Lipstick,2,192.6,10,6.31,Debit Card,2024-01-02,13,4.0,Satisfied,385.2,38.52,352.99
+ORD00225,CUST0208,James Harris,32.0,Female,San Diego,CA,Electronics,Lamp,1,182.34,0,1.74,Debit Card,2024-12-18,9,5.0,Very Satisfied,182.34,0.0,184.08
+ORD00226,CUST0131,Sarah Williams,42.0,Male,Houston,PA,Sports,Jeans,5,276.31,0,4.46,Debit Card,2024-10-21,13,3.0,Very Satisfied,1381.55,0.0,1386.01
+ORD00227,CUST0152,Mike Johnson,53.0,Female,New York,CA,Food,Novel,3,45.64,15,3.76,Debit Card,2024-11-07,5,5.0,Dissatisfied,136.92000000000002,20.538,120.14200000000002
+ORD00228,CUST0054,Mike Johnson,28.0,Male,San Antonio,AZ,Clothing,T-Shirt,4,397.16,0,8.56,PayPal,2024-12-28,8,4.0,Neutral,1588.64,0.0,1597.2
+ORD00229,CUST0120,Sarah Williams,68.0,Female,Chicago,PA,Toys,Coffee,2,116.71,15,13.17,Credit Card,2024-08-26,11,4.0,Satisfied,233.42,35.013,211.57699999999997
+ORD00230,CUST0161,Robert Garcia,32.0,Male,Philadelphia,TX,Sports,Lipstick,1,341.75,0,5.28,Debit Card,2024-01-13,1,4.0,Satisfied,341.75,0.0,347.03
+ORD00231,CUST0116,John Smith,21.0,Female,Los Angeles,IL,Electronics,Coffee,2,403.57,5,0.24,Debit Card,2024-07-02,5,,Satisfied,807.14,40.357,767.023
+ORD00232,CUST0075,Jessica White,38.0,Female,Dallas,FL,Sports,Basketball,4,285.32,20,10.38,PayPal,2024-07-12,10,5.0,Very Satisfied,1141.28,228.256,923.404
+ORD00233,CUST0113,Robert Garcia,30.0,Male,New York,CA,Home & Garden,Lamp,1,373.03,10,12.12,Debit Card,2024-02-25,1,5.0,Satisfied,373.03,37.303,347.847
+ORD00234,CUST0104,William Moore,39.0,Male,Philadelphia,PA,Beauty,Sofa,4,334.31,5,19.26,Debit Card,2024-08-17,10,3.0,Neutral,1337.24,66.86200000000001,1289.638
+ORD00235,CUST0254,Robert Garcia,36.0,Male,Philadelphia,TX,Sports,Jeans,2,184.21,10,11.79,Credit Card,2024-01-28,14,4.0,Satisfied,368.42,36.842000000000006,343.36800000000005
+ORD00236,CUST0227,Jane Doe,51.0,Male,Phoenix,PA,Clothing,T-Shirt,3,406.34,0,9.42,Cash,2024-11-15,6,4.0,Satisfied,1219.02,0.0,1228.44
+ORD00237,CUST0112,Tom Martinez,31.0,Male,Phoenix,TX,Electronics,Coffee,2,154.4,0,11.47,Debit Card,2024-03-11,7,3.0,Very Satisfied,308.8,0.0,320.27000000000004
+ORD00238,CUST0099,Amy Taylor,21.0,Female,New York,TX,Beauty,Lamp,2,289.89,25,18.56,PayPal,2024-07-28,12,4.0,Satisfied,579.78,144.945,453.395
+ORD00239,CUST0153,Jane Doe,65.0,Male,San Jose,TX,Clothing,Lipstick,2,375.24,10,16.57,Credit Card,2024-07-02,14,5.0,Very Satisfied,750.48,75.048,692.0020000000001
+ORD00240,CUST0194,David Brown,69.0,Male,Phoenix,WA,Beauty,Jeans,5,195.69,10,6.46,PayPal,2024-12-21,5,5.0,Satisfied,978.45,97.84500000000001,887.065
+ORD00241,CUST0163,Tom Martinez,63.0,Female,Los Angeles,FL,Toys,Jeans,4,158.36,0,4.75,Credit Card,2024-02-10,1,4.0,Satisfied,633.44,0.0,638.19
+ORD00242,CUST0208,Tom Martinez,44.0,Male,San Antonio,IL,Home & Garden,Coffee,4,235.08,0,5.25,Credit Card,2024-09-16,6,5.0,Neutral,940.32,0.0,945.57
+ORD00243,CUST0169,Lisa Anderson,46.0,Female,Chicago,IL,Toys,Laptop,4,410.8,0,10.09,Debit Card,2024-12-09,10,5.0,Satisfied,1643.2,0.0,1653.29
+ORD00244,CUST0161,John Smith,64.0,Female,Houston,PA,Clothing,Smartphone,5,465.66,5,14.88,Debit Card,2024-03-24,5,5.0,Very Satisfied,2328.3,116.41500000000002,2226.7650000000003
+ORD00245,CUST0068,John Smith,45.0,Female,Chicago,PA,Clothing,Jeans,3,277.09,10,10.06,Debit Card,2024-02-15,6,5.0,Satisfied,831.27,83.12700000000001,758.203
+ORD00246,CUST0289,Tom Martinez,52.0,Female,Chicago,TX,Clothing,Shampoo,2,334.12,5,1.36,Cash,2024-06-07,11,,Neutral,668.24,33.412,636.188
+ORD00247,CUST0277,William Moore,25.0,Female,Houston,WA,Books,Headphones,3,452.6,15,14.47,Cash,2024-12-09,10,5.0,Very Satisfied,1357.8000000000002,203.67000000000002,1168.6000000000001
+ORD00248,CUST0135,Robert Garcia,33.0,Male,Phoenix,TX,Home & Garden,Chocolate,5,58.29,0,16.12,PayPal,2024-01-07,7,3.0,Satisfied,291.45,0.0,307.57
+ORD00249,CUST0195,Lisa Anderson,59.0,Male,New York,WA,Beauty,Shampoo,4,123.72,0,5.79,Debit Card,2024-11-28,7,4.0,Dissatisfied,494.88,0.0,500.67
+ORD00250,CUST0128,Amy Taylor,53.0,Male,Houston,TX,Food,Smartphone,2,357.36,0,13.28,Cash,2024-05-15,2,,Very Satisfied,714.72,0.0,728.0
+ORD00251,CUST0033,Tom Martinez,47.0,Female,San Diego,CA,Clothing,Chocolate,1,413.63,5,8.53,Debit Card,2024-07-01,12,4.0,Satisfied,413.63,20.6815,401.47849999999994
+ORD00252,CUST0176,Chris Wilson,35.0,Male,San Jose,CA,Clothing,Chocolate,1,429.94,0,17.78,Cash,2024-07-15,3,3.0,Neutral,429.94,0.0,447.72
+ORD00253,CUST0022,Mike Johnson,19.0,Female,San Antonio,AZ,Beauty,T-Shirt,3,213.4,25,16.9,Cash,2024-06-20,12,4.0,Satisfied,640.2,160.05,497.05
+ORD00254,CUST0238,Mike Johnson,66.0,Other,Dallas,TX,Food,T-Shirt,4,53.78,0,10.51,Credit Card,2024-12-14,6,5.0,Neutral,215.12,0.0,225.63
+ORD00255,CUST0158,Jane Doe,30.0,Female,Phoenix,FL,Toys,T-Shirt,1,224.51,20,13.83,Debit Card,2024-10-02,3,,Very Satisfied,224.51,44.902,193.43800000000002
+ORD00256,CUST0038,David Brown,21.0,Female,San Jose,AZ,Toys,T-Shirt,3,123.06,5,17.67,Debit Card,2024-03-18,2,4.0,Very Satisfied,369.18,18.459,368.391
+ORD00257,CUST0230,Jennifer Lee,43.0,Male,Houston,PA,Clothing,Headphones,5,152.69,25,9.91,Cash,2024-06-26,4,4.0,Neutral,763.45,190.8625,582.4975000000001
+ORD00258,CUST0051,Jennifer Lee,42.0,Female,San Diego,GA,Electronics,Shampoo,3,388.41,5,6.27,Debit Card,2024-01-27,5,5.0,Neutral,1165.23,58.261500000000005,1113.2385
+ORD00259,CUST0264,Mike Johnson,47.0,Female,Dallas,TX,Books,Lipstick,3,47.01,20,15.07,Cash,2024-04-29,11,4.0,Very Dissatisfied,141.03,28.206000000000003,127.894
+ORD00260,CUST0283,Jessica White,28.0,Male,San Antonio,CA,Toys,Lamp,3,415.51,0,4.4,Debit Card,2024-10-07,10,3.0,Very Satisfied,1246.53,0.0,1250.93
+ORD00261,CUST0027,Emily Davis,24.0,M,San Antonio,GA,Electronics,Cookbook,2,219.56,10,7.77,Credit Card,2024-11-03,9,5.0,Satisfied,439.12,43.912000000000006,402.97799999999995
+ORD00262,CUST0226,Jane Doe,48.0,Female,Phoenix,WA,Books,Lipstick,3,302.07,20,17.31,Debit Card,2024-07-14,3,4.0,Very Satisfied,906.21,181.24200000000002,742.278
+ORD00263,CUST0277,Jennifer Lee,61.0,Female,Houston,GA,Clothing,Jeans,3,53.93,0,14.49,Credit Card,2024-10-03,3,4.0,Very Satisfied,161.79,0.0,176.28
+ORD00264,CUST0286,Mike Johnson,27.0,Female,San Jose,FL,Home & Garden,T-Shirt,2,175.31,0,8.08,PayPal,2024-01-18,6,5.0,Satisfied,350.62,0.0,358.7
+ORD00265,CUST0097,David Brown,56.0,Female,New York,TX,Sports,Doll,2,53.95,5,4.29,Debit Card,2024-10-21,5,1.0,Satisfied,107.9,5.3950000000000005,106.79500000000002
+ORD00266,CUST0284,Jennifer Lee,30.0,Female,San Jose,IL,Sports,Smartphone,5,481.16,20,7.12,Debit Card,2024-09-27,6,5.0,Very Satisfied,2405.8,481.1600000000001,1931.76
+ORD00267,CUST0147,Robert Garcia,48.0,Female,San Jose,GA,Clothing,Smartphone,4,405.56,5,5.68,Debit Card,2024-02-22,7,4.0,Very Satisfied,1622.24,81.11200000000001,1546.808
+ORD00268,CUST0004,Robert Garcia,24.0,F,San Antonio,IL,Toys,Jeans,1,235.22,5,3.52,Credit Card,2024-10-20,11,4.0,Satisfied,235.22,11.761000000000001,226.979
+ORD00269,CUST0035,John Smith,66.0,Male,New York,WA,Electronics,Lamp,1,119.57,0,14.87,Debit Card,2024-02-21,3,3.0,,119.57,0.0,134.44
+ORD00270,CUST0192,William Moore,59.0,Male,,AZ,Home & Garden,Basketball,3,467.39,0,5.04,Debit Card,2024-08-03,13,4.0,Neutral,1402.17,0.0,1407.21
+ORD00271,CUST0049,John Smith,100.0,Female,Phoenix,IL,Beauty,Basketball,5,178.85,15,9.08,Cash,2024-03-12,5,5.0,Very Satisfied,894.25,134.1375,769.1925
+ORD00272,CUST0017,Amy Taylor,53.0,Female,Dallas,AZ,Books,Cookbook,3,88.88,0,7.72,PayPal,2024-01-28,8,5.0,Dissatisfied,266.64,0.0,274.36
+ORD00273,CUST0172,Tom Martinez,37.0,Female,Philadelphia,CA,Clothing,Shampoo,1,,10,19.64,Credit Card,2024-09-08,4,5.0,Satisfied,285.95,28.595,276.995
+ORD00274,CUST0220,Chris Wilson,21.0,Male,Chicago,TX,Home & Garden,Lamp,2,472.45,20,7.82,Cash,2024-02-04,10,4.0,Dissatisfied,944.9,188.98000000000002,763.74
+ORD00275,CUST0158,John Smith,24.0,Female,Chicago,GA,Food,Jeans,4,11.88,0,1.6,Credit Card,2024-07-19,2,5.0,Very Satisfied,47.52,0.0,49.120000000000005
+ORD00276,CUST0046,James Harris,18.0,Female,San Antonio,CA,Home & Garden,Basketball,5,126.68,10,1.8,Cash,2024-09-05,4,4.0,Satisfied,633.4000000000001,63.34000000000001,571.86
+ORD00277,CUST0006,Jennifer Lee,61.0,Female,Philadelphia,CA,Toys,Basketball,2,469.84,0,11.82,PayPal,2024-04-08,2,5.0,Dissatisfied,939.68,0.0,951.5
+ORD00278,CUST0099,Jessica White,62.0,Female,Dallas,OH,Food,Basketball,4,93.83,10,11.99,Cash,2024-11-03,3,5.0,Very Satisfied,375.32,37.532000000000004,349.778
+ORD00279,CUST0233,Lisa Anderson,59.0,Male,Philadelphia,NY,Books,Sofa,5,65.49,0,8.38,Credit Card,2024-05-19,4,4.0,Dissatisfied,327.45,0.0,335.83
+ORD00280,CUST0037,Mike Johnson,64.0,Female,Phoenix,FL,Food,Doll,5,289.39,10,8.64,Debit Card,2024-03-23,4,4.0,Neutral,1446.9499999999998,144.695,1310.895
+ORD00281,CUST0280,Lisa Anderson,30.0,Male,San Jose,AZ,Home & Garden,Lipstick,1,432.3,0,1.08,Debit Card,2024-02-17,10,4.0,,432.3,0.0,433.38
+ORD00282,CUST0181,James Harris,39.0,Male,San Antonio,OH,Toys,Headphones,2,243.78,5,10.33,PayPal,2024-10-04,9,5.0,Very Satisfied,487.56,24.378,473.512
+ORD00283,CUST0095,David Brown,38.0,Female,New York,NY,Food,Jeans,5,497.34,5,10.09,Credit Card,2024-09-04,10,,Very Satisfied,2486.7,124.335,2372.455
+ORD00284,CUST0099,John Smith,39.0,Female,San Antonio,FL,Electronics,Novel,5,342.79,0,2.99,Credit Card,2024-06-25,6,4.0,Very Satisfied,1713.95,0.0,1716.94
+ORD00285,CUST0188,Chris Wilson,,Female,Chicago,AZ,Toys,Laptop,4,46.3,10,2.08,Credit Card,2024-02-21,9,3.0,Very Dissatisfied,185.2,18.52,168.76
+ORD00286,CUST0116,David Brown,26.0,Female,Dallas,TX,Electronics,Lipstick,1,496.49,0,2.47,PayPal,2024-03-19,4,3.0,Very Satisfied,496.49,0.0,498.96000000000004
+ORD00287,CUST0191,Emily Davis,43.0,Female,Philadelphia,FL,Electronics,Laptop,3,209.87,10,2.02,Debit Card,2024-11-17,9,5.0,Satisfied,629.61,62.961000000000006,568.669
+ORD00288,CUST0253,Emily Davis,26.0,Female,Dallas,GA,Food,Lamp,1,150.83,0,12.19,Cash,2024-03-04,11,4.0,Satisfied,150.83,0.0,163.02
+ORD00289,CUST0161,Lisa Anderson,32.0,Female,Phoenix,CA,Food,Chocolate,3,283.36,10,3.93,PayPal,2024-01-08,13,4.0,Satisfied,850.08,85.00800000000001,769.002
+ORD00290,CUST0256,Tom Martinez,27.0,Male,San Antonio,NY,Beauty,Jeans,2,159.11,0,5.03,Cash,2024-08-01,9,4.0,Very Satisfied,318.22,0.0,323.25
+ORD00291,CUST0128,Jane Doe,41.0,Male,Houston,NY,Beauty,Chocolate,2,52.36,5,3.47,Debit Card,2024-01-25,6,5.0,Satisfied,104.72,5.236000000000001,102.954
+ORD00292,CUST0018,Tom Martinez,59.0,Male,San Antonio,NY,Home & Garden,Jeans,5,10.7,0,19.16,PayPal,2024-09-12,5,4.0,Neutral,53.5,0.0,72.66
+ORD00293,CUST0281,Jennifer Lee,25.0,Male,New York,AZ,Toys,Laptop,2,230.3,10,17.09,Debit Card,2024-08-30,3,5.0,Very Satisfied,460.6,46.06,431.63
+ORD00294,CUST0223,James Harris,41.0,Male,San Antonio,GA,Beauty,Cookbook,5,420.06,0,4.61,Cash,2024-07-16,14,4.0,Dissatisfied,2100.3,0.0,2104.9100000000003
+ORD00295,CUST0054,Robert Garcia,33.0,Male,San Diego,FL,Electronics,Laptop,1,290.43,15,6.55,Credit Card,2024-04-03,5,4.0,Neutral,290.43,43.5645,253.4155
+ORD00296,CUST0058,Amy Taylor,66.0,Male,Phoenix,,Beauty,Jeans,2,499.61,15,4.2,Credit Card,2024-07-25,3,3.0,Satisfied,999.22,149.883,853.537
+ORD00297,CUST0174,Tom Martinez,43.0,female,Los Angeles,GA,Books,Basketball,1,150.55,0,9.84,Cash,2024-01-15,5,3.0,Satisfied,150.55,0.0,160.39000000000001
+ORD00298,CUST0280,William Moore,44.0,Male,Phoenix,OH,Home & Garden,Cookbook,1,147.42,10,0.39,Credit Card,2024-06-26,5,4.0,Very Satisfied,147.42,14.741999999999999,133.06799999999998
+ORD00299,CUST0114,Amy Taylor,54.0,Female,Philadelphia,TX,Toys,Chocolate,2,88.28,0,13.43,Cash,2024-03-15,2,4.0,Satisfied,176.56,0.0,189.99
+ORD00300,CUST0288,James Harris,21.0,Male,Los Angeles,IL,Toys,Coffee,1,90.39,0,10.46,PayPal,2024-04-13,14,5.0,Neutral,90.39,0.0,100.85
+ORD00301,CUST0151,Amy Taylor,67.0,Female,Philadelphia,,Sports,T-Shirt,2,149.74,10,17.97,PayPal,2024-10-20,14,2.0,Very Satisfied,299.48,29.948000000000004,287.50200000000007
+ORD00302,CUST0127,Chris Wilson,41.0,Male,Philadelphia,OH,Toys,Shampoo,2,398.49,10,3.29,PayPal,2024-06-16,9,3.0,Satisfied,796.98,79.69800000000001,720.572
+ORD00303,CUST0155,John Smith,36.0,Male,New York,CA,Home & Garden,Novel,2,453.82,10,16.08,Credit Card,2024-04-24,7,5.0,Very Satisfied,907.64,90.76400000000001,832.956
+ORD00304,CUST0273,Chris Wilson,53.0,Female,New York,IL,Books,Sofa,3,487.79,0,15.84,Debit Card,2024-02-08,14,5.0,Neutral,1463.3700000000001,0.0,1479.21
+ORD00305,CUST0104,Amy Taylor,56.0,Male,San Jose,IL,Toys,Doll,1,123.82,0,2.54,Credit Card,2024-12-29,6,5.0,Satisfied,123.82,0.0,126.36
+ORD00306,CUST0299,David Brown,27.0,Male,Chicago,GA,Sports,Coffee,4,441.84,0,7.97,Credit Card,2024-09-29,5,5.0,Satisfied,1767.36,0.0,1775.33
+ORD00307,CUST0246,Emily Davis,42.0,Male,San Jose,NY,Home & Garden,Headphones,2,170.84,10,3.4,Debit Card,2024-05-14,4,4.0,Very Satisfied,341.68,34.168,310.912
+ORD00308,CUST0176,Amy Taylor,35.0,Male,San Jose,PA,Electronics,T-Shirt,1,65.29,5,5.09,Debit Card,2024-08-19,8,5.0,,65.29,3.2645000000000004,67.11550000000001
+ORD00309,CUST0039,Chris Wilson,36.0,Male,Chicago,CA,Clothing,Smartphone,5,436.31,10,5.26,Debit Card,2024-02-08,2,4.0,Very Satisfied,2181.55,218.15500000000003,1968.6550000000002
+ORD00310,CUST0170,Jessica White,53.0,Male,Houston,NY,Clothing,Laptop,2,321.69,0,11.12,Debit Card,2024-10-17,8,4.0,Satisfied,643.38,0.0,654.5
+ORD00311,CUST0247,James Harris,27.0,Female,Los Angeles,CA,Electronics,Shampoo,2,90.72,0,8.23,Credit Card,2024-11-02,1,4.0,Satisfied,181.44,0.0,189.67
+ORD00312,CUST0026,David Brown,50.0,Female,Dallas,PA,Beauty,Chocolate,4,220.62,0,18.95,Cash,2024-02-16,10,4.0,Neutral,882.48,0.0,901.4300000000001
+ORD00313,CUST0013,Chris Wilson,67.0,Female,San Jose,TX,Toys,Novel,3,150.76,0,2.53,PayPal,2024-02-05,1,4.0,Very Satisfied,452.28,0.0,454.80999999999995
+ORD00314,CUST0036,Tom Martinez,22.0,Male,San Antonio,PA,Food,Laptop,3,371.03,0,19.47,Cash,2024-11-15,3,4.0,Neutral,1113.09,0.0,1132.56
+ORD00315,CUST0173,Mike Johnson,64.0,Female,San Antonio,WA,Clothing,Chocolate,2,232.17,15,4.61,Credit Card,2024-04-04,5,4.0,Satisfied,464.34,69.651,399.299
+ORD00316,CUST0020,Lisa Anderson,66.0,Male,Philadelphia,GA,Beauty,Shampoo,1,494.75,15,15.46,Debit Card,2024-12-26,14,3.0,Satisfied,494.75,74.21249999999999,435.9975
+ORD00317,CUST0264,Jane Doe,52.0,Male,Chicago,GA,Clothing,Doll,5,36.83,5,6.78,PayPal,2024-01-13,6,3.0,Neutral,184.14999999999998,9.2075,181.72249999999997
+ORD00318,CUST0142,Robert Garcia,61.0,Female,Philadelphia,OH,Electronics,Laptop,5,183.96,5,2.86,PayPal,2024-05-25,4,2.0,Neutral,919.8000000000001,45.99000000000001,876.6700000000001
+ORD00319,CUST0143,Chris Wilson,51.0,Male,San Diego,NY,Toys,T-Shirt,1,246.13,0,17.16,Cash,2024-03-05,7,3.0,Neutral,246.13,0.0,263.29
+ORD00320,CUST0092,William Moore,50.0,Male,San Diego,OH,Toys,Basketball,2,256.54,15,6.18,Credit Card,2024-08-15,7,4.0,Dissatisfied,513.08,76.962,442.29800000000006
+ORD00321,CUST0288,Jane Doe,38.0,Female,Dallas,WA,Beauty,Lipstick,5,164.81,0,13.18,Credit Card,2024-08-29,2,5.0,Very Satisfied,824.05,0.0,837.2299999999999
+ORD00322,CUST0215,James Harris,34.0,Female,New York,PA,Electronics,Basketball,3,367.33,20,11.33,Credit Card,2024-01-08,2,3.0,Dissatisfied,1101.99,220.39800000000002,892.922
+ORD00323,CUST0051,Jessica White,39.0,Female,New York,GA,Beauty,Coffee,1,438.63,5,9.44,PayPal,2024-10-30,2,5.0,Very Satisfied,438.63,21.9315,426.13849999999996
+ORD00324,CUST0153,Sarah Williams,65.0,Female,Chicago,AZ,Toys,Sofa,4,469.97,0,9.92,Cash,2024-12-06,14,5.0,Neutral,1879.88,0.0,1889.8000000000002
+ORD00325,CUST0186,Chris Wilson,54.0,Other,Chicago,PA,Food,Cookbook,2,404.5,20,14.64,PayPal,2024-02-12,2,4.0,Satisfied,809.0,161.8,661.84
+ORD00326,CUST0063,Mike Johnson,32.0,Male,San Jose,PA,Toys,Laptop,1,426.78,0,1.76,PayPal,2024-08-31,13,5.0,Satisfied,426.78,0.0,428.53999999999996
+ORD00327,CUST0190,Jane Doe,52.0,Male,San Diego,WA,Home & Garden,Lamp,5,279.77,5,13.36,Debit Card,2024-06-29,9,4.0,Very Satisfied,1398.85,69.9425,1342.2674999999997
+ORD00328,CUST0125,Robert Garcia,45.0,Male,San Jose,TX,Food,Basketball,2,414.69,5,17.92,Cash,2024-03-25,14,2.0,Satisfied,829.38,41.469,805.8309999999999
+ORD00329,CUST0150,Amy Taylor,24.0,Male,New York,CA,Beauty,Doll,3,158.72,0,1.16,Debit Card,2024-06-03,5,5.0,Very Satisfied,476.15999999999997,0.0,477.32
+ORD00330,CUST0058,Chris Wilson,49.0,Male,Los Angeles,WA,Home & Garden,Jeans,2,205.25,5,2.81,Credit Card,2024-10-01,11,3.0,Satisfied,410.5,20.525000000000002,392.785
+ORD00331,CUST0180,John Smith,28.0,M,Los Angeles,CA,Electronics,Lipstick,2,165.29,10,14.33,PayPal,2024-01-23,8,5.0,Very Satisfied,330.58,33.058,311.852
+ORD00332,CUST0170,Jessica White,27.0,Female,Chicago,GA,Books,Coffee,3,239.02,10,8.75,Cash,2024-04-24,5,5.0,Satisfied,717.0600000000001,71.706,654.104
+ORD00333,CUST0271,James Harris,26.0,Female,Philadelphia,WA,Clothing,Novel,3,149.93,0,8.07,Credit Card,2024-11-01,13,4.0,Very Satisfied,449.79,0.0,457.86
+ORD00334,CUST0054,Lisa Anderson,31.0,Male,New York,CA,Home & Garden,Chocolate,2,481.19,20,2.74,Cash,2024-10-25,11,4.0,Very Satisfied,962.38,192.476,772.644
+ORD00335,CUST0101,Mike Johnson,30.0,Female,Los Angeles,OH,Clothing,Lamp,3,163.29,0,10.14,PayPal,2024-04-08,5,4.0,Very Satisfied,489.87,0.0,500.01
+ORD00336,CUST0264,Jennifer Lee,42.0,Female,New York,WA,Sports,T-Shirt,1,58.04,0,2.53,Cash,2024-04-13,1,2.0,Satisfied,58.04,0.0,60.57
+ORD00337,CUST0053,Jennifer Lee,19.0,Female,Phoenix,GA,Electronics,T-Shirt,3,268.14,0,9.53,Credit Card,2024-02-20,6,4.0,Neutral,804.42,0.0,813.9499999999999
+ORD00338,CUST0060,William Moore,52.0,Male,San Antonio,WA,Books,Sofa,3,37.98,0,15.27,Debit Card,2024-12-27,4,5.0,Dissatisfied,113.94,0.0,129.21
+ORD00339,CUST0108,Jane Doe,24.0,Female,San Diego,GA,Sports,Sofa,2,64.17,0,5.17,PayPal,2024-04-21,3,4.0,Very Satisfied,128.34,0.0,133.51
+ORD00340,CUST0005,Mike Johnson,38.0,Male,San Jose,WA,Sports,Cookbook,1,117.5,25,9.62,Debit Card,2024-08-31,6,4.0,Satisfied,117.5,29.375,97.745
+ORD00341,CUST0103,David Brown,35.0,female,New York,CA,Toys,Lipstick,4,237.53,0,19.84,PayPal,2024-06-17,2,4.0,Neutral,950.12,0.0,969.96
+ORD00342,CUST0196,Robert Garcia,20.0,Male,San Antonio,TX,Sports,Jeans,4,,0,13.73,Credit Card,2024-03-12,8,5.0,Satisfied,889.16,0.0,902.89
+ORD00343,CUST0262,Lisa Anderson,59.0,Female,Phoenix,FL,Electronics,Novel,5,401.85,0,16.83,PayPal,2024-05-18,1,4.0,Neutral,2009.25,0.0,2026.08
+ORD00344,CUST0047,Amy Taylor,56.0,Female,San Jose,CA,Home & Garden,Jeans,3,372.34,10,8.3,Debit Card,2024-12-01,12,4.0,Very Satisfied,1117.02,111.702,1013.6179999999999
+ORD00345,CUST0144,Chris Wilson,58.0,Male,New York,NY,Electronics,Smartphone,3,218.9,15,15.36,PayPal,2024-08-18,9,,Satisfied,656.7,98.50500000000001,573.5550000000001
+ORD00346,CUST0269,Chris Wilson,66.0,Male,Chicago,IL,Home & Garden,Coffee,1,173.52,0,0.81,Credit Card,2024-08-26,8,4.0,Satisfied,173.52,0.0,174.33
+ORD00347,CUST0124,Jennifer Lee,28.0,Male,San Antonio,TX,Sports,Sofa,4,165.07,0,2.46,PayPal,2024-09-09,1,4.0,Very Satisfied,660.28,0.0,662.74
+ORD00348,CUST0106,Chris Wilson,56.0,Male,San Jose,OH,Sports,Cookbook,5,389.26,0,4.06,Debit Card,2024-02-18,10,5.0,Satisfied,1946.3,0.0,1950.36
+ORD00349,CUST0158,James Harris,41.0,Male,New York,PA,Food,Shampoo,1,35.52,0,8.04,Credit Card,2024-10-29,12,5.0,Satisfied,35.52,0.0,43.56
+ORD00350,CUST0147,Lisa Anderson,150.0,Male,San Antonio,CA,Books,Headphones,3,16.28,0,16.91,Debit Card,2024-03-12,9,4.0,Very Satisfied,48.84,0.0,65.75
+ORD00351,CUST0145,John Smith,36.0,Female,Phoenix,WA,Home & Garden,Laptop,4,399.82,5,6.93,PayPal,2024-09-19,2,3.0,Satisfied,1599.28,79.964,1526.246
+ORD00352,CUST0120,Sarah Williams,21.0,Male,New York,CA,Sports,Laptop,5,243.8,0,13.09,Cash,2024-11-17,3,5.0,Neutral,1219.0,0.0,1232.09
+ORD00353,CUST0275,William Moore,43.0,Male,New York,AZ,Toys,Shampoo,2,74.13,5,14.19,Debit Card,2024-08-09,2,4.0,Neutral,148.26,7.413,155.03699999999998
+ORD00354,CUST0092,Emily Davis,55.0,Male,New York,TX,Food,Headphones,4,125.43,0,11.72,PayPal,2024-03-17,13,5.0,Satisfied,501.72,0.0,513.44
+ORD00355,CUST0058,Tom Martinez,59.0,Female,Dallas,FL,Clothing,Basketball,5,466.93,20,7.14,Cash,2024-03-02,14,3.0,Satisfied,2334.65,466.93000000000006,1874.8600000000001
+ORD00356,CUST0229,William Moore,49.0,Female,Chicago,OH,Food,Jeans,1,431.16,20,11.54,Cash,2024-06-05,8,4.0,Satisfied,431.16,86.23200000000001,356.468
+ORD00357,CUST0117,Jane Doe,56.0,Female,Phoenix,AZ,Books,Headphones,2,357.79,5,6.85,Credit Card,2024-10-20,2,2.0,Satisfied,715.58,35.779,686.6510000000001
+ORD00358,CUST0279,John Smith,62.0,Male,San Jose,GA,Electronics,Cookbook,5,246.29,0,1.68,Cash,2024-05-04,10,5.0,Very Satisfied,1231.45,0.0,1233.13
+ORD00359,CUST0127,William Moore,63.0,Female,Dallas,AZ,Books,Novel,5,264.96,0,19.86,Debit Card,2024-08-16,2,5.0,Satisfied,1324.8,0.0,1344.6599999999999
+ORD00360,CUST0129,Amy Taylor,53.0,Male,Philadelphia,CA,Clothing,Headphones,3,487.87,5,2.54,Debit Card,2024-12-05,1,5.0,Satisfied,1463.6100000000001,73.18050000000001,1392.9695000000002
+ORD00361,CUST0058,Jennifer Lee,57.0,Female,Dallas,OH,Food,Cookbook,4,483.23,10,1.45,Cash,2024-06-09,7,5.0,Satisfied,1932.92,193.29200000000003,1741.0780000000002
+ORD00362,CUST0122,Jessica White,54.0,Female,San Diego,CA,Home & Garden,Coffee,3,115.48,5,17.57,PayPal,2024-01-29,12,3.0,Very Dissatisfied,346.44,17.322,346.688
+ORD00363,CUST0001,Jane Doe,50.0,Female,San Diego,GA,Electronics,Shampoo,2,407.44,15,6.04,Debit Card,2024-04-23,2,3.0,Neutral,814.88,122.232,698.688
+ORD00364,CUST0239,Chris Wilson,53.0,Female,New York,PA,Electronics,Sofa,5,106.65,20,13.01,Debit Card,2024-03-19,10,5.0,Very Satisfied,533.25,106.65,439.61
+ORD00365,CUST0290,Mike Johnson,20.0,Female,Dallas,OH,Home & Garden,Shampoo,3,114.63,0,6.58,Credit Card,2024-01-23,5,5.0,Very Satisfied,343.89,0.0,350.46999999999997
+ORD00366,CUST0096,Amy Taylor,26.0,Male,Philadelphia,PA,Beauty,Lamp,4,341.29,5,7.83,PayPal,2024-04-15,5,5.0,Very Satisfied,1365.16,68.25800000000001,1304.732
+ORD00367,CUST0126,Jane Doe,25.0,Female,Dallas,TX,Beauty,T-Shirt,2,208.45,0,5.24,Cash,2024-05-10,3,5.0,Neutral,416.9,0.0,422.14
+ORD00368,CUST0118,Jessica White,50.0,Male,Chicago,TX,Books,T-Shirt,1,466.46,0,6.86,PayPal,2024-12-22,3,4.0,Neutral,466.46,0.0,473.32
+ORD00369,CUST0048,Robert Garcia,23.0,Female,Chicago,PA,Sports,Lipstick,3,53.61,5,8.21,Credit Card,2024-06-21,13,4.0,,160.82999999999998,8.0415,160.9985
+ORD00370,CUST0089,Chris Wilson,58.0,Male,Philadelphia,TX,Beauty,Shampoo,2,260.65,0,14.41,Credit Card,2024-09-20,12,5.0,Satisfied,521.3,0.0,535.7099999999999
+ORD00371,CUST0237,William Moore,56.0,Male,Dallas,OH,Books,Smartphone,1,460.08,15,10.23,PayPal,2024-12-07,3,4.0,Neutral,460.08,69.012,401.298
+ORD00372,CUST0272,William Moore,21.0,Male,San Antonio,WA,Beauty,Jeans,3,453.02,0,18.87,Credit Card,2024-10-11,6,4.0,Satisfied,1359.06,0.0,1377.9299999999998
+ORD00373,CUST0189,Jane Doe,30.0,Male,Chicago,NY,Clothing,Novel,2,86.7,5,0.84,Credit Card,2024-01-02,14,5.0,Dissatisfied,173.4,8.67,165.57000000000002
+ORD00374,CUST0192,Mike Johnson,66.0,Female,Chicago,TX,Toys,Lamp,2,189.65,10,10.06,Credit Card,2024-08-20,4,4.0,Neutral,379.3,37.93,351.43
+ORD00375,CUST0069,Robert Garcia,19.0,Female,Los Angeles,TX,Sports,Lamp,3,313.37,10,11.68,PayPal,2024-09-07,13,5.0,Satisfied,940.11,94.01100000000001,857.779
+ORD00376,CUST0278,Chris Wilson,22.0,Male,Dallas,CA,Books,Sofa,2,88.1,0,18.4,Credit Card,2024-11-16,3,3.0,Satisfied,176.2,0.0,194.6
+ORD00377,CUST0247,Jessica White,61.0,Male,Chicago,PA,Toys,Headphones,5,484.33,15,0.98,Cash,2024-04-17,2,5.0,Neutral,2421.65,363.2475,2059.3825
+ORD00378,CUST0076,Sarah Williams,44.0,Female,Phoenix,IL,Toys,Jeans,3,458.23,5,11.47,Cash,2024-10-02,13,5.0,Satisfied,1374.69,68.73450000000001,1317.4255
+ORD00379,CUST0154,William Moore,49.0,female,Dallas,FL,Food,Shampoo,2,91.81,5,17.07,Debit Card,2024-06-28,3,5.0,Very Satisfied,183.62,9.181000000000001,191.509
+ORD00380,CUST0144,Jessica White,38.0,Female,San Diego,AZ,Beauty,Laptop,1,69.37,0,4.84,Cash,2024-07-31,4,4.0,Very Satisfied,69.37,0.0,74.21000000000001
+ORD00381,CUST0086,John Smith,25.0,Female,Los Angeles,TX,Food,Lamp,1,51.85,5,17.53,Debit Card,2024-10-19,6,4.0,Satisfied,51.85,2.5925000000000002,66.7875
+ORD00382,CUST0185,William Moore,55.0,Female,Chicago,AZ,Home & Garden,Cookbook,5,455.63,15,0.38,PayPal,2024-03-12,4,4.0,Satisfied,2278.15,341.7225,1936.8075000000001
+ORD00383,CUST0285,Jessica White,25.0,Female,Los Angeles,OH,Clothing,Laptop,3,104.88,10,14.65,Credit Card,2024-10-09,8,4.0,Very Satisfied,314.64,31.464,297.82599999999996
+ORD00384,CUST0220,David Brown,67.0,Male,San Diego,IL,Clothing,Shampoo,2,213.98,15,18.66,Cash,2024-06-23,3,5.0,Very Satisfied,427.96,64.19399999999999,382.426
+ORD00385,CUST0069,Jennifer Lee,20.0,Female,Philadelphia,FL,Clothing,Smartphone,2,229.94,5,13.14,Debit Card,2024-05-02,12,4.0,Very Satisfied,459.88,22.994,450.02599999999995
+ORD00386,CUST0047,Tom Martinez,61.0,Male,Philadelphia,PA,Sports,Headphones,1,303.52,0,8.78,PayPal,2024-08-14,3,3.0,Satisfied,303.52,0.0,312.29999999999995
+ORD00387,CUST0094,Lisa Anderson,20.0,Male,Dallas,NY,Electronics,Headphones,5,45.15,0,0.9,Debit Card,2024-10-27,3,3.0,Very Satisfied,225.75,0.0,226.65
+ORD00388,CUST0238,Jennifer Lee,39.0,Female,San Diego,FL,Sports,Novel,1,121.11,0,18.4,Credit Card,2024-03-23,8,5.0,Very Satisfied,121.11,0.0,139.51
+ORD00389,CUST0204,James Harris,23.0,Male,Houston,FL,Books,Lamp,1,466.43,10,9.41,Cash,2024-09-09,4,2.0,Very Satisfied,466.43,46.643,429.19700000000006
+ORD00390,CUST0218,Tom Martinez,19.0,Female,Houston,NY,Toys,Sofa,5,455.12,10,0.58,PayPal,2024-05-25,1,5.0,Very Satisfied,2275.6,227.56,2048.62
+ORD00391,CUST0039,Amy Taylor,40.0,Female,Dallas,WA,Toys,Coffee,3,392.83,0,13.8,Debit Card,2024-04-29,2,5.0,Neutral,1178.49,0.0,1192.29
+ORD00392,CUST0100,Jessica White,61.0,Female,New York,PA,Food,Basketball,2,19.51,5,9.64,PayPal,2024-03-05,13,5.0,Very Satisfied,39.02,1.9510000000000003,46.709
+ORD00393,CUST0289,Tom Martinez,19.0,Female,Los Angeles,CA,Electronics,Basketball,3,170.23,5,2.49,Debit Card,2024-10-07,14,5.0,Neutral,510.68999999999994,25.534499999999998,487.64549999999997
+ORD00394,CUST0254,James Harris,55.0,Male,Los Angeles,AZ,Books,Doll,4,317.7,5,4.29,Debit Card,2024-10-09,10,3.0,Satisfied,1270.8,63.54,1211.55
+ORD00395,CUST0222,Chris Wilson,34.0,Male,Philadelphia,TX,Electronics,T-Shirt,4,144.84,0,1.29,Credit Card,2024-04-15,13,5.0,Very Dissatisfied,579.36,0.0,580.65
+ORD00396,CUST0023,Sarah Williams,52.0,Female,Houston,FL,Toys,Cookbook,4,455.7,0,11.49,Credit Card,2024-10-26,13,4.0,Very Satisfied,1822.8,0.0,1834.29
+ORD00397,CUST0250,David Brown,51.0,Male,San Jose,OH,Beauty,Laptop,5,320.61,0,12.44,Debit Card,2024-04-16,14,5.0,Very Satisfied,1603.0500000000002,0.0,1615.4900000000002
+ORD00398,CUST0010,John Smith,40.0,Female,Chicago,NY,Sports,Doll,1,45.23,0,10.11,Cash,2024-02-05,2,5.0,Very Satisfied,45.23,0.0,55.339999999999996
+ORD00399,CUST0246,Jessica White,47.0,Female,Chicago,AZ,Clothing,Coffee,3,455.41,0,16.34,PayPal,2024-05-26,14,2.0,Very Satisfied,1366.23,0.0,1382.57
+ORD00400,CUST0100,John Smith,69.0,Female,Chicago,IL,Toys,Smartphone,2,479.31,0,17.22,PayPal,2024-09-18,3,4.0,Neutral,958.62,0.0,975.84
+ORD00401,CUST0290,Mike Johnson,25.0,Male,Philadelphia,NY,Home & Garden,Coffee,4,48.08,10,12.31,Credit Card,2024-06-07,6,4.0,Very Satisfied,192.32,19.232,185.398
+ORD00402,CUST0180,William Moore,39.0,Male,San Diego,IL,Clothing,Chocolate,3,270.86,0,0.26,Cash,2024-09-21,8,5.0,Very Satisfied,812.58,0.0,812.84
+ORD00403,CUST0223,Jessica White,61.0,Male,San Antonio,PA,Toys,T-Shirt,4,158.65,25,13.9,Debit Card,2024-07-20,12,4.0,Dissatisfied,634.6,158.65,489.85
+ORD00404,CUST0250,Lisa Anderson,53.0,Male,Houston,FL,Sports,Headphones,4,202.49,0,8.36,Credit Card,2024-06-03,1,4.0,Satisfied,809.96,0.0,818.32
+ORD00405,CUST0147,Jessica White,22.0,Female,Houston,OH,Electronics,Laptop,2,98.03,0,11.31,Debit Card,2024-01-13,9,4.0,Very Satisfied,196.06,0.0,207.37
+ORD00406,CUST0096,Jane Doe,30.0,Male,San Jose,TX,Beauty,Jeans,5,293.26,0,12.98,Debit Card,2024-10-23,1,4.0,Very Satisfied,1466.3,0.0,1479.28
+ORD00407,CUST0257,Sarah Williams,46.0,Male,Los Angeles,IL,Beauty,Lamp,1,479.41,0,7.0,Credit Card,2024-11-17,10,,Very Satisfied,479.41,0.0,486.41
+ORD00408,CUST0004,Jane Doe,48.0,Male,New York,AZ,Clothing,Smartphone,5,256.51,15,18.34,Cash,2024-03-25,2,5.0,Very Dissatisfied,1282.55,192.3825,1108.5075
+ORD00409,CUST0016,Jessica White,64.0,Female,Dallas,WA,Sports,Jeans,3,50.63,0,2.68,PayPal,2024-10-06,3,4.0,Neutral,151.89000000000001,0.0,154.57000000000002
+ORD00410,CUST0280,David Brown,33.0,Female,Los Angeles,PA,Beauty,Sofa,5,313.8,20,13.43,Credit Card,2024-09-01,7,2.0,Neutral,1569.0,313.8,1268.63
+ORD00411,CUST0247,Tom Martinez,59.0,Male,San Diego,WA,Beauty,Doll,3,176.71,15,0.09,Cash,2024-10-26,9,3.0,Dissatisfied,530.13,79.5195,450.7005
+ORD00412,CUST0258,John Smith,47.0,Male,Dallas,PA,Books,Lamp,3,429.4,5,18.49,Debit Card,2024-12-27,3,4.0,Satisfied,1288.1999999999998,64.41,1242.2799999999997
+ORD00413,CUST0160,David Brown,33.0,Male,Houston,CA,Home & Garden,Laptop,1,222.99,5,2.25,Credit Card,2024-12-19,8,5.0,Very Satisfied,222.99,11.149500000000002,214.09050000000002
+ORD00414,CUST0152,Jessica White,29.0,Male,San Diego,AZ,Clothing,Lamp,2,104.49,10,1.9,PayPal,2024-11-11,9,4.0,Satisfied,208.98,20.898,189.982
+ORD00415,CUST0178,James Harris,34.0,Female,Dallas,WA,Electronics,T-Shirt,1,103.64,0,6.66,PayPal,2024-01-09,10,4.0,Neutral,103.64,0.0,110.3
+ORD00416,CUST0163,Tom Martinez,33.0,Female,San Jose,OH,Beauty,Novel,5,386.69,10,7.47,Debit Card,2024-09-03,7,5.0,Dissatisfied,1933.45,193.34500000000003,1747.575
+ORD00417,CUST0033,James Harris,29.0,Male,San Jose,FL,Books,Shampoo,3,140.14,0,4.29,Credit Card,2024-11-07,4,5.0,Satisfied,420.41999999999996,0.0,424.71
+ORD00418,CUST0179,John Smith,25.0,Male,Phoenix,NY,Sports,T-Shirt,4,385.94,0,11.7,PayPal,2024-10-04,4,4.0,Satisfied,1543.76,0.0,1555.46
+ORD00419,CUST0101,Tom Martinez,37.0,Other,San Antonio,TX,Beauty,Sofa,4,110.88,5,8.86,Credit Card,2024-08-25,4,2.0,Very Dissatisfied,443.52,22.176000000000002,430.204
+ORD00420,CUST0268,Lisa Anderson,20.0,Male,San Jose,FL,Food,Cookbook,3,167.63,5,0.68,PayPal,2024-07-21,6,4.0,Very Satisfied,502.89,25.1445,478.4255
+ORD00421,CUST0065,Sarah Williams,33.0,Female,Houston,FL,Home & Garden,Jeans,1,238.09,15,6.39,Debit Card,2024-09-03,4,5.0,Dissatisfied,238.09,35.713499999999996,208.7665
+ORD00422,CUST0168,Jennifer Lee,47.0,Male,New York,PA,Electronics,Chocolate,2,472.17,0,16.21,Debit Card,2024-08-22,5,,Very Satisfied,944.34,0.0,960.5500000000001
+ORD00423,CUST0043,Robert Garcia,62.0,Female,Chicago,OH,Sports,Lipstick,1,466.55,15,13.79,Credit Card,2024-03-21,9,3.0,Satisfied,466.55,69.9825,410.3575
+ORD00424,CUST0044,Amy Taylor,40.0,Male,Phoenix,PA,Sports,T-Shirt,3,111.37,0,14.5,Cash,2024-12-21,12,2.0,Very Satisfied,334.11,0.0,348.61
+ORD00425,CUST0285,David Brown,45.0,Female,Chicago,GA,Clothing,Novel,3,185.53,0,13.96,Cash,2024-01-13,7,5.0,Satisfied,556.59,0.0,570.5500000000001
+ORD00426,CUST0012,William Moore,68.0,Other,San Antonio,IL,Beauty,Shampoo,2,83.21,0,6.22,Debit Card,2024-11-22,8,5.0,Satisfied,166.42,0.0,172.64
+ORD00427,CUST0095,David Brown,57.0,Male,Dallas,TX,Clothing,Cookbook,5,259.89,5,1.99,PayPal,2024-01-16,5,,Satisfied,1299.4499999999998,64.9725,1236.4674999999997
+ORD00428,CUST0253,Robert Garcia,22.0,Male,Philadelphia,IL,Electronics,T-Shirt,5,235.69,0,5.45,Cash,2024-02-14,5,4.0,Dissatisfied,1178.45,0.0,1183.9
+ORD00429,CUST0242,Jennifer Lee,37.0,Male,San Jose,NY,Food,Headphones,2,451.37,5,16.64,Debit Card,2024-11-16,13,4.0,Neutral,902.74,45.137,874.243
+ORD00430,CUST0035,Emily Davis,,M,New York,GA,Beauty,Novel,5,465.7,15,19.61,PayPal,2024-05-18,11,3.0,Neutral,2328.5,349.275,1998.8349999999998
+ORD00431,CUST0215,Chris Wilson,61.0,Male,San Antonio,AZ,Toys,Chocolate,4,197.95,5,9.88,PayPal,2024-11-21,7,3.0,Very Satisfied,791.8,39.59,762.0899999999999
+ORD00432,CUST0090,Lisa Anderson,18.0,Male,Chicago,NY,Beauty,Jeans,5,250.95,5,0.19,Cash,2024-05-27,11,5.0,Dissatisfied,1254.75,62.737500000000004,1192.2025
+ORD00433,CUST0264,James Harris,47.0,Female,Phoenix,NY,Food,Smartphone,5,449.16,15,2.8,Debit Card,2024-12-20,13,4.0,Very Satisfied,2245.8,336.87,1911.7300000000002
+ORD00434,CUST0093,Jessica White,38.0,Male,San Jose,CA,Toys,Basketball,5,405.29,10,6.44,PayPal,2024-08-23,14,3.0,Very Satisfied,2026.45,202.645,1830.2450000000001
+ORD00435,CUST0090,Lisa Anderson,37.0,Male,Houston,TX,Sports,Cookbook,4,11.79,5,11.57,PayPal,2024-07-09,12,5.0,Very Satisfied,47.16,2.358,56.372
+ORD00436,CUST0115,Robert Garcia,23.0,Female,San Jose,PA,Clothing,Headphones,5,166.83,0,1.5,Credit Card,2024-04-10,8,3.0,Satisfied,834.1500000000001,0.0,835.6500000000001
+ORD00437,CUST0105,Jessica White,39.0,Male,Phoenix,OH,Home & Garden,Lipstick,4,216.67,15,18.87,Credit Card,2024-04-14,9,5.0,Dissatisfied,866.68,130.00199999999998,755.548
+ORD00438,CUST0196,William Moore,35.0,Female,Phoenix,IL,Beauty,Smartphone,2,122.56,5,7.3,Cash,2024-09-06,14,4.0,Very Satisfied,245.12,12.256,240.16400000000002
+ORD00439,CUST0114,Jane Doe,25.0,Male,Philadelphia,NY,Home & Garden,Laptop,1,,0,18.25,Credit Card,2024-04-03,2,5.0,Satisfied,107.79,0.0,126.04
+ORD00440,CUST0075,Tom Martinez,56.0,Female,San Jose,IL,Beauty,Chocolate,2,28.51,0,15.61,Debit Card,2024-08-07,3,3.0,Neutral,57.02,0.0,72.63
+ORD00441,CUST0217,Chris Wilson,49.0,Female,San Jose,IL,Sports,Novel,1,325.25,15,15.11,Cash,2024-10-24,12,5.0,Satisfied,325.25,48.7875,291.5725
+ORD00442,CUST0277,Sarah Williams,50.0,Female,Philadelphia,AZ,Clothing,Doll,2,138.63,0,12.13,Cash,2024-12-04,12,3.0,Neutral,277.26,0.0,289.39
+ORD00443,CUST0249,Sarah Williams,33.0,Other,San Diego,TX,Electronics,Headphones,1,35.65,25,12.54,Credit Card,2024-05-12,2,4.0,Very Satisfied,35.65,8.9125,39.277499999999996
+ORD00444,CUST0164,Robert Garcia,29.0,Male,San Diego,TX,Electronics,Lamp,1,123.18,0,12.76,PayPal,2024-12-26,10,5.0,Neutral,123.18,0.0,135.94
+ORD00445,CUST0192,Lisa Anderson,55.0,Other,Dallas,WA,Electronics,Laptop,3,402.94,10,12.57,Debit Card,2024-06-03,7,3.0,Very Satisfied,1208.82,120.882,1100.5079999999998
+ORD00446,CUST0227,Sarah Williams,69.0,Male,San Diego,FL,Beauty,Laptop,1,427.23,0,11.07,Debit Card,2024-01-28,12,4.0,,427.23,0.0,438.3
+ORD00447,CUST0177,William Moore,51.0,Male,Los Angeles,TX,Beauty,Coffee,1,246.7,5,19.73,Debit Card,2024-10-08,2,5.0,Satisfied,246.7,12.335,254.09499999999997
+ORD00448,CUST0099,James Harris,31.0,Male,San Jose,IL,Home & Garden,Lipstick,3,213.87,15,14.65,Cash,2024-04-25,12,5.0,Neutral,641.61,96.2415,560.0185
+ORD00449,CUST0036,Emily Davis,53.0,Female,New York,PA,Clothing,Cookbook,5,489.15,5,15.54,Debit Card,2024-10-31,14,2.0,Very Satisfied,2445.75,122.28750000000001,2339.0025
+ORD00450,CUST0096,David Brown,50.0,Male,San Jose,IL,Food,Coffee,5,108.28,5,17.45,PayPal,2024-08-21,2,3.0,Very Satisfied,541.4,27.07,531.78
+ORD00451,CUST0152,Mike Johnson,40.0,Female,Los Angeles,PA,Beauty,Lipstick,3,115.53,0,4.31,PayPal,2024-01-01,14,3.0,Very Satisfied,346.59000000000003,0.0,350.90000000000003
+ORD00452,CUST0151,William Moore,67.0,Female,Los Angeles,WA,Clothing,Novel,4,153.01,0,1.68,Credit Card,2024-12-13,14,3.0,Satisfied,612.04,0.0,613.7199999999999
+ORD00453,CUST0190,Jessica White,62.0,Female,Chicago,PA,Home & Garden,Lipstick,1,94.65,0,9.66,Debit Card,2024-08-27,2,,Very Satisfied,94.65,0.0,104.31
+ORD00454,CUST0224,Amy Taylor,19.0,Female,San Jose,TX,Beauty,Shampoo,1,195.89,10,10.28,Cash,2024-02-27,12,5.0,Neutral,195.89,19.589,186.581
+ORD00455,CUST0037,Robert Garcia,58.0,Male,San Antonio,AZ,Electronics,Headphones,3,456.31,0,16.58,Credit Card,2024-11-30,13,4.0,Very Satisfied,1368.93,0.0,1385.51
+ORD00456,CUST0268,Jane Doe,38.0,Male,Los Angeles,PA,Electronics,Sofa,3,311.52,0,8.88,PayPal,2024-07-01,4,,Neutral,934.56,0.0,943.4399999999999
+ORD00457,CUST0183,Tom Martinez,19.0,Male,New York,IL,Sports,Doll,4,211.85,5,11.42,Debit Card,2024-12-02,1,5.0,Very Satisfied,847.4,42.370000000000005,816.4499999999999
+ORD00458,CUST0013,Amy Taylor,44.0,Male,Philadelphia,OH,Toys,Headphones,5,467.86,10,10.54,PayPal,2024-01-26,2,5.0,Very Satisfied,2339.3,233.93000000000004,2115.9100000000003
+ORD00459,CUST0279,Tom Martinez,26.0,Male,Dallas,TX,Books,Shampoo,2,33.75,10,0.76,Credit Card,2024-03-17,3,4.0,Neutral,67.5,6.75,61.51
+ORD00460,CUST0217,John Smith,18.0,Male,Chicago,OH,Food,Lipstick,5,113.04,0,12.3,PayPal,2024-08-04,7,4.0,Neutral,565.2,0.0,577.5
+ORD00461,CUST0286,Amy Taylor,28.0,Male,Philadelphia,GA,Toys,T-Shirt,1,287.29,0,16.56,Debit Card,2024-11-23,10,5.0,Satisfied,287.29,0.0,303.85
+ORD00462,CUST0273,Mike Johnson,20.0,Other,Chicago,GA,Beauty,Laptop,3,311.62,20,3.15,Debit Card,2024-11-20,1,2.0,Very Satisfied,934.86,186.972,751.038
+ORD00463,CUST0062,Lisa Anderson,69.0,Female,New York,IL,Clothing,Jeans,4,29.38,0,11.89,Credit Card,2024-09-18,6,4.0,Satisfied,117.52,0.0,129.41
+ORD00464,CUST0084,Emily Davis,40.0,Male,Phoenix,GA,Beauty,Laptop,5,207.49,15,11.87,Debit Card,2024-01-23,3,3.0,Satisfied,1037.45,155.6175,893.7025
+ORD00465,CUST0217,David Brown,43.0,Female,San Jose,FL,Clothing,Shampoo,4,328.09,15,3.28,PayPal,2024-08-31,3,1.0,Very Satisfied,1312.36,196.85399999999998,1118.7859999999998
+ORD00466,CUST0187,David Brown,21.0,Male,Houston,WA,Clothing,Laptop,5,352.05,10,2.47,PayPal,2024-06-06,4,4.0,Satisfied,1760.25,176.025,1586.695
+ORD00467,CUST0019,Emily Davis,35.0,Male,San Antonio,TX,Toys,Basketball,1,322.69,0,19.6,Cash,2024-07-24,13,5.0,Satisfied,322.69,0.0,342.29
+ORD00468,CUST0177,James Harris,23.0,Female,Philadelphia,OH,Books,Coffee,2,167.08,15,7.87,Cash,2024-11-05,4,4.0,Very Satisfied,334.16,50.124,291.906
+ORD00469,CUST0100,Chris Wilson,52.0,Female,San Jose,IL,Sports,Doll,4,55.82,10,4.55,Cash,2024-03-27,7,4.0,Dissatisfied,223.28,22.328000000000003,205.502
+ORD00470,CUST0233,John Smith,39.0,Male,San Antonio,FL,Toys,Doll,4,219.29,5,3.43,PayPal,2024-09-23,3,5.0,Neutral,877.16,43.858000000000004,836.7319999999999
+ORD00471,CUST0076,Tom Martinez,60.0,Other,Phoenix,IL,Books,Chocolate,2,73.09,0,13.35,PayPal,2024-05-13,8,3.0,Very Satisfied,146.18,0.0,159.53
+ORD00472,CUST0265,Mike Johnson,32.0,Female,Houston,FL,Electronics,Lamp,4,474.34,0,12.19,Credit Card,2024-09-23,8,4.0,Satisfied,1897.36,0.0,1909.55
+ORD00473,CUST0284,Sarah Williams,39.0,Female,San Antonio,GA,Electronics,Lipstick,4,242.83,0,12.87,Cash,2024-11-28,11,5.0,Very Satisfied,971.32,0.0,984.19
+ORD00474,CUST0206,Amy Taylor,54.0,Female,San Antonio,GA,Clothing,Sofa,5,165.46,5,1.76,PayPal,2024-09-24,13,3.0,Neutral,827.3000000000001,41.36500000000001,787.695
+ORD00475,CUST0223,John Smith,69.0,Female,Philadelphia,PA,Home & Garden,Smartphone,5,385.49,5,17.87,Credit Card,2024-02-22,7,5.0,Satisfied,1927.45,96.3725,1848.9475
+ORD00476,CUST0052,William Moore,59.0,Male,San Diego,CA,Beauty,Chocolate,2,253.99,0,7.79,PayPal,2024-04-08,2,5.0,Very Satisfied,507.98,0.0,515.77
+ORD00477,CUST0144,Robert Garcia,29.0,Male,Houston,IL,Beauty,Doll,1,161.92,5,6.27,Credit Card,2024-09-03,5,2.0,Very Satisfied,161.92,8.096,160.094
+ORD00478,CUST0069,Amy Taylor,64.0,Male,San Jose,PA,Clothing,Lipstick,4,407.86,0,9.25,Cash,2024-02-05,6,1.0,Very Satisfied,1631.44,0.0,1640.69
+ORD00479,CUST0099,Mike Johnson,66.0,Male,Phoenix,TX,Home & Garden,Smartphone,1,434.9,10,7.8,Cash,2024-01-28,12,,Satisfied,434.9,43.49,399.21
+ORD00480,CUST0025,Jane Doe,59.0,Female,Houston,PA,Food,Doll,2,339.77,20,17.27,Cash,2024-08-07,10,3.0,Neutral,679.54,135.908,560.9019999999999
+ORD00481,CUST0053,Jane Doe,55.0,Male,New York,NY,Books,Lamp,2,33.01,0,18.59,PayPal,2024-04-11,4,5.0,Very Satisfied,66.02,0.0,84.61
+ORD00482,CUST0151,Jessica White,35.0,Other,San Diego,GA,Food,Laptop,5,287.5,0,6.07,PayPal,2024-09-19,13,5.0,Very Satisfied,1437.5,0.0,1443.57
+ORD00483,CUST0144,John Smith,62.0,Female,New York,NY,Food,Shampoo,4,384.01,0,17.28,Credit Card,2024-09-27,10,4.0,Very Satisfied,1536.04,0.0,1553.32
+ORD00484,CUST0057,Lisa Anderson,52.0,Female,Phoenix,IL,Electronics,Smartphone,3,76.89,10,15.63,Debit Card,2024-08-11,5,3.0,Very Satisfied,230.67000000000002,23.067000000000004,223.233
+ORD00485,CUST0039,Mike Johnson,47.0,Female,Philadelphia,OH,Food,Lipstick,2,122.05,10,18.62,Debit Card,2024-05-18,14,4.0,Satisfied,244.1,24.41,238.31
+ORD00486,CUST0109,Mike Johnson,41.0,Female,Philadelphia,OH,Beauty,Novel,4,442.42,20,4.92,Cash,2024-10-06,9,4.0,Satisfied,1769.68,353.93600000000004,1420.6640000000002
+ORD00487,CUST0181,Emily Davis,59.0,Male,Phoenix,TX,Toys,Sofa,1,19.86,0,11.54,Debit Card,2024-10-12,11,5.0,Neutral,19.86,0.0,31.4
+ORD00488,CUST0042,William Moore,47.0,Female,Chicago,PA,Home & Garden,Coffee,5,378.84,25,5.49,Cash,2024-09-06,7,5.0,Very Dissatisfied,1894.1999999999998,473.54999999999995,1426.1399999999999
+ORD00489,CUST0186,Lisa Anderson,31.0,Male,Phoenix,OH,Books,Chocolate,1,242.15,0,16.48,Credit Card,2024-11-17,2,5.0,Very Dissatisfied,242.15,0.0,258.63
+ORD00490,CUST0223,William Moore,23.0,Female,San Diego,FL,Electronics,Smartphone,2,228.92,10,0.11,Debit Card,2024-11-12,11,4.0,Satisfied,457.84,45.784,412.166
+ORD00491,CUST0122,James Harris,20.0,Male,Los Angeles,FL,Food,Lamp,2,13.48,0,11.3,Debit Card,2024-03-18,1,5.0,Neutral,26.96,0.0,38.260000000000005
+ORD00492,CUST0133,Tom Martinez,5.0,Female,Philadelphia,TX,Toys,T-Shirt,1,411.51,15,6.78,Cash,2024-10-23,2,5.0,Very Dissatisfied,411.51,61.726499999999994,356.5635
+ORD00493,CUST0163,Tom Martinez,24.0,Female,Dallas,WA,Home & Garden,Smartphone,2,186.31,5,6.45,Credit Card,2024-12-03,3,5.0,Very Satisfied,372.62,18.631,360.439
+ORD00494,CUST0215,Sarah Williams,69.0,Male,San Diego,GA,Clothing,Lipstick,4,274.98,10,12.9,Debit Card,2024-11-02,11,4.0,Very Satisfied,1099.92,109.99200000000002,1002.8280000000001
+ORD00495,CUST0221,Jessica White,31.0,Male,San Diego,PA,Clothing,Sofa,2,341.88,15,17.03,Debit Card,2024-12-16,2,5.0,Very Satisfied,683.76,102.564,598.226
+ORD00496,CUST0235,David Brown,26.0,Other,San Diego,IL,Clothing,Doll,5,354.29,0,12.18,Debit Card,2024-01-13,11,5.0,Satisfied,1771.45,0.0,1783.63
+ORD00497,CUST0146,Jane Doe,32.0,Female,San Antonio,AZ,Beauty,Coffee,4,478.43,0,17.06,Credit Card,2024-12-11,3,4.0,Neutral,1913.72,0.0,1930.78
+ORD00498,CUST0239,Robert Garcia,38.0,Female,San Diego,AZ,Books,Cookbook,3,270.36,15,5.29,Credit Card,2024-03-22,10,,Satisfied,811.08,121.662,694.708
+ORD00499,CUST0076,Tom Martinez,52.0,Female,Philadelphia,AZ,Clothing,Doll,2,205.86,0,10.39,Debit Card,2024-01-09,11,2.0,Satisfied,411.72,0.0,422.11
+ORD00500,CUST0009,Lisa Anderson,,Male,Los Angeles,OH,Beauty,Cookbook,2,477.31,0,9.01,Cash,2024-07-31,11,3.0,Satisfied,954.62,0.0,963.63
+ORD00501,CUST0074,Mike Johnson,44.0,Male,Los Angeles,WA,Sports,Chocolate,5,324.63,5,0.23,Cash,2024-02-17,12,5.0,Very Satisfied,1623.15,81.15750000000001,1542.2225
+ORD00502,CUST0253,Robert Garcia,19.0,Male,San Diego,WA,Beauty,Novel,5,156.09,5,11.14,Debit Card,2024-02-18,14,2.0,Very Satisfied,780.45,39.02250000000001,752.5675
+ORD00503,CUST0230,Jennifer Lee,52.0,Female,New York,PA,Electronics,Coffee,1,71.97,0,13.23,Credit Card,2024-11-04,12,5.0,Very Satisfied,71.97,0.0,85.2
+ORD00504,CUST0007,William Moore,35.0,Male,Philadelphia,PA,Beauty,Headphones,1,422.85,0,11.84,Debit Card,2024-02-09,9,5.0,Very Satisfied,422.85,0.0,434.69
+ORD00505,CUST0174,Tom Martinez,31.0,Female,Philadelphia,WA,Books,Headphones,1,187.47,0,14.73,Credit Card,2024-12-28,4,2.0,Neutral,187.47,0.0,202.2
+ORD00506,CUST0141,Mike Johnson,37.0,Female,Houston,TX,Toys,Smartphone,5,333.63,5,11.43,Debit Card,2024-10-06,12,4.0,Neutral,1668.15,83.40750000000001,1596.1725000000001
+ORD00507,CUST0168,Tom Martinez,35.0,Female,San Jose,PA,Food,Jeans,1,240.7,15,1.34,Credit Card,2024-08-13,9,5.0,Neutral,240.7,36.105,205.935
+ORD00508,CUST0170,Jane Doe,27.0,Female,Chicago,TX,Beauty,Chocolate,1,107.48,25,2.33,PayPal,2024-04-17,11,5.0,Neutral,107.48,26.87,82.94
+ORD00509,CUST0283,Jennifer Lee,42.0,Other,Chicago,NY,Clothing,Lipstick,3,304.83,10,11.93,Cash,2024-09-01,3,5.0,Neutral,914.49,91.44900000000001,834.9709999999999
+ORD00510,CUST0122,Amy Taylor,,Male,New York,FL,Electronics,Chocolate,1,39.73,0,5.5,PayPal,2024-09-11,12,5.0,Neutral,39.73,0.0,45.23
+ORD00511,CUST0194,Tom Martinez,42.0,Female,Chicago,GA,Home & Garden,T-Shirt,2,212.54,20,1.59,Cash,2024-02-02,1,4.0,Neutral,425.08,85.016,341.65399999999994
+ORD00512,CUST0005,James Harris,50.0,Female,Houston,PA,Clothing,Lamp,5,277.84,5,8.59,Credit Card,2024-01-23,11,3.0,Neutral,1389.1999999999998,69.46,1328.3299999999997
+ORD00513,CUST0029,Lisa Anderson,53.0,Female,Phoenix,WA,Electronics,T-Shirt,4,223.66,0,11.09,PayPal,2024-11-28,5,5.0,Satisfied,894.64,0.0,905.73
+ORD00514,CUST0165,Tom Martinez,48.0,Female,Chicago,FL,Sports,Cookbook,3,376.85,20,6.57,Cash,2024-02-23,10,4.0,Satisfied,1130.5500000000002,226.11000000000004,911.0100000000002
+ORD00515,CUST0136,David Brown,31.0,Male,Philadelphia,FL,Food,Lipstick,5,415.68,10,14.41,Debit Card,2024-11-04,10,3.0,Neutral,2078.4,207.84000000000003,1884.97
+ORD00516,CUST0145,Robert Garcia,18.0,Male,Phoenix,CA,Home & Garden,Lipstick,5,387.91,10,12.88,Credit Card,2024-02-18,14,5.0,Very Satisfied,1939.5500000000002,193.95500000000004,1758.4750000000004
+ORD00517,CUST0217,Robert Garcia,63.0,Female,Chicago,WA,Sports,Smartphone,2,29.02,10,6.66,Credit Card,2024-03-18,2,5.0,Satisfied,58.04,5.804,58.896
+ORD00518,CUST0132,Jane Doe,33.0,Male,Philadelphia,GA,Toys,Doll,1,105.12,0,15.1,Debit Card,2024-12-01,4,5.0,Satisfied,105.12,0.0,120.22
+ORD00519,CUST0292,Lisa Anderson,63.0,Female,Philadelphia,WA,Electronics,Chocolate,2,272.94,0,12.97,Debit Card,2024-12-23,2,4.0,Very Satisfied,545.88,0.0,558.85
+ORD00520,CUST0070,Jennifer Lee,69.0,Female,San Diego,PA,Sports,Sofa,1,468.06,10,12.75,Cash,2024-05-01,2,5.0,Very Dissatisfied,468.06,46.806000000000004,434.004
+ORD00521,CUST0252,James Harris,20.0,Male,Los Angeles,IL,Food,Coffee,1,419.13,0,11.07,Credit Card,2024-12-24,13,5.0,Very Satisfied,419.13,0.0,430.2
+ORD00522,CUST0275,Emily Davis,52.0,Female,New York,NY,Food,Lamp,5,422.84,5,0.23,Cash,2024-03-30,3,5.0,Very Satisfied,2114.2,105.71,2008.7199999999998
+ORD00523,CUST0182,Lisa Anderson,58.0,Male,Houston,TX,Toys,T-Shirt,1,158.57,10,13.93,Debit Card,2024-12-11,5,,Very Satisfied,158.57,15.857,156.643
+ORD00524,CUST0167,Robert Garcia,23.0,Female,San Antonio,IL,Food,Shampoo,3,220.43,10,7.52,Credit Card,2024-07-11,4,4.0,Neutral,661.29,66.129,602.6809999999999
+ORD00525,CUST0091,David Brown,42.0,Female,San Jose,NY,Electronics,Sofa,3,240.65,5,18.85,Debit Card,2024-08-31,2,5.0,Satisfied,721.95,36.097500000000004,704.7025000000001
+ORD00526,CUST0202,Amy Taylor,30.0,male,Chicago,IL,Electronics,Lamp,3,,10,16.36,Cash,2024-05-28,11,,Satisfied,261.33,26.133,251.55699999999996
+ORD00527,CUST0019,Jane Doe,51.0,Male,Chicago,TX,Food,T-Shirt,5,25.22,15,11.75,Cash,2024-05-25,14,3.0,Neutral,126.1,18.915,118.935
+ORD00528,CUST0039,Emily Davis,25.0,Male,Phoenix,OH,Sports,Coffee,2,473.98,10,5.04,Cash,2024-11-11,14,1.0,Very Satisfied,947.96,94.796,858.204
+ORD00529,CUST0126,David Brown,38.0,Female,Phoenix,,Electronics,Novel,4,127.95,0,4.07,Credit Card,2024-05-20,10,5.0,Very Satisfied,511.8,0.0,515.87
+ORD00530,CUST0173,Jennifer Lee,51.0,Female,San Jose,IL,Clothing,Cookbook,1,127.57,0,6.81,Debit Card,2024-10-12,2,3.0,Very Satisfied,127.57,0.0,134.38
+ORD00531,CUST0141,William Moore,21.0,Female,Chicago,PA,Food,Laptop,4,50.86,0,9.53,Debit Card,2024-12-04,14,2.0,Neutral,203.44,0.0,212.97
+ORD00532,CUST0242,Jennifer Lee,42.0,Male,Dallas,GA,Electronics,Lamp,2,464.97,0,5.92,Cash,2024-04-20,6,3.0,Satisfied,929.94,0.0,935.86
+ORD00533,CUST0220,David Brown,32.0,Male,Houston,AZ,Books,Cookbook,2,294.07,0,10.3,Cash,2024-04-17,7,4.0,Very Satisfied,588.14,0.0,598.4399999999999
+ORD00534,CUST0126,William Moore,21.0,Male,Chicago,PA,Toys,Coffee,5,336.85,0,3.31,Cash,2024-10-07,12,4.0,Very Satisfied,1684.25,0.0,1687.56
+ORD00535,CUST0058,John Smith,62.0,Female,Los Angeles,TX,Food,Lipstick,3,456.67,5,19.55,Cash,2024-02-19,10,4.0,Very Satisfied,1370.01,68.5005,1321.0594999999998
+ORD00536,CUST0148,Jane Doe,29.0,Male,San Jose,GA,Electronics,Basketball,3,179.35,20,2.16,PayPal,2024-01-14,6,,Satisfied,538.05,107.61,432.59999999999997
+ORD00537,CUST0001,Lisa Anderson,49.0,Male,Dallas,PA,Books,Jeans,2,314.54,0,18.64,PayPal,2024-05-13,7,5.0,Very Satisfied,629.08,0.0,647.72
+ORD00538,CUST0190,William Moore,49.0,Female,Houston,FL,Electronics,Lipstick,5,29.01,10,18.27,PayPal,2024-03-16,1,5.0,Very Satisfied,145.05,14.505000000000003,148.81500000000003
+ORD00539,CUST0191,Jessica White,45.0,Male,Chicago,WA,Electronics,Smartphone,5,101.52,10,10.51,Cash,2024-03-24,6,3.0,Satisfied,507.59999999999997,50.76,467.34999999999997
+ORD00540,CUST0117,William Moore,30.0,Other,San Antonio,GA,Sports,Basketball,1,417.31,0,14.5,Cash,2024-12-08,11,5.0,Neutral,417.31,0.0,431.81
+ORD00541,CUST0134,Mike Johnson,48.0,Female,,FL,Clothing,Sofa,3,385.72,20,8.72,Debit Card,2024-06-06,3,5.0,Neutral,1157.16,231.43200000000002,934.4480000000001
+ORD00542,CUST0058,Amy Taylor,31.0,Female,,PA,Food,Lipstick,2,181.81,5,12.6,Credit Card,2024-10-12,1,5.0,Satisfied,363.62,18.181,358.03900000000004
+ORD00543,CUST0044,Mike Johnson,37.0,Male,San Antonio,NY,Toys,Lipstick,4,194.64,0,6.81,Debit Card,2024-11-09,8,4.0,Neutral,778.56,0.0,785.3699999999999
+ORD00544,CUST0173,Lisa Anderson,35.0,Male,Phoenix,CA,Food,Lamp,3,271.44,10,6.02,PayPal,2024-04-03,4,4.0,Satisfied,814.3199999999999,81.432,738.9079999999999
+ORD00545,CUST0160,Lisa Anderson,46.0,Female,Phoenix,NY,Clothing,Smartphone,1,10.12,0,11.56,Debit Card,2024-10-23,10,5.0,Very Dissatisfied,10.12,0.0,21.68
+ORD00546,CUST0173,Jane Doe,23.0,Female,Chicago,WA,Home & Garden,Smartphone,5,128.21,10,9.96,Cash,2024-04-03,8,5.0,Very Satisfied,641.0500000000001,64.105,586.9050000000001
+ORD00547,CUST0149,Lisa Anderson,49.0,Female,Phoenix,GA,Sports,Basketball,2,112.03,0,11.59,PayPal,2024-02-26,10,5.0,Satisfied,224.06,0.0,235.65
+ORD00548,CUST0080,Robert Garcia,46.0,Male,Los Angeles,GA,Sports,Coffee,3,132.74,15,5.73,PayPal,2024-06-12,14,5.0,Satisfied,398.22,59.733000000000004,344.21700000000004
+ORD00549,CUST0213,William Moore,60.0,Female,Houston,WA,Clothing,Chocolate,4,404.89,5,7.34,Credit Card,2024-11-15,11,4.0,Very Satisfied,1619.56,80.97800000000001,1545.9219999999998
+ORD00550,CUST0203,William Moore,19.0,Female,Philadelphia,FL,Beauty,Lipstick,1,147.04,10,1.68,Credit Card,2024-04-07,4,5.0,Neutral,147.04,14.704,134.016
+ORD00551,CUST0252,John Smith,40.0,Female,New York,CA,Sports,Basketball,1,103.85,0,1.05,PayPal,2024-01-16,4,2.0,Very Satisfied,103.85,0.0,104.89999999999999
+ORD00552,CUST0229,Emily Davis,36.0,Female,San Jose,PA,Food,Laptop,3,257.09,10,5.07,PayPal,2024-12-09,12,5.0,Satisfied,771.27,77.12700000000001,699.2130000000001
+ORD00553,CUST0164,Lisa Anderson,48.0,Female,Houston,TX,Clothing,T-Shirt,4,434.17,10,1.48,Debit Card,2024-03-18,14,,Satisfied,1736.68,173.668,1564.4920000000002
+ORD00554,CUST0227,Mike Johnson,68.0,Female,Philadelphia,NY,Sports,Lamp,1,128.26,5,2.08,PayPal,2024-12-11,10,5.0,Very Satisfied,128.26,6.413,123.92699999999999
+ORD00555,CUST0147,Lisa Anderson,22.0,Male,Dallas,NY,Electronics,Chocolate,2,48.48,10,16.26,Cash,2024-03-12,4,4.0,Satisfied,96.96,9.696,103.524
+ORD00556,CUST0020,Jennifer Lee,36.0,Female,Los Angeles,AZ,Clothing,Cookbook,1,184.64,5,0.78,Debit Card,2024-09-26,6,4.0,Satisfied,184.64,9.232,176.188
+ORD00557,CUST0047,John Smith,51.0,Male,San Antonio,CA,Clothing,Coffee,4,376.35,15,13.18,Cash,2024-10-13,14,5.0,Neutral,1505.4,225.81,1292.7700000000002
+ORD00558,CUST0233,Robert Garcia,27.0,Male,Philadelphia,TX,Food,Headphones,5,279.84,5,5.45,Cash,2024-03-06,9,5.0,Neutral,1399.1999999999998,69.96,1334.6899999999998
+ORD00559,CUST0014,Robert Garcia,42.0,Male,Los Angeles,NY,Books,Lipstick,5,410.23,15,17.43,Cash,2024-03-08,5,5.0,Very Satisfied,2051.15,307.6725,1760.9075
+ORD00560,CUST0143,Tom Martinez,19.0,Male,San Diego,TX,Sports,Doll,3,480.2,15,9.7,PayPal,2024-07-11,12,4.0,Satisfied,1440.6,216.08999999999997,1234.21
+ORD00561,CUST0001,William Moore,28.0,Male,San Antonio,PA,Sports,Lamp,4,398.4,5,6.11,Credit Card,2024-02-24,13,3.0,Dissatisfied,1593.6,79.68,1520.0299999999997
+ORD00562,CUST0054,Robert Garcia,67.0,Male,Phoenix,GA,Clothing,Lamp,1,305.86,0,10.35,Credit Card,2024-06-16,10,5.0,Very Satisfied,305.86,0.0,316.21000000000004
+ORD00563,CUST0259,William Moore,48.0,Female,Phoenix,TX,Electronics,Lamp,1,251.74,5,7.64,Cash,2024-01-25,14,5.0,Satisfied,251.74,12.587000000000002,246.793
+ORD00564,CUST0144,Tom Martinez,32.0,Female,San Antonio,NY,Electronics,Smartphone,5,29.63,15,11.29,PayPal,2024-05-10,8,,Neutral,148.15,22.2225,137.2175
+ORD00565,CUST0012,David Brown,26.0,Male,Dallas,FL,Toys,Sofa,5,492.32,0,2.29,Debit Card,2024-11-20,8,4.0,Satisfied,2461.6,0.0,2463.89
+ORD00566,CUST0224,Amy Taylor,40.0,Female,Dallas,CA,Electronics,Smartphone,2,197.91,5,19.94,Cash,2024-04-11,4,5.0,Very Satisfied,395.82,19.791,395.969
+ORD00567,CUST0272,Sarah Williams,36.0,Female,Dallas,WA,Sports,Sofa,5,84.59,15,8.51,Debit Card,2024-10-08,11,4.0,Satisfied,422.95000000000005,63.4425,368.01750000000004
+ORD00568,CUST0156,James Harris,26.0,Male,Philadelphia,IL,Beauty,Shampoo,2,336.69,0,6.96,Debit Card,2024-10-22,10,5.0,Satisfied,673.38,0.0,680.34
+ORD00569,CUST0008,Robert Garcia,52.0,Male,San Jose,OH,Books,Basketball,1,149.3,10,14.2,PayPal,2024-10-20,9,5.0,,149.3,14.930000000000001,148.57
+ORD00570,CUST0122,Emily Davis,38.0,Female,Philadelphia,OH,Clothing,Headphones,2,297.03,0,7.28,PayPal,2024-09-19,9,4.0,Very Satisfied,594.06,0.0,601.3399999999999
+ORD00571,CUST0164,Jennifer Lee,26.0,Female,Chicago,IL,Home & Garden,Chocolate,2,297.52,0,16.67,Credit Card,2024-04-29,5,4.0,,595.04,0.0,611.7099999999999
+ORD00572,CUST0090,Chris Wilson,45.0,Female,New York,TX,Books,Smartphone,3,228.41,10,9.09,Credit Card,2024-08-18,6,5.0,Satisfied,685.23,68.52300000000001,625.797
+ORD00573,CUST0136,David Brown,63.0,Male,San Antonio,CA,Food,Lipstick,5,419.7,0,14.39,PayPal,2024-10-17,5,5.0,Very Satisfied,2098.5,0.0,2112.89
+ORD00574,CUST0186,Robert Garcia,68.0,Male,Houston,TX,Food,Coffee,2,139.83,0,2.15,Cash,2024-06-09,3,3.0,Satisfied,279.66,0.0,281.81
+ORD00575,CUST0178,William Moore,24.0,Male,New York,WA,Beauty,Chocolate,1,229.83,15,16.92,Credit Card,2024-06-09,11,4.0,Satisfied,229.83,34.4745,212.27550000000002
+ORD00576,CUST0028,Amy Taylor,33.0,Male,San Diego,CA,Home & Garden,Sofa,4,273.47,0,14.71,Debit Card,2024-03-18,8,5.0,Very Satisfied,1093.88,0.0,1108.5900000000001
+ORD00577,CUST0220,Tom Martinez,33.0,Male,Philadelphia,IL,Books,Smartphone,2,335.18,25,4.23,Cash,2024-02-07,9,5.0,Very Satisfied,670.36,167.59,507.0
+ORD00578,CUST0041,Mike Johnson,50.0,Male,Philadelphia,,Electronics,Jeans,5,394.15,25,2.91,Debit Card,2024-01-28,4,3.0,Dissatisfied,1970.75,492.6875,1480.9725
+ORD00579,CUST0228,James Harris,21.0,Female,Los Angeles,AZ,Sports,Smartphone,3,203.46,0,6.33,PayPal,2024-04-09,9,5.0,,610.38,0.0,616.71
+ORD00580,CUST0192,Chris Wilson,21.0,Female,New York,NY,Beauty,Headphones,1,326.56,0,19.52,Debit Card,2024-10-20,9,3.0,Very Satisfied,326.56,0.0,346.08
+ORD00581,CUST0145,Amy Taylor,56.0,Male,Los Angeles,FL,Home & Garden,Headphones,3,83.8,10,5.14,Cash,2024-05-03,7,4.0,Very Satisfied,251.39999999999998,25.14,231.39999999999998
+ORD00582,CUST0201,Amy Taylor,57.0,Female,Houston,GA,Beauty,Sofa,4,467.0,5,9.12,PayPal,2024-04-01,8,4.0,Neutral,1868.0,93.4,1783.7199999999998
+ORD00583,CUST0212,Robert Garcia,34.0,Male,Los Angeles,FL,Books,Sofa,2,197.7,0,0.6,Cash,2024-09-11,3,5.0,Satisfied,395.4,0.0,396.0
+ORD00584,CUST0220,David Brown,54.0,Male,New York,WA,Sports,Basketball,2,367.47,10,7.94,Debit Card,2024-04-06,5,3.0,Very Satisfied,734.94,73.49400000000001,669.3860000000001
+ORD00585,CUST0240,Jessica White,56.0,Male,San Antonio,TX,Beauty,Headphones,5,19.97,0,11.43,Cash,2024-01-06,3,5.0,Very Dissatisfied,99.85,0.0,111.28
+ORD00586,CUST0046,Chris Wilson,69.0,Female,San Diego,PA,Home & Garden,Headphones,2,110.54,15,19.06,PayPal,2024-06-17,7,4.0,Very Satisfied,221.08,33.162,206.978
+ORD00587,CUST0035,James Harris,46.0,Other,Philadelphia,CA,Clothing,Shampoo,1,248.67,0,10.33,Debit Card,2024-09-27,6,,Satisfied,248.67,0.0,259.0
+ORD00588,CUST0253,Jane Doe,69.0,Female,Houston,TX,Books,Lipstick,4,440.34,0,16.38,Debit Card,2024-04-17,11,5.0,Satisfied,1761.36,0.0,1777.74
+ORD00589,CUST0082,Sarah Williams,53.0,Male,Philadelphia,CA,Clothing,Shampoo,3,268.36,0,10.94,Credit Card,2024-10-25,3,5.0,Satisfied,805.08,0.0,816.0200000000001
+ORD00590,CUST0256,Jane Doe,55.0,Female,Chicago,GA,Electronics,Laptop,4,465.64,25,0.82,Credit Card,2024-02-16,9,5.0,Very Satisfied,1862.56,465.64,1397.74
+ORD00591,CUST0197,Jessica White,56.0,Male,San Diego,AZ,Clothing,Lamp,2,247.06,10,6.3,Cash,2024-04-08,12,5.0,Neutral,494.12,49.412000000000006,451.008
+ORD00592,CUST0010,William Moore,67.0,Female,San Jose,FL,Clothing,Shampoo,3,250.32,15,11.51,Credit Card,2024-01-14,1,5.0,Very Dissatisfied,750.96,112.644,649.826
+ORD00593,CUST0286,William Moore,54.0,Female,Los Angeles,NY,Toys,Novel,5,68.68,0,19.01,Credit Card,2024-07-12,10,4.0,Satisfied,343.40000000000003,0.0,362.41
+ORD00594,CUST0242,Jennifer Lee,69.0,Male,Phoenix,GA,Books,Smartphone,4,403.3,0,17.18,Credit Card,2024-06-05,3,3.0,Satisfied,1613.2,0.0,1630.38
+ORD00595,CUST0251,Chris Wilson,52.0,Female,New York,GA,Electronics,T-Shirt,3,131.01,0,4.57,Credit Card,2024-06-02,11,5.0,Very Satisfied,393.03,0.0,397.59999999999997
+ORD00596,CUST0005,Jane Doe,24.0,Female,Philadelphia,FL,Clothing,Basketball,3,450.81,5,4.4,PayPal,2024-04-24,10,4.0,Dissatisfied,1352.43,67.62150000000001,1289.2085000000002
+ORD00597,CUST0119,William Moore,44.0,Male,Los Angeles,GA,Food,Lamp,3,456.3,5,4.02,PayPal,2024-09-14,11,4.0,Very Dissatisfied,1368.9,68.44500000000001,1304.4750000000001
+ORD00598,CUST0289,Jessica White,45.0,Female,Houston,PA,Sports,Novel,1,472.22,10,18.45,Credit Card,2024-05-24,7,4.0,Neutral,472.22,47.22200000000001,443.44800000000004
+ORD00599,CUST0065,Robert Garcia,39.0,Male,Philadelphia,PA,Home & Garden,Laptop,4,264.91,0,17.05,Cash,2024-10-17,3,4.0,Satisfied,1059.64,0.0,1076.69
+ORD00600,CUST0146,John Smith,31.0,Female,San Jose,OH,Clothing,T-Shirt,3,341.78,20,15.5,PayPal,2024-01-10,14,5.0,Very Dissatisfied,1025.34,205.06799999999998,835.7719999999999
+ORD00601,CUST0224,Tom Martinez,24.0,Female,San Diego,OH,Electronics,Sofa,4,391.47,0,7.85,Credit Card,2024-08-01,3,2.0,Very Satisfied,1565.88,0.0,1573.73
+ORD00602,CUST0239,John Smith,54.0,Female,San Diego,PA,Clothing,Headphones,3,74.2,25,10.09,PayPal,2024-08-20,2,,Satisfied,222.60000000000002,55.650000000000006,177.04000000000002
+ORD00603,CUST0177,Lisa Anderson,39.0,Female,Philadelphia,IL,Home & Garden,Jeans,5,304.47,0,9.29,Debit Card,2024-06-19,9,5.0,Satisfied,1522.3500000000001,0.0,1531.64
+ORD00604,CUST0267,James Harris,22.0,Female,Houston,AZ,Electronics,Basketball,5,26.81,5,5.07,PayPal,2024-01-21,11,5.0,Satisfied,134.04999999999998,6.7025,132.4175
+ORD00605,CUST0282,Jane Doe,19.0,Male,San Diego,CA,Books,Cookbook,5,253.81,0,10.1,PayPal,2024-01-15,4,4.0,Neutral,1269.05,0.0,1279.1499999999999
+ORD00606,CUST0063,Jennifer Lee,44.0,Female,San Diego,AZ,Electronics,Doll,2,85.87,5,0.61,Cash,2024-05-05,10,4.0,Neutral,171.74,8.587000000000002,163.76300000000003
+ORD00607,CUST0217,Lisa Anderson,38.0,Male,San Jose,WA,Books,Shampoo,3,99.63,5,2.64,PayPal,2024-12-06,13,,Very Satisfied,298.89,14.9445,286.58549999999997
+ORD00608,CUST0283,William Moore,55.0,Female,New York,GA,Electronics,Headphones,2,188.87,5,17.73,Cash,2024-12-06,6,5.0,Very Satisfied,377.74,18.887,376.583
+ORD00609,CUST0177,Mike Johnson,32.0,Male,Houston,NY,Food,Jeans,4,221.89,5,15.03,Debit Card,2024-07-31,2,5.0,Very Satisfied,887.56,44.378,858.2119999999999
+ORD00610,CUST0098,Emily Davis,38.0,Male,Houston,GA,Beauty,Novel,2,315.35,10,8.46,Credit Card,2024-07-06,9,4.0,Satisfied,630.7,63.07000000000001,576.09
+ORD00611,CUST0105,Mike Johnson,27.0,Female,San Antonio,AZ,Home & Garden,Sofa,4,46.47,10,10.34,Cash,2024-06-20,7,5.0,Very Satisfied,185.88,18.588,177.632
+ORD00612,CUST0099,Jessica White,40.0,Male,San Antonio,PA,Home & Garden,T-Shirt,4,256.81,15,7.4,PayPal,2024-09-03,10,5.0,Very Satisfied,1027.24,154.08599999999998,880.554
+ORD00613,CUST0006,Chris Wilson,56.0,Female,San Diego,FL,Electronics,Novel,4,99.49,0,14.82,PayPal,2024-01-05,5,4.0,Neutral,397.96,0.0,412.78
+ORD00614,CUST0197,Amy Taylor,22.0,Male,Phoenix,WA,Beauty,Doll,2,291.25,10,15.68,Cash,2024-08-18,7,5.0,Dissatisfied,582.5,58.25,539.93
+ORD00615,CUST0133,Tom Martinez,18.0,Male,San Antonio,PA,Clothing,Headphones,3,322.33,5,15.27,Debit Card,2024-07-19,14,5.0,Very Dissatisfied,966.99,48.349500000000006,933.9105
+ORD00616,CUST0259,Jane Doe,30.0,Female,San Diego,AZ,Home & Garden,Headphones,2,282.79,0,14.45,Credit Card,2024-05-28,4,5.0,Very Dissatisfied,565.58,0.0,580.0300000000001
+ORD00617,CUST0023,James Harris,38.0,Male,Dallas,FL,Food,T-Shirt,3,371.76,5,4.09,PayPal,2024-03-12,13,4.0,Neutral,1115.28,55.764,1063.606
+ORD00618,CUST0053,Jennifer Lee,43.0,Male,Chicago,NY,Books,Cookbook,3,174.45,0,6.76,Debit Card,2024-08-13,10,5.0,Very Satisfied,523.3499999999999,0.0,530.1099999999999
+ORD00619,CUST0165,Jennifer Lee,67.0,Female,Chicago,AZ,Books,Jeans,4,384.9,0,9.4,Credit Card,2024-03-14,13,,Dissatisfied,1539.6,0.0,1549.0
+ORD00620,CUST0202,James Harris,62.0,Male,Houston,CA,Sports,Novel,2,222.06,0,6.62,Credit Card,2024-11-02,7,5.0,Satisfied,444.12,0.0,450.74
+ORD00621,CUST0083,Jessica White,38.0,Female,Phoenix,TX,Toys,Sofa,3,247.25,0,15.1,PayPal,2024-06-17,2,5.0,Neutral,741.75,0.0,756.85
+ORD00622,CUST0145,David Brown,35.0,Male,San Jose,,Beauty,Headphones,5,327.57,10,6.59,Cash,2024-09-05,7,5.0,Satisfied,1637.85,163.785,1480.6549999999997
+ORD00623,CUST0085,William Moore,54.0,Male,New York,AZ,Toys,Coffee,3,19.0,10,2.76,PayPal,2024-10-06,4,5.0,Neutral,57.0,5.7,54.059999999999995
+ORD00624,CUST0078,Emily Davis,62.0,Female,San Antonio,PA,Toys,Novel,5,330.46,25,7.98,PayPal,2024-05-31,4,5.0,Satisfied,1652.3,413.075,1247.205
+ORD00625,CUST0001,Sarah Williams,49.0,Male,Dallas,CA,Books,Lipstick,2,313.11,10,19.6,PayPal,2024-08-11,1,4.0,Very Satisfied,626.22,62.62200000000001,583.1980000000001
+ORD00626,CUST0051,Sarah Williams,53.0,Male,San Diego,IL,Food,Cookbook,2,161.83,0,4.52,Debit Card,2024-08-12,12,4.0,Satisfied,323.66,0.0,328.18
+ORD00627,CUST0173,Sarah Williams,34.0,Male,Phoenix,FL,Food,Novel,2,52.04,15,12.24,Cash,2024-02-07,3,4.0,Very Satisfied,104.08,15.611999999999998,100.708
+ORD00628,CUST0205,Jane Doe,52.0,Male,Houston,CA,Sports,Shampoo,3,54.56,15,8.66,Debit Card,2024-02-13,5,2.0,Very Dissatisfied,163.68,24.552,147.788
+ORD00629,CUST0260,Sarah Williams,66.0,Female,San Antonio,PA,Toys,T-Shirt,1,462.38,5,1.42,PayPal,2024-07-03,5,4.0,Satisfied,462.38,23.119,440.681
+ORD00630,CUST0288,Robert Garcia,28.0,Male,Phoenix,AZ,Toys,Chocolate,3,347.75,5,9.76,Cash,2024-08-28,2,3.0,Satisfied,1043.25,52.1625,1000.8475
+ORD00631,CUST0034,John Smith,38.0,Female,San Antonio,GA,Electronics,Chocolate,3,72.28,25,14.04,Credit Card,2024-11-26,4,5.0,Dissatisfied,216.84,54.21,176.67
+ORD00632,CUST0095,Jennifer Lee,69.0,Female,New York,NY,Electronics,Shampoo,4,184.79,5,10.26,Cash,2024-12-16,1,4.0,Satisfied,739.16,36.958,712.462
+ORD00633,CUST0072,Emily Davis,43.0,Male,New York,GA,Electronics,Doll,4,300.32,20,17.44,PayPal,2024-07-28,9,3.0,Very Satisfied,1201.28,240.256,978.464
+ORD00634,CUST0039,John Smith,21.0,Female,San Jose,TX,Clothing,Sofa,3,419.43,0,5.78,Cash,2024-01-23,1,3.0,Very Satisfied,1258.29,0.0,1264.07
+ORD00635,CUST0154,Amy Taylor,51.0,Male,Chicago,CA,Toys,Laptop,5,31.39,0,1.72,Credit Card,2024-05-03,6,5.0,Satisfied,156.95,0.0,158.67
+ORD00636,CUST0250,Emily Davis,69.0,Other,Los Angeles,TX,Food,T-Shirt,4,125.95,5,18.73,Credit Card,2024-03-26,7,1.0,Dissatisfied,503.8,25.19,497.34000000000003
+ORD00637,CUST0162,John Smith,65.0,Male,Los Angeles,NY,Food,Novel,3,445.98,5,7.56,Cash,2024-02-12,3,4.0,Neutral,1337.94,66.897,1278.603
+ORD00638,CUST0118,Emily Davis,35.0,Female,San Antonio,CA,Clothing,Laptop,1,14.49,15,11.53,Credit Card,2024-02-09,12,3.0,Very Dissatisfied,14.49,2.1734999999999998,23.8465
+ORD00639,CUST0259,Amy Taylor,57.0,Female,San Jose,OH,Food,Headphones,5,108.69,25,15.84,Debit Card,2024-10-29,1,5.0,Very Satisfied,543.45,135.8625,423.4275
+ORD00640,CUST0268,Lisa Anderson,52.0,Male,Los Angeles,PA,Sports,Laptop,2,479.92,0,6.49,Cash,2024-06-17,7,,Very Satisfied,959.84,0.0,966.33
+ORD00641,CUST0054,Robert Garcia,58.0,Female,Houston,CA,Beauty,Cookbook,3,310.57,0,14.32,Credit Card,2024-06-23,3,,Very Satisfied,931.71,0.0,946.0300000000001
+ORD00642,CUST0236,Jane Doe,46.0,Female,Los Angeles,PA,Books,Smartphone,3,138.22,15,2.71,Credit Card,2024-01-20,13,4.0,Neutral,414.65999999999997,62.19899999999999,355.17099999999994
+ORD00643,CUST0222,Jane Doe,69.0,Male,Philadelphia,GA,Toys,Cookbook,5,42.83,10,5.83,Cash,2024-04-18,10,5.0,Very Satisfied,214.14999999999998,21.415,198.565
+ORD00644,CUST0251,Jessica White,46.0,Male,San Diego,WA,Food,Shampoo,4,23.81,0,2.89,Debit Card,2024-07-11,12,5.0,Very Satisfied,95.24,0.0,98.13
+ORD00645,CUST0112,James Harris,55.0,Female,San Jose,FL,Books,T-Shirt,4,129.93,5,16.22,Cash,2024-08-31,12,4.0,Satisfied,519.72,25.986000000000004,509.95400000000006
+ORD00646,CUST0255,William Moore,59.0,Female,Houston,WA,Food,Smartphone,4,441.93,10,4.45,Credit Card,2024-11-19,6,4.0,Satisfied,1767.72,176.77200000000002,1595.3980000000001
+ORD00647,CUST0207,Jennifer Lee,38.0,Other,Phoenix,AZ,Beauty,T-Shirt,2,213.8,10,14.35,Cash,2024-10-06,13,2.0,Neutral,427.6,42.760000000000005,399.19000000000005
+ORD00648,CUST0229,Sarah Williams,59.0,Female,Houston,FL,Electronics,Lipstick,5,362.96,5,18.87,Credit Card,2024-08-15,12,5.0,Satisfied,1814.8,90.74000000000001,1742.9299999999998
+ORD00649,CUST0066,Robert Garcia,30.0,Female,Chicago,FL,Toys,Doll,5,459.96,0,10.56,PayPal,2024-02-05,14,4.0,Satisfied,2299.7999999999997,0.0,2310.3599999999997
+ORD00650,CUST0075,Mike Johnson,66.0,Female,Phoenix,IL,Home & Garden,Doll,4,209.94,25,10.8,Cash,2024-02-14,6,4.0,Satisfied,839.76,209.94,640.6199999999999
+ORD00651,CUST0103,Sarah Williams,58.0,Male,Dallas,FL,Clothing,Basketball,4,103.73,10,9.22,Cash,2024-01-28,14,4.0,Dissatisfied,414.92,41.492000000000004,382.648
+ORD00652,CUST0192,William Moore,34.0,Male,San Diego,NY,Clothing,Sofa,1,263.39,5,6.52,Credit Card,2024-06-02,12,5.0,Satisfied,263.39,13.1695,256.7405
+ORD00653,CUST0252,Jennifer Lee,26.0,Female,San Diego,WA,Toys,Coffee,1,454.96,0,9.51,Credit Card,2024-01-23,4,5.0,Very Satisfied,454.96,0.0,464.46999999999997
+ORD00654,CUST0226,Chris Wilson,58.0,Female,San Diego,GA,Beauty,Doll,3,404.14,10,12.06,Credit Card,2024-07-25,12,5.0,Very Satisfied,1212.42,121.24200000000002,1103.238
+ORD00655,CUST0294,William Moore,18.0,Male,San Diego,PA,Electronics,Lamp,3,42.26,0,19.72,Credit Card,2024-03-31,11,5.0,Very Satisfied,126.78,0.0,146.5
+ORD00656,CUST0098,Robert Garcia,19.0,Male,San Antonio,AZ,Clothing,Headphones,5,349.36,0,18.76,Cash,2024-12-24,6,4.0,Dissatisfied,1746.8000000000002,0.0,1765.5600000000002
+ORD00657,CUST0286,John Smith,65.0,Female,San Diego,FL,Electronics,Headphones,5,290.23,5,17.24,Credit Card,2024-02-07,11,3.0,Very Satisfied,1451.15,72.5575,1395.8325000000002
+ORD00658,CUST0249,Emily Davis,46.0,Female,San Diego,AZ,Sports,Lipstick,2,454.66,0,17.78,Cash,2024-08-15,10,4.0,Dissatisfied,909.32,0.0,927.1
+ORD00659,CUST0166,James Harris,50.0,Male,San Diego,GA,Books,Basketball,2,70.02,10,9.36,Debit Card,2024-07-20,4,,Very Satisfied,140.04,14.004,135.396
+ORD00660,CUST0030,James Harris,27.0,Male,San Jose,AZ,Beauty,Lipstick,1,271.68,0,13.15,Cash,2024-12-15,13,,Dissatisfied,271.68,0.0,284.83
+ORD00661,CUST0247,Mike Johnson,67.0,Male,San Antonio,GA,Home & Garden,Novel,3,440.94,10,17.9,Credit Card,2024-11-04,8,5.0,Neutral,1322.82,132.282,1208.438
+ORD00662,CUST0106,Robert Garcia,57.0,Male,New York,FL,Books,Jeans,1,210.91,0,7.86,Credit Card,2024-09-10,9,4.0,Satisfied,210.91,0.0,218.77
+ORD00663,CUST0051,Amy Taylor,38.0,Male,Houston,GA,Books,T-Shirt,1,246.18,0,19.24,Debit Card,2024-02-07,2,3.0,Neutral,246.18,0.0,265.42
+ORD00664,CUST0081,Chris Wilson,45.0,Male,Houston,FL,Sports,Lamp,3,44.53,0,8.32,Cash,2024-08-08,7,4.0,Very Satisfied,133.59,0.0,141.91
+ORD00665,CUST0133,Amy Taylor,28.0,Female,Phoenix,IL,Clothing,Lamp,2,146.29,20,12.02,Debit Card,2024-07-05,9,5.0,Satisfied,292.58,58.516,246.084
+ORD00666,CUST0285,Jane Doe,51.0,Male,San Jose,IL,Home & Garden,Shampoo,3,169.01,15,14.2,Cash,2024-02-12,9,5.0,Very Satisfied,507.03,76.05449999999999,445.1755
+ORD00667,CUST0138,Jessica White,25.0,Female,Philadelphia,GA,Clothing,Cookbook,4,473.11,0,19.01,Credit Card,2024-12-24,12,5.0,Satisfied,1892.44,0.0,1911.45
+ORD00668,CUST0184,Jane Doe,39.0,Female,Houston,IL,Toys,Cookbook,4,148.51,10,4.89,Cash,2024-04-23,5,5.0,Neutral,594.04,59.403999999999996,539.526
+ORD00669,CUST0273,William Moore,25.0,Male,Los Angeles,PA,Books,Jeans,4,235.83,10,14.92,Credit Card,2024-09-16,1,3.0,Very Satisfied,943.32,94.33200000000001,863.908
+ORD00670,CUST0069,Sarah Williams,66.0,Female,Philadelphia,PA,Toys,Shampoo,5,338.94,25,10.42,Credit Card,2024-01-05,6,3.0,Neutral,1694.7,423.675,1281.4450000000002
+ORD00671,CUST0034,John Smith,32.0,Male,San Diego,IL,Electronics,Lipstick,2,89.47,0,5.37,PayPal,2024-03-08,8,2.0,Satisfied,178.94,0.0,184.31
+ORD00672,CUST0262,Mike Johnson,34.0,Female,San Diego,IL,Books,Shampoo,2,248.36,10,15.53,PayPal,2024-08-15,1,5.0,Satisfied,496.72,49.672000000000004,462.578
+ORD00673,CUST0053,William Moore,40.0,Male,San Antonio,,Clothing,Novel,5,371.88,0,11.04,Cash,2024-05-02,2,4.0,Very Dissatisfied,1859.4,0.0,1870.44
+ORD00674,CUST0205,Tom Martinez,41.0,Female,Philadelphia,OH,Books,Basketball,1,434.76,0,13.22,Credit Card,2024-06-21,13,5.0,Neutral,434.76,0.0,447.98
+ORD00675,CUST0126,Chris Wilson,62.0,Female,Los Angeles,FL,Electronics,Laptop,4,316.87,25,6.46,Debit Card,2024-12-01,13,5.0,Satisfied,1267.48,316.87,957.07
+ORD00676,CUST0235,James Harris,36.0,Male,San Antonio,GA,Sports,Cookbook,4,337.84,5,9.63,Credit Card,2024-06-01,1,4.0,Neutral,1351.36,67.568,1293.422
+ORD00677,CUST0043,Chris Wilson,22.0,Male,Phoenix,TX,Toys,Novel,1,71.88,0,12.35,Debit Card,2024-09-23,5,3.0,Dissatisfied,71.88,0.0,84.22999999999999
+ORD00678,CUST0240,William Moore,49.0,Female,Philadelphia,TX,Food,Sofa,3,473.43,0,8.1,Cash,2024-06-05,2,3.0,Very Satisfied,1420.29,0.0,1428.3899999999999
+ORD00679,CUST0111,William Moore,61.0,Female,San Jose,IL,Toys,Shampoo,3,74.96,10,3.97,Cash,2024-06-10,10,5.0,Satisfied,224.88,22.488,206.362
+ORD00680,CUST0249,Robert Garcia,18.0,Male,San Diego,AZ,Clothing,Headphones,2,389.59,10,19.23,Debit Card,2024-08-01,10,4.0,Satisfied,779.18,77.918,720.492
+ORD00681,CUST0151,Sarah Williams,40.0,Female,San Diego,IL,Books,Headphones,5,139.76,0,10.23,Debit Card,2024-01-26,14,4.0,Very Satisfied,698.8,0.0,709.03
+ORD00682,CUST0183,Jane Doe,54.0,Male,Chicago,OH,Clothing,Novel,2,467.46,25,14.68,Credit Card,2024-10-18,4,5.0,Very Satisfied,934.92,233.73,715.8699999999999
+ORD00683,CUST0095,James Harris,25.0,Female,San Antonio,FL,Sports,Jeans,3,362.78,0,8.22,Cash,2024-07-07,1,5.0,Very Satisfied,1088.34,0.0,1096.56
+ORD00684,CUST0008,Jessica White,30.0,Male,New York,IL,Books,Basketball,1,379.37,0,7.1,Credit Card,2024-05-01,7,4.0,Satisfied,379.37,0.0,386.47
+ORD00685,CUST0184,Sarah Williams,25.0,Female,New York,WA,Food,Doll,2,117.34,20,8.14,Debit Card,2024-08-17,8,5.0,Dissatisfied,234.68,46.93600000000001,195.88400000000001
+ORD00686,CUST0281,Emily Davis,40.0,Male,San Antonio,AZ,Books,Chocolate,4,227.09,0,8.18,PayPal,2024-02-28,5,5.0,Neutral,908.36,0.0,916.54
+ORD00687,CUST0195,Robert Garcia,60.0,Male,San Jose,WA,Food,Lamp,4,312.73,0,10.88,PayPal,2024-04-05,2,5.0,Satisfied,1250.92,0.0,1261.8000000000002
+ORD00688,CUST0195,Robert Garcia,18.0,Male,Dallas,FL,Clothing,Jeans,1,387.29,5,10.87,PayPal,2024-09-18,8,4.0,Very Satisfied,387.29,19.364500000000003,378.7955
+ORD00689,CUST0155,Mike Johnson,62.0,Male,San Antonio,FL,Clothing,Novel,3,60.94,15,9.94,Debit Card,2024-12-19,1,4.0,Very Satisfied,182.82,27.423,165.337
+ORD00690,CUST0093,John Smith,68.0,Female,San Jose,PA,Electronics,Basketball,4,481.56,0,2.7,Credit Card,2024-11-07,7,5.0,Satisfied,1926.24,0.0,1928.94
+ORD00691,CUST0160,Jessica White,41.0,Male,Phoenix,CA,Beauty,Basketball,4,446.21,20,9.92,Cash,2024-05-15,1,4.0,Satisfied,1784.84,356.968,1437.792
+ORD00692,CUST0061,Jennifer Lee,52.0,Female,San Diego,WA,Beauty,T-Shirt,5,142.47,10,3.38,Debit Card,2024-12-15,12,5.0,Very Satisfied,712.35,71.235,644.495
+ORD00693,CUST0122,Lisa Anderson,41.0,Male,Los Angeles,PA,Sports,Smartphone,2,,0,2.52,PayPal,2024-10-09,6,5.0,Satisfied,826.3,0.0,828.8199999999999
+ORD00694,CUST0051,Jennifer Lee,34.0,Male,Dallas,OH,Beauty,Headphones,3,263.98,10,18.65,Credit Card,2024-04-29,13,5.0,Dissatisfied,791.94,79.19400000000002,731.3960000000001
+ORD00695,CUST0277,William Moore,22.0,Male,Philadelphia,NY,Electronics,Novel,2,236.29,0,12.1,Cash,2024-01-25,6,4.0,Neutral,472.58,0.0,484.68
+ORD00696,CUST0005,David Brown,37.0,Male,Dallas,AZ,Toys,Coffee,3,164.07,5,13.19,Cash,2024-12-07,5,3.0,Neutral,492.21,24.610500000000002,480.7895
+ORD00697,CUST0092,James Harris,38.0,Male,Los Angeles,NY,Food,Doll,4,294.67,10,8.04,Debit Card,2024-05-25,2,4.0,Neutral,1178.68,117.86800000000001,1068.852
+ORD00698,CUST0170,David Brown,57.0,Male,Chicago,GA,Books,Shampoo,5,367.65,25,18.18,Debit Card,2024-01-12,2,5.0,Very Satisfied,1838.25,459.5625,1396.8675
+ORD00699,CUST0022,Robert Garcia,48.0,Female,San Diego,OH,Clothing,Lamp,2,211.36,0,12.76,Cash,2024-03-27,9,4.0,Very Satisfied,422.72,0.0,435.48
+ORD00700,CUST0001,Sarah Williams,63.0,Male,New York,OH,Books,Shampoo,4,318.32,5,15.38,Cash,2024-04-18,5,3.0,Neutral,1273.28,63.664,1224.996
+ORD00701,CUST0133,Emily Davis,53.0,Female,San Jose,,Books,Smartphone,3,352.66,5,7.37,PayPal,2024-12-10,5,3.0,Neutral,1057.98,52.899,1012.451
+ORD00702,CUST0233,Mike Johnson,28.0,Female,San Antonio,WA,Home & Garden,Sofa,2,358.45,0,19.2,Cash,2024-09-22,7,4.0,Satisfied,716.9,0.0,736.1
+ORD00703,CUST0012,Tom Martinez,69.0,Male,San Antonio,CA,Toys,Cookbook,2,35.46,0,16.41,Debit Card,2024-08-09,6,3.0,Very Satisfied,70.92,0.0,87.33
+ORD00704,CUST0046,David Brown,32.0,Male,New York,WA,Home & Garden,Coffee,4,431.28,0,17.08,Credit Card,2024-03-14,2,3.0,Satisfied,1725.12,0.0,1742.1999999999998
+ORD00705,CUST0034,Mike Johnson,36.0,Other,Dallas,NY,Beauty,T-Shirt,2,234.54,10,3.44,PayPal,2024-11-28,11,5.0,Very Satisfied,469.08,46.908,425.61199999999997
+ORD00706,CUST0078,Robert Garcia,24.0,Female,San Diego,GA,Books,Cookbook,5,138.58,5,5.42,PayPal,2024-11-05,1,1.0,Very Satisfied,692.9000000000001,34.645,663.6750000000001
+ORD00707,CUST0218,John Smith,68.0,Female,Houston,WA,Food,Smartphone,5,128.46,0,5.71,Cash,2024-04-11,5,3.0,Very Satisfied,642.3000000000001,0.0,648.0100000000001
+ORD00708,CUST0073,Amy Taylor,45.0,Male,San Jose,TX,Clothing,Smartphone,4,246.68,15,5.42,Credit Card,2024-05-16,4,5.0,Satisfied,986.72,148.008,844.132
+ORD00709,CUST0282,Jennifer Lee,68.0,Female,Phoenix,WA,Food,Cookbook,3,,15,17.11,PayPal,2024-07-09,12,5.0,Very Satisfied,1333.65,200.0475,1150.7124999999999
+ORD00710,CUST0249,Emily Davis,60.0,Female,Los Angeles,FL,Books,Lipstick,4,195.39,5,0.64,Debit Card,2024-05-21,3,4.0,Very Satisfied,781.56,39.078,743.122
+ORD00711,CUST0047,James Harris,22.0,Female,Dallas,PA,Toys,Lamp,5,377.37,0,1.52,Cash,2024-12-22,2,3.0,Neutral,1886.85,0.0,1888.37
+ORD00712,CUST0121,Jane Doe,22.0,Other,Philadelphia,AZ,Food,Lamp,1,57.44,10,5.48,Debit Card,2024-03-13,10,5.0,Satisfied,57.44,5.744,57.176
+ORD00713,CUST0214,William Moore,47.0,Male,Chicago,WA,Home & Garden,Laptop,1,243.27,0,4.0,Cash,2024-11-23,2,4.0,Satisfied,243.27,0.0,247.27
+ORD00714,CUST0239,Mike Johnson,49.0,Male,San Antonio,CA,Clothing,Shampoo,2,495.93,0,4.64,PayPal,2024-06-15,14,2.0,Satisfied,991.86,0.0,996.5
+ORD00715,CUST0056,John Smith,25.0,Female,Dallas,CA,Books,Doll,2,387.51,10,15.96,Cash,2024-06-16,4,3.0,Very Dissatisfied,775.02,77.50200000000001,713.4780000000001
+ORD00716,CUST0107,Tom Martinez,27.0,Female,Chicago,WA,Sports,Sofa,1,113.16,0,11.26,Credit Card,2024-02-23,2,3.0,Very Satisfied,113.16,0.0,124.42
+ORD00717,CUST0048,Lisa Anderson,55.0,Male,Los Angeles,IL,Toys,Shampoo,5,255.71,0,0.12,Debit Card,2024-09-15,4,5.0,Very Satisfied,1278.55,0.0,1278.6699999999998
+ORD00718,CUST0061,Jennifer Lee,64.0,Male,San Antonio,OH,Toys,Lamp,2,124.48,0,8.59,Credit Card,2024-04-20,3,5.0,Satisfied,248.96,0.0,257.55
+ORD00719,CUST0026,Jane Doe,49.0,Male,San Antonio,WA,Sports,Doll,4,210.68,0,8.16,Debit Card,2024-08-19,9,5.0,Very Satisfied,842.72,0.0,850.88
+ORD00720,CUST0292,James Harris,65.0,Male,Houston,OH,Food,Chocolate,4,392.24,0,2.28,Debit Card,2024-06-09,7,4.0,Satisfied,1568.96,0.0,1571.24
+ORD00721,CUST0257,Jennifer Lee,45.0,Female,Dallas,TX,Books,Sofa,5,387.9,25,13.52,Cash,2024-12-17,14,4.0,Satisfied,1939.5,484.875,1468.145
+ORD00722,CUST0008,Robert Garcia,34.0,Female,San Diego,NY,Toys,Sofa,2,121.77,0,14.04,PayPal,2024-11-22,13,5.0,Very Dissatisfied,243.54,0.0,257.58
+ORD00723,CUST0113,Lisa Anderson,48.0,Male,,TX,Clothing,Smartphone,4,461.89,0,14.42,PayPal,2024-01-19,11,4.0,Dissatisfied,1847.56,0.0,1861.98
+ORD00724,CUST0253,Jennifer Lee,25.0,Male,New York,WA,Books,Sofa,2,300.36,0,14.57,Credit Card,2024-10-16,12,4.0,Very Dissatisfied,600.72,0.0,615.2900000000001
+ORD00725,CUST0180,Jessica White,57.0,Male,Phoenix,CA,Books,T-Shirt,2,196.16,20,0.0,Cash,2024-02-19,3,5.0,Very Satisfied,392.32,78.464,313.856
+ORD00726,CUST0207,Tom Martinez,42.0,Male,Philadelphia,IL,Home & Garden,Cookbook,4,255.95,5,19.08,PayPal,2024-06-23,13,5.0,Dissatisfied,1023.8,51.19,991.6899999999999
+ORD00727,CUST0127,John Smith,26.0,Female,Chicago,GA,Toys,Coffee,1,306.48,0,16.28,Debit Card,2024-10-28,14,4.0,Very Satisfied,306.48,0.0,322.76
+ORD00728,CUST0056,William Moore,19.0,Other,Dallas,OH,Toys,Lipstick,4,284.35,15,18.08,Debit Card,2024-07-02,8,5.0,Satisfied,1137.4,170.61,984.8700000000001
+ORD00729,CUST0214,David Brown,32.0,Female,San Jose,PA,Sports,Laptop,5,248.34,0,0.31,Cash,2024-07-03,9,4.0,Neutral,1241.7,0.0,1242.01
+ORD00730,CUST0014,Lisa Anderson,67.0,Male,Philadelphia,OH,Home & Garden,Shampoo,3,257.42,0,18.68,Credit Card,2024-12-04,13,4.0,Very Satisfied,772.26,0.0,790.9399999999999
+ORD00731,CUST0028,James Harris,20.0,Female,Houston,FL,Food,Novel,4,96.44,0,16.2,Cash,2024-11-02,7,2.0,Satisfied,385.76,0.0,401.96
+ORD00732,CUST0078,Robert Garcia,66.0,Female,San Antonio,AZ,Beauty,Jeans,2,408.24,0,16.74,Credit Card,2024-11-05,6,5.0,Very Satisfied,816.48,0.0,833.22
+ORD00733,CUST0216,Jessica White,53.0,Female,San Diego,WA,Food,Laptop,2,275.46,0,1.87,Cash,2024-12-11,4,5.0,Very Satisfied,550.92,0.0,552.79
+ORD00734,CUST0154,Jane Doe,21.0,Male,Dallas,TX,Food,T-Shirt,4,74.23,10,14.78,Debit Card,2024-03-21,5,5.0,Dissatisfied,296.92,29.692000000000004,282.008
+ORD00735,CUST0014,Sarah Williams,31.0,Male,Philadelphia,PA,Home & Garden,Laptop,3,385.42,0,19.2,Cash,2024-06-04,8,3.0,Very Satisfied,1156.26,0.0,1175.46
+ORD00736,CUST0187,Chris Wilson,58.0,Male,Philadelphia,CA,Toys,Sofa,4,466.9,5,13.57,PayPal,2024-10-01,3,3.0,Very Satisfied,1867.6,93.38,1787.7899999999997
+ORD00737,CUST0007,Mike Johnson,58.0,Male,San Diego,CA,Books,Smartphone,3,474.18,0,11.41,PayPal,2024-10-09,2,5.0,Satisfied,1422.54,0.0,1433.95
+ORD00738,CUST0003,William Moore,42.0,Male,Phoenix,CA,Home & Garden,Coffee,3,190.82,0,18.91,Cash,2024-09-05,3,4.0,Dissatisfied,572.46,0.0,591.37
+ORD00739,CUST0111,Jennifer Lee,67.0,Male,Chicago,GA,Sports,Jeans,5,76.4,5,8.86,Credit Card,2024-05-26,12,4.0,Very Satisfied,382.0,19.1,371.76
+ORD00740,CUST0238,David Brown,27.0,Female,Chicago,FL,Home & Garden,Lamp,2,264.02,20,11.99,Credit Card,2024-01-07,7,,Satisfied,528.04,105.608,434.42199999999997
+ORD00741,CUST0239,Lisa Anderson,38.0,Female,Philadelphia,CA,Sports,Smartphone,2,65.18,0,9.53,Debit Card,2024-06-05,8,5.0,Dissatisfied,130.36,0.0,139.89000000000001
+ORD00742,CUST0274,Jennifer Lee,53.0,Male,Los Angeles,,Food,Sofa,3,467.65,10,18.66,Debit Card,2024-06-19,1,4.0,Very Satisfied,1402.9499999999998,140.295,1281.3149999999998
+ORD00743,CUST0294,Amy Taylor,29.0,Male,Philadelphia,WA,Beauty,Sofa,2,99.95,0,1.52,Credit Card,2024-03-09,13,1.0,Very Satisfied,199.9,0.0,201.42000000000002
+ORD00744,CUST0227,Mike Johnson,44.0,Female,Philadelphia,FL,Home & Garden,Jeans,1,133.86,0,10.02,Cash,2024-04-03,7,2.0,Neutral,133.86,0.0,143.88000000000002
+ORD00745,CUST0015,Sarah Williams,57.0,Female,San Diego,IL,Sports,Jeans,3,209.25,0,13.74,Debit Card,2024-12-28,9,5.0,Satisfied,627.75,0.0,641.49
+ORD00746,CUST0192,Jessica White,19.0,Female,San Antonio,IL,Home & Garden,Chocolate,2,197.75,0,15.84,Credit Card,2024-07-04,12,5.0,Neutral,395.5,0.0,411.34
+ORD00747,CUST0119,James Harris,30.0,Other,San Diego,FL,Beauty,Headphones,1,399.38,0,11.66,Credit Card,2024-06-18,13,5.0,Very Satisfied,399.38,0.0,411.04
+ORD00748,CUST0028,Tom Martinez,49.0,Female,Dallas,AZ,Food,Coffee,5,233.6,0,18.18,Cash,2024-07-22,14,4.0,Dissatisfied,1168.0,0.0,1186.18
+ORD00749,CUST0202,Jessica White,48.0,Other,Philadelphia,GA,Home & Garden,Basketball,2,93.68,10,18.84,PayPal,2024-02-11,14,2.0,Very Dissatisfied,187.36,18.736,187.46400000000003
+ORD00750,CUST0039,Jessica White,33.0,Male,Chicago,PA,Clothing,Coffee,1,140.93,0,1.29,Credit Card,2024-01-13,3,,Very Satisfied,140.93,0.0,142.22
+ORD00751,CUST0273,Chris Wilson,,Male,San Jose,OH,Sports,Basketball,4,259.47,5,8.05,Debit Card,2024-06-02,3,,Very Satisfied,1037.88,51.894000000000005,994.0360000000001
+ORD00752,CUST0231,John Smith,49.0,Male,Chicago,WA,Beauty,Doll,4,82.25,0,0.47,Cash,2024-09-30,8,4.0,,329.0,0.0,329.47
+ORD00753,CUST0086,Jessica White,51.0,Male,New York,NY,Sports,Lipstick,1,309.71,5,6.59,Cash,2024-10-24,4,3.0,Satisfied,309.71,15.4855,300.81449999999995
+ORD00754,CUST0126,Jennifer Lee,28.0,Male,Phoenix,IL,Sports,Smartphone,3,287.22,5,10.74,Cash,2024-02-20,14,4.0,Satisfied,861.6600000000001,43.083000000000006,829.3170000000001
+ORD00755,CUST0300,Sarah Williams,27.0,Female,Houston,FL,Electronics,Lamp,3,360.2,0,18.22,PayPal,2024-07-30,8,5.0,Satisfied,1080.6,0.0,1098.82
+ORD00756,CUST0025,Sarah Williams,32.0,Female,Dallas,PA,Beauty,Laptop,2,469.48,0,16.93,PayPal,2024-05-23,5,5.0,Neutral,938.96,0.0,955.89
+ORD00757,CUST0145,Tom Martinez,34.0,Female,Dallas,FL,Home & Garden,Sofa,4,457.0,10,2.55,Debit Card,2024-12-22,14,5.0,Neutral,1828.0,182.8,1647.75
+ORD00758,CUST0013,Emily Davis,57.0,Male,Phoenix,OH,Sports,Sofa,3,473.58,15,1.86,Debit Card,2024-01-03,3,3.0,Very Satisfied,1420.74,213.111,1209.4889999999998
+ORD00759,CUST0212,Tom Martinez,35.0,Female,San Jose,PA,Toys,Headphones,3,129.91,0,11.79,Cash,2024-09-10,4,3.0,Very Satisfied,389.73,0.0,401.52000000000004
+ORD00760,CUST0025,Jennifer Lee,26.0,Female,Houston,IL,Electronics,Smartphone,4,74.47,0,10.64,Debit Card,2024-11-30,14,3.0,Dissatisfied,297.88,0.0,308.52
+ORD00761,CUST0068,James Harris,42.0,Male,San Antonio,CA,Clothing,Lipstick,5,158.12,15,5.33,Credit Card,2024-09-12,4,5.0,Neutral,790.6,118.59,677.34
+ORD00762,CUST0067,Emily Davis,57.0,Female,Philadelphia,FL,Sports,Smartphone,3,448.59,0,17.99,PayPal,2024-04-07,8,4.0,Satisfied,1345.77,0.0,1363.76
+ORD00763,CUST0233,Emily Davis,31.0,Male,Houston,NY,Food,Chocolate,1,486.31,5,18.55,Cash,2024-06-21,6,5.0,,486.31,24.3155,480.5445
+ORD00764,CUST0109,David Brown,42.0,Male,San Jose,IL,Sports,Shampoo,2,431.07,0,8.05,Cash,2024-05-29,7,3.0,Neutral,862.14,0.0,870.1899999999999
+ORD00765,CUST0146,David Brown,67.0,Female,Los Angeles,TX,Electronics,Cookbook,3,63.91,0,17.81,Credit Card,2024-10-05,9,5.0,Very Satisfied,191.73,0.0,209.54
+ORD00766,CUST0111,Jane Doe,39.0,Male,New York,NY,Home & Garden,Doll,3,474.24,5,7.68,Credit Card,2024-02-28,6,5.0,Neutral,1422.72,71.13600000000001,1359.2640000000001
+ORD00767,CUST0228,Lisa Anderson,69.0,Male,Houston,AZ,Toys,Jeans,5,217.45,5,14.74,Credit Card,2024-04-22,3,4.0,Satisfied,1087.25,54.362500000000004,1047.6275
+ORD00768,CUST0111,Lisa Anderson,47.0,Female,Houston,GA,Food,Lamp,1,14.56,0,9.52,Credit Card,2024-11-19,13,5.0,Very Satisfied,14.56,0.0,24.08
+ORD00769,CUST0034,Robert Garcia,37.0,Female,New York,IL,Clothing,Lipstick,2,226.77,5,2.45,Cash,2024-08-30,3,4.0,Very Satisfied,453.54,22.677000000000003,433.313
+ORD00770,CUST0111,William Moore,38.0,Male,Philadelphia,CA,Food,Jeans,3,32.57,10,18.56,PayPal,2024-11-05,11,4.0,Neutral,97.71000000000001,9.771,106.49900000000001
+ORD00771,CUST0264,John Smith,61.0,Male,Houston,IL,Sports,Lamp,2,276.5,5,9.08,PayPal,2024-02-26,3,4.0,Very Dissatisfied,553.0,27.650000000000002,534.4300000000001
+ORD00772,CUST0236,Lisa Anderson,49.0,Male,New York,OH,Home & Garden,Shampoo,4,175.89,0,14.69,Credit Card,2024-02-29,12,5.0,Very Satisfied,703.56,0.0,718.25
+ORD00773,CUST0083,David Brown,68.0,Female,New York,PA,Beauty,T-Shirt,3,241.98,5,7.34,Debit Card,2024-11-24,10,5.0,Very Satisfied,725.9399999999999,36.297,696.983
+ORD00774,CUST0042,Jane Doe,63.0,Male,New York,FL,Toys,Novel,3,310.45,10,0.38,Cash,2024-08-03,2,4.0,Satisfied,931.3499999999999,93.13499999999999,838.5949999999999
+ORD00775,CUST0101,Jessica White,66.0,Male,San Diego,PA,Beauty,Shampoo,4,435.71,10,2.01,PayPal,2024-08-20,1,5.0,Neutral,1742.84,174.284,1570.566
+ORD00776,CUST0006,Jane Doe,38.0,Female,San Jose,PA,Toys,Doll,5,334.33,10,9.92,Credit Card,2024-02-24,11,5.0,Neutral,1671.6499999999999,167.165,1514.405
+ORD00777,CUST0180,Jessica White,52.0,Female,San Diego,IL,Clothing,Chocolate,3,222.68,0,13.8,Debit Card,2024-07-26,10,5.0,Satisfied,668.04,0.0,681.8399999999999
+ORD00778,CUST0282,James Harris,49.0,Male,Los Angeles,OH,Books,Basketball,2,411.52,10,6.69,Debit Card,2024-03-03,1,4.0,Satisfied,823.04,82.304,747.426
+ORD00779,CUST0226,James Harris,47.0,Female,San Antonio,FL,Toys,Shampoo,1,453.74,10,13.91,Credit Card,2024-07-02,4,4.0,Very Satisfied,453.74,45.374,422.276
+ORD00780,CUST0229,Emily Davis,56.0,Female,San Diego,,Books,Doll,2,68.68,0,13.97,Cash,2024-11-06,3,5.0,Satisfied,137.36,0.0,151.33
+ORD00781,CUST0289,Robert Garcia,66.0,Male,San Diego,PA,Beauty,Basketball,5,270.65,5,14.08,PayPal,2024-10-07,5,2.0,Very Satisfied,1353.25,67.66250000000001,1299.6675
+ORD00782,CUST0150,William Moore,29.0,Male,San Jose,AZ,Toys,Lamp,1,149.41,0,9.85,Debit Card,2024-01-26,12,4.0,Dissatisfied,149.41,0.0,159.26
+ORD00783,CUST0277,Tom Martinez,58.0,Female,San Antonio,GA,Clothing,Basketball,2,33.06,10,18.3,PayPal,2024-06-25,9,5.0,Very Satisfied,66.12,6.612000000000001,77.808
+ORD00784,CUST0198,John Smith,64.0,Male,Phoenix,OH,Electronics,Coffee,2,337.59,0,9.78,PayPal,2024-03-03,12,4.0,Neutral,675.18,0.0,684.9599999999999
+ORD00785,CUST0070,Jennifer Lee,35.0,Female,New York,AZ,Clothing,Jeans,4,432.76,5,9.01,Debit Card,2024-03-13,13,,Very Satisfied,1731.04,86.552,1653.498
+ORD00786,CUST0112,Emily Davis,38.0,Male,Dallas,WA,Clothing,Doll,5,89.82,20,3.99,Credit Card,2024-11-30,8,2.0,Satisfied,449.09999999999997,89.82,363.27
+ORD00787,CUST0004,Tom Martinez,30.0,Male,San Antonio,WA,Electronics,Sofa,4,408.08,10,6.15,Debit Card,2024-06-15,12,,Very Satisfied,1632.32,163.232,1475.238
+ORD00788,CUST0095,Lisa Anderson,38.0,M,Los Angeles,NY,Electronics,Jeans,1,428.16,20,0.85,Debit Card,2024-08-12,9,4.0,Very Satisfied,428.16,85.632,343.37800000000004
+ORD00789,CUST0152,Robert Garcia,,Male,Philadelphia,PA,Home & Garden,Lamp,4,458.03,25,12.67,Cash,2024-03-05,13,2.0,Very Satisfied,1832.12,458.03,1386.76
+ORD00790,CUST0137,Emily Davis,63.0,Male,Los Angeles,FL,Toys,Lipstick,5,139.99,0,4.97,PayPal,2024-03-09,5,4.0,Neutral,699.95,0.0,704.9200000000001
+ORD00791,CUST0247,Mike Johnson,57.0,Male,New York,IL,Beauty,Smartphone,3,452.94,10,6.08,Credit Card,2024-01-09,8,5.0,Satisfied,1358.82,135.882,1229.0179999999998
+ORD00792,CUST0243,Lisa Anderson,63.0,Female,San Antonio,FL,Home & Garden,Jeans,3,167.12,5,15.42,PayPal,2024-08-23,4,5.0,Neutral,501.36,25.068,491.71200000000005
+ORD00793,CUST0031,Tom Martinez,24.0,Other,Los Angeles,FL,Electronics,Coffee,1,280.65,15,6.54,Debit Card,2024-07-16,5,4.0,Satisfied,280.65,42.0975,245.09249999999997
+ORD00794,CUST0040,John Smith,40.0,Female,Los Angeles,CA,Books,Basketball,3,34.75,0,4.84,Credit Card,2024-06-21,12,3.0,Satisfied,104.25,0.0,109.09
+ORD00795,CUST0229,Jennifer Lee,,Female,Phoenix,FL,Beauty,Coffee,4,31.5,25,3.38,Credit Card,2024-10-08,3,5.0,Satisfied,126.0,31.5,97.88
+ORD00796,CUST0036,Tom Martinez,,Male,Phoenix,NY,Books,Headphones,1,362.98,10,15.5,Credit Card,2024-01-28,5,4.0,Very Dissatisfied,362.98,36.298,342.182
+ORD00797,CUST0223,Jessica White,28.0,Other,San Antonio,AZ,Clothing,Cookbook,5,227.8,10,2.59,Credit Card,2024-10-22,12,5.0,Satisfied,1139.0,113.9,1027.6899999999998
+ORD00798,CUST0006,James Harris,39.0,Male,New York,WA,Sports,Shampoo,1,135.58,0,9.08,Cash,2024-05-13,3,2.0,Very Satisfied,135.58,0.0,144.66000000000003
+ORD00799,CUST0220,Emily Davis,39.0,Female,San Diego,FL,Clothing,Sofa,1,103.3,0,10.14,Credit Card,2024-01-27,5,5.0,Dissatisfied,103.3,0.0,113.44
+ORD00800,CUST0075,Emily Davis,60.0,Other,Chicago,FL,Clothing,Shampoo,2,338.28,10,13.75,Debit Card,2024-02-07,11,5.0,Very Satisfied,676.56,67.65599999999999,622.654
+ORD00801,CUST0004,Jennifer Lee,42.0,Female,Houston,CA,Sports,Basketball,2,10.2,0,12.67,Cash,2024-07-14,14,,Neutral,20.4,0.0,33.07
+ORD00802,CUST0134,Sarah Williams,39.0,Other,Dallas,OH,Toys,Headphones,1,404.89,15,16.21,Debit Card,2024-07-21,5,5.0,Very Satisfied,404.89,60.73349999999999,360.3665
+ORD00803,CUST0118,John Smith,45.0,Female,Houston,IL,Electronics,Lamp,3,48.83,0,0.9,Debit Card,2024-03-25,6,4.0,Neutral,146.49,0.0,147.39000000000001
+ORD00804,CUST0094,Amy Taylor,46.0,Male,San Jose,OH,Books,T-Shirt,2,103.83,10,5.93,PayPal,2024-11-15,9,3.0,Very Satisfied,207.66,20.766000000000002,192.824
+ORD00805,CUST0062,Lisa Anderson,30.0,Male,Phoenix,IL,Clothing,Chocolate,5,199.26,0,5.6,Credit Card,2024-01-30,1,5.0,Dissatisfied,996.3,0.0,1001.9
+ORD00806,CUST0194,Jane Doe,35.0,Female,San Antonio,GA,Sports,Headphones,4,247.58,10,2.92,Credit Card,2024-04-08,12,4.0,Satisfied,990.32,99.03200000000001,894.208
+ORD00807,CUST0203,Jennifer Lee,19.0,Male,Houston,FL,Home & Garden,Novel,2,183.95,10,5.78,Debit Card,2024-07-08,10,5.0,Very Satisfied,367.9,36.79,336.88999999999993
+ORD00808,CUST0026,John Smith,46.0,Female,New York,CA,Clothing,Shampoo,1,167.15,0,6.2,Credit Card,2024-01-12,14,5.0,Very Satisfied,167.15,0.0,173.35
+ORD00809,CUST0173,Jane Doe,38.0,Other,Dallas,TX,Books,T-Shirt,3,482.32,0,10.44,Cash,2024-03-31,6,4.0,Satisfied,1446.96,0.0,1457.4
+ORD00810,CUST0300,John Smith,32.0,Male,Houston,PA,Electronics,Doll,4,324.37,0,13.27,PayPal,2024-01-30,1,4.0,Neutral,1297.48,0.0,1310.75
+ORD00811,CUST0133,John Smith,69.0,Female,Dallas,WA,Clothing,Laptop,2,21.48,5,7.62,Credit Card,2024-07-31,6,4.0,Satisfied,42.96,2.148,48.431999999999995
+ORD00812,CUST0118,Tom Martinez,44.0,Female,Philadelphia,AZ,Clothing,Sofa,3,220.79,5,14.39,Credit Card,2024-02-07,2,4.0,Very Satisfied,662.37,33.118500000000004,643.6415
+ORD00813,CUST0275,William Moore,67.0,Female,New York,WA,Toys,Basketball,3,438.75,10,6.72,Cash,2024-12-06,8,1.0,Satisfied,1316.25,131.625,1191.345
+ORD00814,CUST0212,Jessica White,48.0,Other,Chicago,AZ,Food,Doll,3,157.71,5,5.81,PayPal,2024-02-29,11,5.0,Satisfied,473.13,23.6565,455.2835
+ORD00815,CUST0225,John Smith,32.0,female,Los Angeles,GA,Sports,Doll,1,56.33,5,10.82,Cash,2024-10-20,3,4.0,Very Satisfied,56.33,2.8165,64.3335
+ORD00816,CUST0020,William Moore,68.0,Other,Dallas,OH,Home & Garden,Laptop,5,381.61,0,0.47,Debit Card,2024-12-25,10,4.0,Very Satisfied,1908.0500000000002,0.0,1908.5200000000002
+ORD00817,CUST0113,Sarah Williams,40.0,Female,New York,NY,Home & Garden,Jeans,3,306.95,0,1.6,Debit Card,2024-05-22,14,3.0,Neutral,920.8499999999999,0.0,922.4499999999999
+ORD00818,CUST0140,Amy Taylor,41.0,Male,Dallas,FL,Beauty,Lamp,4,289.45,0,8.36,Credit Card,2024-06-28,6,3.0,Very Dissatisfied,1157.8,0.0,1166.1599999999999
+ORD00819,CUST0047,Emily Davis,61.0,Male,Dallas,TX,Electronics,Coffee,2,36.25,25,18.86,PayPal,2024-10-11,6,2.0,Very Satisfied,72.5,18.125,73.235
+ORD00820,CUST0001,Chris Wilson,30.0,Female,San Diego,AZ,Beauty,Sofa,4,78.84,15,14.43,Debit Card,2024-04-21,4,5.0,Neutral,315.36,47.304,282.48600000000005
+ORD00821,CUST0090,Jane Doe,39.0,Male,San Diego,PA,Books,Chocolate,1,315.05,0,1.76,Cash,2024-08-17,5,4.0,Very Satisfied,315.05,0.0,316.81
+ORD00822,CUST0142,Emily Davis,60.0,Female,New York,,Electronics,Smartphone,1,111.83,5,16.93,Debit Card,2024-01-21,2,5.0,Satisfied,111.83,5.5915,123.1685
+ORD00823,CUST0038,Chris Wilson,54.0,Female,,NY,Clothing,Doll,4,256.99,15,14.65,Debit Card,2024-05-24,10,5.0,Satisfied,1027.96,154.194,888.416
+ORD00824,CUST0293,Amy Taylor,50.0,Male,San Jose,WA,Food,T-Shirt,5,276.99,5,12.22,Cash,2024-05-25,10,,Very Satisfied,1384.95,69.2475,1327.9225000000001
+ORD00825,CUST0139,Jessica White,20.0,Female,Chicago,CA,Clothing,Doll,1,148.92,0,16.41,Credit Card,2024-11-11,8,2.0,Satisfied,148.92,0.0,165.32999999999998
+ORD00826,CUST0259,Amy Taylor,36.0,Female,San Antonio,WA,Home & Garden,Coffee,1,474.73,0,8.08,PayPal,2024-06-14,10,4.0,Dissatisfied,474.73,0.0,482.81
+ORD00827,CUST0161,Jane Doe,40.0,Female,New York,GA,Books,Smartphone,4,422.81,5,4.43,Credit Card,2024-05-19,7,4.0,Very Dissatisfied,1691.24,84.56200000000001,1611.108
+ORD00828,CUST0178,James Harris,46.0,Male,New York,CA,Sports,Doll,1,363.96,25,10.24,Cash,2024-07-21,10,4.0,Very Satisfied,363.96,90.99,283.21
+ORD00829,CUST0010,Jane Doe,47.0,Male,San Jose,WA,Books,Laptop,5,48.22,10,10.98,Debit Card,2024-08-31,6,5.0,Very Satisfied,241.1,24.11,227.97
+ORD00830,CUST0261,Amy Taylor,56.0,Male,Phoenix,PA,Clothing,Coffee,5,62.0,0,10.77,PayPal,2024-04-22,7,5.0,Very Dissatisfied,310.0,0.0,320.77
+ORD00831,CUST0138,Chris Wilson,61.0,Female,Phoenix,WA,Sports,Headphones,5,251.46,0,11.3,Credit Card,2024-07-19,12,5.0,Very Satisfied,1257.3,0.0,1268.6
+ORD00832,CUST0172,Jennifer Lee,64.0,Male,San Diego,PA,Books,Headphones,2,88.75,10,18.97,Cash,2024-11-09,1,4.0,Neutral,177.5,17.75,178.72
+ORD00833,CUST0013,John Smith,42.0,Female,San Antonio,PA,Food,Coffee,5,489.35,15,18.04,Debit Card,2024-09-15,14,5.0,Very Satisfied,2446.75,367.0125,2097.7775
+ORD00834,CUST0168,Lisa Anderson,54.0,Male,San Diego,CA,Food,Lipstick,5,87.67,10,17.51,Debit Card,2024-09-11,14,2.0,Satisfied,438.35,43.83500000000001,412.025
+ORD00835,CUST0130,Robert Garcia,64.0,Male,Philadelphia,OH,Books,Lamp,2,248.86,10,16.03,Credit Card,2024-01-23,5,5.0,Very Satisfied,497.72,49.772000000000006,463.97800000000007
+ORD00836,CUST0084,William Moore,25.0,Female,Philadelphia,IL,Sports,Laptop,3,188.42,0,18.87,Cash,2024-09-02,7,5.0,Dissatisfied,565.26,0.0,584.13
+ORD00837,CUST0101,Mike Johnson,59.0,Female,Los Angeles,FL,Clothing,Cookbook,1,323.3,15,1.97,Debit Card,2024-12-04,1,4.0,Dissatisfied,323.3,48.495,276.77500000000003
+ORD00838,CUST0273,Robert Garcia,33.0,Male,Philadelphia,AZ,Books,Doll,5,73.23,10,5.3,Debit Card,2024-11-06,2,4.0,Very Satisfied,366.15000000000003,36.615,334.83500000000004
+ORD00839,CUST0265,Emily Davis,25.0,Male,Phoenix,IL,Sports,Sofa,1,220.86,0,9.9,PayPal,2024-11-13,9,5.0,Neutral,220.86,0.0,230.76000000000002
+ORD00840,CUST0038,Tom Martinez,18.0,Male,Chicago,NY,Toys,T-Shirt,4,144.61,10,16.93,Debit Card,2024-03-27,12,2.0,Satisfied,578.44,57.84400000000001,537.526
+ORD00841,CUST0094,Emily Davis,61.0,Female,Philadelphia,OH,Food,Headphones,1,445.0,0,10.1,Credit Card,2024-08-06,3,2.0,Very Satisfied,445.0,0.0,455.1
+ORD00842,CUST0095,Tom Martinez,22.0,Female,San Diego,IL,Toys,Coffee,2,29.89,0,14.96,Cash,2024-12-21,6,4.0,Neutral,59.78,0.0,74.74000000000001
+ORD00843,CUST0069,Chris Wilson,20.0,Male,Dallas,CA,Clothing,Headphones,1,457.73,0,2.78,Cash,2024-01-27,7,4.0,Satisfied,457.73,0.0,460.51
+ORD00844,CUST0236,James Harris,18.0,Male,New York,NY,Sports,Smartphone,1,418.17,0,5.05,PayPal,2024-10-16,9,5.0,Very Satisfied,418.17,0.0,423.22
+ORD00845,CUST0137,Tom Martinez,21.0,Male,Chicago,TX,Toys,Smartphone,1,155.81,0,14.64,Cash,2024-10-15,5,5.0,Very Satisfied,155.81,0.0,170.45
+ORD00846,CUST0076,Jane Doe,57.0,Female,Chicago,OH,Sports,Chocolate,3,396.75,5,3.29,Credit Card,2024-12-13,4,5.0,Very Dissatisfied,1190.25,59.5125,1134.0275
+ORD00847,CUST0035,Jennifer Lee,52.0,Other,San Diego,IL,Books,Lipstick,3,25.29,5,7.03,Debit Card,2024-08-10,11,4.0,Dissatisfied,75.87,3.7935000000000003,79.10650000000001
+ORD00848,CUST0001,Lisa Anderson,49.0,Male,New York,NY,Clothing,Shampoo,4,483.76,5,5.3,PayPal,2024-12-17,12,5.0,Neutral,1935.04,96.75200000000001,1843.588
+ORD00849,CUST0296,Lisa Anderson,59.0,F,Phoenix,TX,Toys,Basketball,2,268.03,0,7.0,Cash,2024-06-26,2,5.0,Very Satisfied,536.06,0.0,543.06
+ORD00850,CUST0060,Jane Doe,51.0,Male,Chicago,WA,Beauty,Jeans,1,158.61,0,14.17,PayPal,2024-05-27,3,4.0,Neutral,158.61,0.0,172.78
+ORD00851,CUST0267,Jennifer Lee,60.0,Male,Los Angeles,NY,Books,Cookbook,1,187.67,10,7.36,PayPal,2024-08-14,5,4.0,Very Satisfied,187.67,18.767,176.263
+ORD00852,CUST0229,Jessica White,42.0,Female,San Diego,CA,Food,Smartphone,1,42.54,0,11.11,Cash,2024-12-16,11,5.0,Very Dissatisfied,42.54,0.0,53.65
+ORD00853,CUST0270,Sarah Williams,27.0,Female,Chicago,WA,Beauty,Smartphone,1,494.78,0,2.0,PayPal,2024-07-04,13,2.0,Very Satisfied,494.78,0.0,496.78
+ORD00854,CUST0286,Jessica White,38.0,Female,San Antonio,CA,Beauty,Lipstick,3,29.25,15,16.1,Cash,2024-10-20,2,4.0,Satisfied,87.75,13.1625,90.6875
+ORD00855,CUST0291,James Harris,63.0,Female,New York,IL,Electronics,Sofa,4,330.9,10,7.4,Credit Card,2024-02-10,13,3.0,Satisfied,1323.6,132.35999999999999,1198.64
+ORD00856,CUST0213,Robert Garcia,56.0,Male,Philadelphia,FL,Electronics,Shampoo,5,226.94,15,12.97,Cash,2024-07-09,4,2.0,Neutral,1134.7,170.205,977.465
+ORD00857,CUST0165,James Harris,44.0,Female,Chicago,IL,Clothing,Coffee,2,474.97,5,14.51,Debit Card,2024-03-19,1,3.0,Neutral,949.94,47.49700000000001,916.9530000000001
+ORD00858,CUST0005,Chris Wilson,44.0,Male,San Diego,WA,Toys,Basketball,1,130.54,0,4.19,Cash,2024-07-23,4,4.0,Satisfied,130.54,0.0,134.73
+ORD00859,CUST0078,Robert Garcia,120.0,female,Philadelphia,PA,Toys,Smartphone,4,270.72,10,17.69,Debit Card,2024-10-04,7,5.0,Satisfied,1082.88,108.28800000000001,992.2820000000002
+ORD00860,CUST0062,Sarah Williams,58.0,Male,Los Angeles,IL,Toys,Lipstick,5,246.35,0,12.32,PayPal,2024-09-28,14,4.0,Neutral,1231.75,0.0,1244.07
+ORD00861,CUST0132,Sarah Williams,65.0,Female,Philadelphia,WA,Sports,T-Shirt,4,354.4,5,8.57,Cash,2024-02-01,12,5.0,Very Satisfied,1417.6,70.88,1355.2899999999997
+ORD00862,CUST0089,Emily Davis,30.0,Male,San Antonio,NY,Books,Sofa,3,43.33,0,3.65,Debit Card,2024-05-21,3,4.0,Neutral,129.99,0.0,133.64000000000001
+ORD00863,CUST0237,Amy Taylor,26.0,Male,Phoenix,GA,Toys,Jeans,5,104.96,15,18.85,Cash,2024-09-07,10,,Very Dissatisfied,524.8,78.71999999999998,464.93
+ORD00864,CUST0042,Emily Davis,69.0,Female,Chicago,IL,Books,Laptop,4,115.14,0,15.1,Cash,2024-10-20,8,,Very Satisfied,460.56,0.0,475.66
+ORD00865,CUST0089,Amy Taylor,53.0,Male,Houston,NY,Clothing,Coffee,3,371.69,20,4.16,Cash,2024-04-07,6,5.0,Very Satisfied,1115.07,223.014,896.2159999999999
+ORD00866,CUST0296,James Harris,39.0,Female,Houston,CA,Beauty,Sofa,4,102.68,15,6.75,Credit Card,2024-05-15,6,5.0,Very Satisfied,410.72,61.608000000000004,355.862
+ORD00867,CUST0295,Mike Johnson,59.0,Male,Philadelphia,OH,Toys,Laptop,4,291.01,5,16.19,Debit Card,2024-10-03,14,5.0,Very Satisfied,1164.04,58.202,1122.028
+ORD00868,CUST0104,James Harris,43.0,Male,San Jose,FL,Clothing,Headphones,5,115.47,10,13.91,Credit Card,2024-11-07,1,5.0,Satisfied,577.35,57.73500000000001,533.525
+ORD00869,CUST0014,Tom Martinez,29.0,Male,New York,CA,Toys,Basketball,3,432.2,10,15.32,Credit Card,2024-10-28,5,4.0,Neutral,1296.6,129.66,1182.2599999999998
+ORD00870,CUST0288,Jennifer Lee,34.0,Male,Houston,CA,Electronics,Jeans,1,471.67,15,8.82,Debit Card,2024-02-12,3,4.0,Satisfied,471.67,70.7505,409.7395
+ORD00871,CUST0179,Amy Taylor,31.0,Female,San Jose,WA,Home & Garden,Chocolate,2,264.06,5,14.33,Cash,2024-04-29,10,5.0,Very Satisfied,528.12,26.406000000000002,516.044
+ORD00872,CUST0125,Jessica White,31.0,Male,Houston,PA,Clothing,Basketball,5,182.63,10,7.73,Credit Card,2024-08-07,1,4.0,Neutral,913.15,91.315,829.565
+ORD00873,CUST0023,Robert Garcia,51.0,Female,San Jose,AZ,Toys,Shampoo,3,124.69,5,4.23,Credit Card,2024-02-15,8,5.0,Neutral,374.07,18.703500000000002,359.5965
+ORD00874,CUST0063,Jane Doe,37.0,Female,New York,GA,Food,Jeans,4,34.39,20,12.65,Credit Card,2024-08-23,7,5.0,Very Dissatisfied,137.56,27.512,122.69800000000001
+ORD00875,CUST0143,Emily Davis,28.0,Male,Dallas,PA,Home & Garden,Shampoo,3,141.57,5,19.52,Cash,2024-02-17,7,4.0,Very Satisfied,424.71,21.235500000000002,422.99449999999996
+ORD00876,CUST0153,Jennifer Lee,33.0,Female,Houston,WA,Clothing,Basketball,2,330.58,5,6.21,Credit Card,2024-07-16,12,5.0,Neutral,661.16,33.058,634.312
+ORD00877,CUST0145,Chris Wilson,68.0,Female,San Antonio,FL,Food,Sofa,2,271.47,10,9.22,PayPal,2024-03-24,10,3.0,Dissatisfied,542.94,54.29400000000001,497.8660000000001
+ORD00878,CUST0225,Jennifer Lee,48.0,Female,Chicago,GA,Food,Coffee,1,472.58,15,13.48,Debit Card,2024-01-31,14,4.0,Satisfied,472.58,70.887,415.173
+ORD00879,CUST0104,William Moore,23.0,Male,San Jose,GA,Sports,Lipstick,1,204.18,5,10.83,PayPal,2024-06-09,10,4.0,Satisfied,204.18,10.209000000000001,204.80100000000002
+ORD00880,CUST0104,Tom Martinez,36.0,Male,Chicago,WA,Food,Basketball,2,349.99,0,16.87,Cash,2024-03-11,10,4.0,Very Satisfied,699.98,0.0,716.85
+ORD00881,CUST0039,William Moore,54.0,Female,San Diego,TX,Toys,Novel,5,249.77,5,15.23,Credit Card,2024-01-08,4,5.0,Dissatisfied,1248.8500000000001,62.44250000000001,1201.6375
+ORD00882,CUST0198,Mike Johnson,21.0,Female,San Diego,CA,Sports,Jeans,5,261.16,25,1.17,Debit Card,2024-02-21,13,5.0,Satisfied,1305.8000000000002,326.45000000000005,980.5200000000001
+ORD00883,CUST0134,Amy Taylor,64.0,Female,New York,OH,Electronics,Chocolate,4,141.21,10,19.97,Credit Card,2024-02-14,11,4.0,Dissatisfied,564.84,56.48400000000001,528.326
+ORD00884,CUST0067,Mike Johnson,21.0,Male,San Jose,TX,Toys,Coffee,1,232.93,15,15.05,Cash,2024-10-19,6,5.0,Neutral,232.93,34.9395,213.0405
+ORD00885,CUST0179,Chris Wilson,37.0,Female,Los Angeles,WA,Beauty,Doll,4,240.68,0,17.28,Debit Card,2024-10-26,13,5.0,Satisfied,962.72,0.0,980.0
+ORD00886,CUST0042,Jessica White,27.0,Male,San Diego,TX,Food,Laptop,1,356.25,5,13.02,PayPal,2024-02-07,9,4.0,Satisfied,356.25,17.8125,351.4575
+ORD00887,CUST0015,Sarah Williams,41.0,Female,New York,OH,Electronics,Jeans,2,470.91,10,17.13,Debit Card,2024-12-20,14,4.0,Very Satisfied,941.82,94.18200000000002,864.768
+ORD00888,CUST0111,William Moore,52.0,Male,San Diego,WA,Home & Garden,Headphones,5,171.37,15,2.25,Credit Card,2024-08-18,3,5.0,Very Satisfied,856.85,128.5275,730.5725
+ORD00889,CUST0157,Lisa Anderson,43.0,Female,San Diego,WA,Clothing,T-Shirt,5,30.68,0,6.95,Debit Card,2024-09-18,9,5.0,Neutral,153.4,0.0,160.35
+ORD00890,CUST0289,William Moore,54.0,Male,Los Angeles,GA,Food,Coffee,2,253.18,15,17.53,Cash,2024-03-08,4,4.0,Neutral,506.36,75.954,447.93600000000004
+ORD00891,CUST0231,Chris Wilson,55.0,Male,Houston,TX,Books,Coffee,4,276.79,5,4.03,Cash,2024-06-27,5,2.0,Satisfied,1107.16,55.358000000000004,1055.832
+ORD00892,CUST0157,David Brown,38.0,Female,Philadelphia,NY,Electronics,Shampoo,4,92.54,0,1.56,Debit Card,2024-12-22,7,5.0,Neutral,370.16,0.0,371.72
+ORD00893,CUST0038,Chris Wilson,,Male,Dallas,IL,Books,Novel,3,382.63,0,15.76,Cash,2024-07-04,6,5.0,Very Satisfied,1147.8899999999999,0.0,1163.6499999999999
+ORD00894,CUST0097,Mike Johnson,56.0,Male,San Diego,WA,Food,Lamp,1,492.62,0,16.71,Cash,2024-07-19,10,3.0,Satisfied,492.62,0.0,509.33
+ORD00895,CUST0289,Jennifer Lee,38.0,Male,San Diego,TX,Books,Doll,4,473.43,5,3.25,Cash,2024-01-13,8,5.0,Satisfied,1893.72,94.686,1802.284
+ORD00896,CUST0254,Jane Doe,27.0,Female,San Antonio,AZ,Food,Jeans,2,106.58,0,17.09,PayPal,2024-08-01,8,4.0,Very Satisfied,213.16,0.0,230.25
+ORD00897,CUST0196,Emily Davis,55.0,Female,Dallas,FL,Clothing,Smartphone,4,438.93,0,13.74,Credit Card,2024-08-07,8,5.0,Very Dissatisfied,1755.72,0.0,1769.46
+ORD00898,CUST0086,Jane Doe,63.0,Male,Los Angeles,AZ,Home & Garden,Sofa,5,355.2,15,10.4,Cash,2024-10-12,3,4.0,Neutral,1776.0,266.4,1520.0
+ORD00899,CUST0010,Mike Johnson,21.0,Female,Chicago,TX,Clothing,Doll,1,232.38,0,16.61,Debit Card,2024-08-31,14,4.0,Satisfied,232.38,0.0,248.99
+ORD00900,CUST0005,Emily Davis,62.0,Female,San Jose,CA,Toys,Sofa,3,274.9,0,8.38,Cash,2024-12-21,10,3.0,Satisfied,824.6999999999999,0.0,833.0799999999999
+ORD00901,CUST0123,David Brown,37.0,Male,San Diego,CA,Electronics,Basketball,1,426.3,5,3.88,PayPal,2024-09-14,6,,Very Satisfied,426.3,21.315,408.865
+ORD00902,CUST0118,Lisa Anderson,34.0,Female,Philadelphia,TX,Books,Basketball,5,245.27,5,5.7,Debit Card,2024-02-27,7,5.0,Satisfied,1226.3500000000001,61.31750000000001,1170.7325
+ORD00903,CUST0294,Tom Martinez,24.0,Female,San Jose,GA,Clothing,Chocolate,5,192.87,10,10.1,Credit Card,2024-02-05,9,5.0,Neutral,964.35,96.435,878.015
+ORD00904,CUST0159,Robert Garcia,21.0,Female,Dallas,GA,Food,Doll,5,251.69,5,10.63,Debit Card,2024-11-23,10,5.0,Dissatisfied,1258.45,62.92250000000001,1206.1575000000003
+ORD00905,CUST0228,Mike Johnson,46.0,Male,San Jose,WA,Clothing,Sofa,5,293.77,10,16.11,Debit Card,2024-07-11,10,4.0,Neutral,1468.85,146.885,1338.0749999999998
+ORD00906,CUST0216,Jennifer Lee,31.0,Female,Houston,OH,Clothing,Chocolate,2,102.65,10,15.83,Debit Card,2024-11-28,14,5.0,Very Satisfied,205.3,20.53,200.60000000000002
+ORD00907,CUST0184,Amy Taylor,20.0,Female,San Diego,IL,Electronics,Cookbook,3,451.44,0,11.63,Debit Card,2024-02-19,12,3.0,Satisfied,1354.32,0.0,1365.95
+ORD00908,CUST0015,Mike Johnson,41.0,Male,San Jose,WA,Home & Garden,Doll,5,340.35,0,15.62,Cash,2024-02-01,4,5.0,Very Satisfied,1701.75,0.0,1717.37
+ORD00909,CUST0157,Mike Johnson,54.0,Male,Chicago,AZ,Beauty,Novel,5,320.3,5,3.84,Credit Card,2024-04-07,5,4.0,Very Satisfied,1601.5,80.075,1525.2649999999999
+ORD00910,CUST0136,William Moore,33.0,Male,Chicago,IL,Clothing,Novel,4,58.75,0,1.0,Cash,2024-02-12,8,4.0,Satisfied,235.0,0.0,236.0
+ORD00911,CUST0261,William Moore,69.0,Male,San Diego,AZ,Electronics,Laptop,3,306.05,10,17.47,PayPal,2024-12-16,1,4.0,Satisfied,918.1500000000001,91.81500000000001,843.8050000000001
+ORD00912,CUST0157,Emily Davis,21.0,Female,Phoenix,GA,Books,Jeans,1,69.27,5,1.51,PayPal,2024-11-29,12,5.0,Very Satisfied,69.27,3.4635,67.3165
+ORD00913,CUST0047,James Harris,41.0,Male,Chicago,TX,Food,Lamp,3,48.56,0,4.93,Debit Card,2024-11-05,6,5.0,Satisfied,145.68,0.0,150.61
+ORD00914,CUST0173,James Harris,51.0,Male,San Jose,OH,Toys,Sofa,3,268.38,0,13.91,Cash,2024-02-16,4,5.0,Neutral,805.14,0.0,819.05
+ORD00915,CUST0130,John Smith,47.0,Female,New York,AZ,Beauty,Jeans,3,207.36,0,8.19,Cash,2024-09-26,5,4.0,Very Satisfied,622.08,0.0,630.2700000000001
+ORD00916,CUST0095,Chris Wilson,35.0,Male,Chicago,GA,Sports,Novel,5,298.52,5,17.53,Credit Card,2024-11-06,11,5.0,Neutral,1492.6,74.63,1435.4999999999998
+ORD00917,CUST0115,Jennifer Lee,36.0,Other,Dallas,OH,Beauty,Headphones,5,53.72,5,5.96,Credit Card,2024-03-03,5,4.0,Very Satisfied,268.6,13.430000000000001,261.13
+ORD00918,CUST0243,John Smith,48.0,Male,Phoenix,WA,Food,Sofa,2,221.18,5,0.24,Credit Card,2024-01-19,2,5.0,Satisfied,442.36,22.118000000000002,420.482
+ORD00919,CUST0292,Jessica White,36.0,Male,San Jose,TX,Beauty,Coffee,1,95.65,0,6.01,Cash,2024-12-12,8,5.0,Neutral,95.65,0.0,101.66000000000001
+ORD00920,CUST0282,David Brown,66.0,Male,Los Angeles,,Food,Jeans,4,493.68,10,11.56,Credit Card,2024-04-10,2,4.0,Satisfied,1974.72,197.472,1788.808
+ORD00921,CUST0299,James Harris,63.0,Male,San Antonio,CA,Electronics,Novel,3,284.96,15,7.52,Credit Card,2024-02-06,4,1.0,Dissatisfied,854.8799999999999,128.23199999999997,734.1679999999999
+ORD00922,CUST0283,Amy Taylor,36.0,Male,Los Angeles,PA,Sports,T-Shirt,1,346.84,0,10.7,Credit Card,2024-04-16,12,4.0,Very Satisfied,346.84,0.0,357.53999999999996
+ORD00923,CUST0069,William Moore,39.0,Female,Houston,OH,Clothing,Novel,1,169.45,5,17.53,Debit Card,2024-04-01,13,4.0,Satisfied,169.45,8.4725,178.5075
+ORD00924,CUST0148,Lisa Anderson,41.0,Other,San Antonio,FL,Clothing,Basketball,2,56.42,25,18.25,PayPal,2024-11-03,5,3.0,Satisfied,112.84,28.21,102.88
+ORD00925,CUST0011,Sarah Williams,62.0,Male,Houston,FL,Beauty,Chocolate,4,488.18,0,5.32,PayPal,2024-07-03,14,3.0,Neutral,1952.72,0.0,1958.04
+ORD00926,CUST0254,David Brown,29.0,Female,San Antonio,OH,Electronics,Coffee,3,150.27,5,9.24,Cash,2024-08-03,1,4.0,Neutral,450.81000000000006,22.540500000000005,437.50950000000006
+ORD00927,CUST0038,Sarah Williams,47.0,Female,San Antonio,FL,Sports,Smartphone,4,217.67,0,10.98,Cash,2024-01-28,6,5.0,Neutral,870.68,0.0,881.66
+ORD00928,CUST0134,Jennifer Lee,55.0,Female,New York,AZ,Clothing,Cookbook,2,328.43,10,18.98,Debit Card,2024-02-05,2,5.0,Neutral,656.86,65.686,610.154
+ORD00929,CUST0200,Jennifer Lee,48.0,Male,Philadelphia,FL,Books,Shampoo,5,22.1,0,19.97,PayPal,2024-11-15,14,3.0,Very Satisfied,110.5,0.0,130.47
+ORD00930,CUST0023,Jessica White,53.0,Male,Dallas,GA,Home & Garden,Cookbook,1,407.03,25,4.71,Credit Card,2024-01-18,5,4.0,Satisfied,407.03,101.7575,309.98249999999996
+ORD00931,CUST0218,Sarah Williams,36.0,Male,Los Angeles,IL,Home & Garden,Coffee,3,272.92,10,14.54,Credit Card,2024-12-10,6,4.0,Satisfied,818.76,81.876,751.424
+ORD00932,CUST0141,Jennifer Lee,65.0,Female,Chicago,AZ,Clothing,Chocolate,5,146.33,10,7.56,Cash,2024-07-14,11,4.0,Satisfied,731.6500000000001,73.165,666.0450000000001
+ORD00933,CUST0104,Lisa Anderson,62.0,female,San Jose,FL,Sports,Basketball,2,40.19,10,0.16,PayPal,2024-03-18,8,5.0,Very Dissatisfied,80.38,8.038,72.502
+ORD00934,CUST0210,Jane Doe,53.0,Male,Phoenix,WA,Toys,Basketball,4,89.62,5,0.19,Cash,2024-06-15,9,5.0,Very Satisfied,358.48,17.924000000000003,340.74600000000004
+ORD00935,CUST0111,John Smith,47.0,Male,Dallas,CA,Clothing,Shampoo,1,448.57,5,9.21,Cash,2024-03-30,13,5.0,Satisfied,448.57,22.4285,435.3515
+ORD00936,CUST0104,Mike Johnson,66.0,Female,Houston,TX,Toys,Sofa,3,346.15,15,9.77,Credit Card,2024-09-20,12,4.0,Satisfied,1038.4499999999998,155.76749999999996,892.4524999999999
+ORD00937,CUST0171,Tom Martinez,50.0,Female,New York,FL,Toys,T-Shirt,5,132.45,25,0.45,Credit Card,2024-07-26,6,5.0,Dissatisfied,662.25,165.5625,497.1375
+ORD00938,CUST0133,Sarah Williams,35.0,Other,Houston,NY,Food,T-Shirt,5,7383.035907437421,5,13.74,PayPal,2024-07-30,5,4.0,Dissatisfied,210.7,10.535,213.905
+ORD00939,CUST0293,Amy Taylor,69.0,Female,Philadelphia,CA,Food,Shampoo,1,348.4,20,5.88,Cash,2024-09-27,12,5.0,Very Satisfied,348.4,69.67999999999999,284.59999999999997
+ORD00940,CUST0127,David Brown,66.0,Male,Phoenix,WA,Sports,Sofa,4,290.48,5,11.2,Debit Card,2024-09-19,4,5.0,Very Satisfied,1161.92,58.096000000000004,1115.0240000000001
+ORD00941,CUST0106,Jane Doe,45.0,Female,New York,GA,Toys,Jeans,2,208.21,5,6.02,PayPal,2024-09-29,2,5.0,Satisfied,416.42,20.821,401.61899999999997
+ORD00942,CUST0092,Sarah Williams,64.0,Female,Houston,FL,Books,Sofa,4,188.17,5,3.34,Cash,2024-12-07,2,5.0,Satisfied,752.68,37.634,718.386
+ORD00943,CUST0287,Jane Doe,28.0,Male,Philadelphia,GA,Sports,Lamp,4,116.24,0,8.14,PayPal,2024-08-01,7,2.0,,464.96,0.0,473.09999999999997
+ORD00944,CUST0051,James Harris,62.0,Female,San Jose,FL,Clothing,Lamp,4,338.11,0,4.65,PayPal,2024-03-04,5,5.0,Satisfied,1352.44,0.0,1357.0900000000001
+ORD00945,CUST0029,Jane Doe,50.0,Female,San Jose,PA,Beauty,Cookbook,1,485.63,0,10.7,PayPal,2024-01-12,7,3.0,Very Satisfied,485.63,0.0,496.33
+ORD00946,CUST0296,Sarah Williams,34.0,Male,Houston,IL,Books,Novel,1,96.1,5,3.98,Debit Card,2024-07-28,13,4.0,Satisfied,96.1,4.805,95.27499999999999
+ORD00947,CUST0297,Emily Davis,23.0,Female,Dallas,GA,Electronics,Shampoo,2,302.59,0,10.17,Debit Card,2024-11-07,11,2.0,Satisfied,605.18,0.0,615.3499999999999
+ORD00948,CUST0214,Chris Wilson,21.0,Female,Phoenix,IL,Home & Garden,Sofa,4,217.85,5,3.15,Credit Card,2024-06-22,1,,Neutral,871.4,43.57,830.9799999999999
+ORD00949,CUST0267,Amy Taylor,37.0,Female,San Diego,CA,Clothing,Lipstick,1,228.88,25,13.42,Credit Card,2024-09-12,1,5.0,Very Satisfied,228.88,57.22,185.07999999999998
+ORD00950,CUST0257,Mike Johnson,65.0,Male,Dallas,PA,Clothing,Sofa,2,134.53,0,15.08,Cash,2024-04-10,5,5.0,Very Satisfied,269.06,0.0,284.14
+ORD00951,CUST0101,Mike Johnson,64.0,Male,San Jose,TX,Clothing,Coffee,2,414.32,5,2.21,PayPal,2024-01-16,2,5.0,Very Dissatisfied,828.64,41.432,789.418
+ORD00952,CUST0110,Amy Taylor,44.0,Female,Phoenix,AZ,Books,Chocolate,4,247.78,0,9.36,Cash,2024-07-15,8,4.0,Very Satisfied,991.12,0.0,1000.48
+ORD00953,CUST0182,Emily Davis,32.0,Male,Philadelphia,IL,Electronics,Jeans,3,276.27,0,1.42,Credit Card,2024-09-14,14,5.0,Neutral,828.81,0.0,830.2299999999999
+ORD00954,CUST0001,William Moore,23.0,Female,New York,PA,Beauty,Laptop,4,159.33,10,11.96,Debit Card,2024-08-31,3,,Satisfied,637.32,63.732000000000006,585.5480000000001
+ORD00955,CUST0055,Jennifer Lee,64.0,Female,San Antonio,IL,Sports,Cookbook,3,99.09,5,5.29,Credit Card,2024-12-13,1,4.0,Satisfied,297.27,14.8635,287.6965
+ORD00956,CUST0149,Mike Johnson,31.0,Male,Houston,OH,Food,Cookbook,2,52.1,10,10.55,Cash,2024-09-05,13,3.0,Very Satisfied,104.2,10.420000000000002,104.33
+ORD00957,CUST0137,William Moore,28.0,Female,Los Angeles,WA,Electronics,Cookbook,1,359.92,0,10.35,Credit Card,2024-04-14,2,5.0,Very Satisfied,359.92,0.0,370.27000000000004
+ORD00958,CUST0202,Jane Doe,56.0,Female,Phoenix,TX,Books,Coffee,5,106.15,5,18.49,Cash,2024-06-30,10,,Satisfied,530.75,26.5375,522.7025
+ORD00959,CUST0117,Lisa Anderson,26.0,Male,Chicago,WA,Clothing,Doll,2,348.14,0,10.98,Cash,2024-06-03,10,5.0,Very Satisfied,696.28,0.0,707.26
+ORD00960,CUST0154,David Brown,43.0,Female,Philadelphia,FL,Home & Garden,Novel,1,201.28,0,11.66,Cash,2024-10-13,7,5.0,Satisfied,201.28,0.0,212.94
+ORD00961,CUST0291,James Harris,33.0,Female,San Diego,IL,Clothing,Shampoo,2,213.73,0,8.03,Cash,2024-06-17,6,5.0,Very Satisfied,427.46,0.0,435.48999999999995
+ORD00962,CUST0063,John Smith,22.0,Female,San Antonio,FL,Sports,Basketball,4,239.9,0,18.98,Credit Card,2024-02-16,12,5.0,Neutral,959.6,0.0,978.58
+ORD00963,CUST0244,Mike Johnson,69.0,Female,Chicago,NY,Toys,Shampoo,3,190.18,0,15.54,Cash,2024-02-12,8,5.0,Dissatisfied,570.54,0.0,586.0799999999999
+ORD00964,CUST0025,Amy Taylor,27.0,Male,San Diego,IL,Home & Garden,Headphones,2,59.3,0,5.71,Cash,2024-11-16,7,5.0,Very Satisfied,118.6,0.0,124.30999999999999
+ORD00965,CUST0090,Lisa Anderson,67.0,Female,Los Angeles,PA,Clothing,Laptop,1,161.72,25,16.88,PayPal,2024-11-01,14,4.0,Very Satisfied,161.72,40.43,138.17
+ORD00966,CUST0075,Sarah Williams,20.0,Female,San Jose,TX,Beauty,Doll,4,335.23,0,8.65,Cash,2024-08-08,10,5.0,Neutral,1340.92,0.0,1349.5700000000002
+ORD00967,CUST0294,Jessica White,30.0,Female,Dallas,FL,Home & Garden,Lipstick,5,336.23,0,16.57,Credit Card,2024-01-01,13,4.0,Satisfied,1681.15,0.0,1697.72
+ORD00968,CUST0210,Chris Wilson,60.0,Female,Houston,IL,Toys,Lipstick,4,150.25,0,16.46,Cash,2024-07-18,8,5.0,Very Satisfied,601.0,0.0,617.46
+ORD00969,CUST0017,Amy Taylor,66.0,Male,New York,NY,Food,Novel,3,235.45,5,3.78,Debit Card,2024-05-23,3,4.0,Satisfied,706.3499999999999,35.317499999999995,674.8124999999999
+ORD00970,CUST0128,Jennifer Lee,47.0,Female,San Diego,WA,Electronics,Lamp,4,104.79,0,14.02,Debit Card,2024-01-28,6,3.0,Very Satisfied,419.16,0.0,433.18
+ORD00971,CUST0251,Jessica White,62.0,Male,San Antonio,PA,Books,Shampoo,5,113.08,15,5.81,Cash,2024-12-07,13,1.0,Very Satisfied,565.4,84.80999999999999,486.4
+ORD00972,CUST0179,Jessica White,23.0,Male,Phoenix,OH,Food,Jeans,1,21.29,25,5.95,Debit Card,2024-12-03,7,5.0,Very Dissatisfied,21.29,5.3225,21.9175
+ORD00973,CUST0182,Jane Doe,34.0,Male,San Jose,IL,Clothing,Basketball,2,449.41,0,5.93,Debit Card,2024-10-04,10,4.0,Neutral,898.82,0.0,904.75
+ORD00974,CUST0152,Chris Wilson,62.0,Other,Phoenix,OH,Sports,Lamp,3,113.25,5,14.51,Credit Card,2024-02-10,11,4.0,Neutral,339.75,16.9875,337.2725
+ORD00975,CUST0025,David Brown,68.0,Female,San Antonio,CA,Electronics,Basketball,5,121.49,0,4.6,PayPal,2024-11-27,1,3.0,Very Satisfied,607.4499999999999,0.0,612.05
+ORD00976,CUST0180,David Brown,,Female,Phoenix,TX,Food,T-Shirt,3,147.0,10,0.02,Debit Card,2024-05-26,1,4.0,Very Satisfied,441.0,44.1,396.91999999999996
+ORD00977,CUST0198,Emily Davis,59.0,Female,San Diego,IL,Clothing,Cookbook,4,,5,14.3,Debit Card,2024-12-10,7,3.0,Dissatisfied,289.72,14.486000000000002,289.53400000000005
+ORD00978,CUST0161,William Moore,52.0,Female,Philadelphia,GA,Electronics,Doll,3,323.24,0,3.42,PayPal,2024-06-26,13,4.0,Very Satisfied,969.72,0.0,973.14
+ORD00979,CUST0177,Tom Martinez,63.0,Female,Phoenix,NY,Food,Basketball,5,46.82,0,2.09,PayPal,2024-11-10,11,4.0,Satisfied,234.1,0.0,236.19
+ORD00980,CUST0285,Jessica White,43.0,Female,Dallas,FL,Sports,Chocolate,2,9015.096911496832,10,4.75,Debit Card,2024-11-20,13,4.0,Very Satisfied,151.52,15.152000000000001,141.118
+ORD00981,CUST0063,Emily Davis,68.0,Male,Los Angeles,GA,Clothing,Smartphone,2,325.93,5,7.6,Cash,2024-06-15,3,4.0,Satisfied,651.86,32.593,626.8670000000001
+ORD00982,CUST0150,Jennifer Lee,22.0,Male,New York,CA,Toys,Cookbook,3,176.43,0,9.52,Debit Card,2024-05-02,3,4.0,Very Satisfied,529.29,0.0,538.81
+ORD00983,CUST0154,William Moore,46.0,Female,San Diego,TX,Toys,Cookbook,1,5916.466817797108,10,0.89,Cash,2024-03-14,5,5.0,Very Satisfied,356.89,35.689,322.09099999999995
+ORD00984,CUST0156,James Harris,54.0,Female,Chicago,WA,Sports,Jeans,3,283.14,5,19.41,Cash,2024-08-26,11,4.0,Dissatisfied,849.42,42.471000000000004,826.3589999999999
+ORD00985,CUST0049,Jessica White,37.0,Male,San Antonio,PA,Home & Garden,Doll,4,135.45,15,14.32,Cash,2024-09-05,6,4.0,Satisfied,541.8,81.27,474.84999999999997
+ORD00986,CUST0084,Lisa Anderson,66.0,Male,San Jose,OH,Sports,Laptop,2,328.91,0,6.46,PayPal,2024-09-19,2,3.0,Very Satisfied,657.82,0.0,664.2800000000001
+ORD00987,CUST0177,Chris Wilson,38.0,Female,San Diego,CA,Home & Garden,Lamp,2,66.97,10,6.37,Debit Card,2024-09-08,3,4.0,Neutral,133.94,13.394,126.916
+ORD00988,CUST0148,Tom Martinez,27.0,Male,Philadelphia,FL,Clothing,Basketball,2,272.84,10,8.97,Debit Card,2024-12-22,6,2.0,Very Satisfied,545.68,54.568,500.082
+ORD00989,CUST0118,Sarah Williams,22.0,Female,San Jose,PA,Food,Basketball,1,224.2,0,12.52,Credit Card,2024-04-20,3,2.0,Satisfied,224.2,0.0,236.72
+ORD00990,CUST0063,Jane Doe,53.0,M,Dallas,WA,Home & Garden,T-Shirt,1,141.26,10,2.93,PayPal,2024-06-28,14,5.0,Satisfied,141.26,14.126,130.064
+ORD00991,CUST0189,Chris Wilson,23.0,Male,San Antonio,FL,Clothing,Cookbook,5,305.96,5,3.78,Credit Card,2024-07-06,5,5.0,Very Satisfied,1529.8,76.49,1457.09
+ORD00992,CUST0049,Emily Davis,43.0,Male,San Jose,NY,Clothing,Sofa,3,,20,17.19,Credit Card,2024-11-03,9,4.0,Satisfied,1310.85,262.17,1065.87
+ORD00993,CUST0257,John Smith,21.0,Female,Phoenix,OH,Beauty,Shampoo,3,499.46,0,5.13,Cash,2024-07-25,12,5.0,Neutral,1498.3799999999999,0.0,1503.51
+ORD00994,CUST0224,Robert Garcia,56.0,Female,San Diego,GA,Books,Headphones,4,307.8,10,7.6,PayPal,2024-08-21,3,2.0,Very Dissatisfied,1231.2,123.12,1115.6799999999998
+ORD00995,CUST0141,Tom Martinez,56.0,Female,Los Angeles,IL,Clothing,Sofa,2,208.31,0,17.43,Credit Card,2024-01-24,12,5.0,Satisfied,416.62,0.0,434.05
+ORD00996,CUST0215,Tom Martinez,67.0,Other,San Antonio,,Home & Garden,Shampoo,1,120.35,25,13.26,Debit Card,2024-01-26,11,3.0,Very Satisfied,120.35,30.0875,103.5225
+ORD00997,CUST0211,Jennifer Lee,52.0,Male,Houston,IL,Books,Basketball,4,135.98,0,6.83,Credit Card,2024-08-05,13,5.0,Very Satisfied,543.92,0.0,550.75
+ORD00998,CUST0032,Jane Doe,18.0,Female,,PA,Books,Sofa,4,244.93,25,13.67,PayPal,2024-12-11,13,3.0,Satisfied,979.72,244.93,748.4599999999999
+ORD00999,CUST0158,Mike Johnson,41.0,Female,New York,IL,Clothing,Jeans,1,189.97,20,0.39,Debit Card,2024-01-10,6,5.0,Very Satisfied,189.97,37.994,152.36599999999999
+ORD01000,CUST0285,David Brown,53.0,Female,San Antonio,GA,Sports,Smartphone,3,457.77,0,14.71,Debit Card,2024-01-17,11,4.0,Satisfied,1373.31,0.0,1388.02
+ORD00995,CUST0141,Tom Martinez,56.0,Female,Los Angeles,IL,Clothing,Sofa,2,208.31,0,17.43,Credit Card,2024-01-24,12,5.0,Satisfied,416.62,0.0,434.05
+ORD00804,CUST0094,Amy Taylor,46.0,Male,San Jose,OH,Books,T-Shirt,2,103.83,10,5.93,PayPal,2024-11-15,9,3.0,Very Satisfied,207.66,20.766000000000002,192.824
+ORD00300,CUST0288,James Harris,21.0,Male,Los Angeles,IL,Toys,Coffee,1,90.39,0,10.46,PayPal,2024-04-13,14,5.0,Neutral,90.39,0.0,100.85
+ORD00432,CUST0090,Lisa Anderson,18.0,Male,Chicago,NY,Beauty,Jeans,5,250.95,5,0.19,Cash,2024-05-27,11,5.0,Dissatisfied,1254.75,62.737500000000004,1192.2025
+ORD00053,CUST0191,Emily Davis,18.0,Female,Chicago,IL,Electronics,Shampoo,1,124.12,15,5.04,Cash,2024-06-07,10,4.0,Very Dissatisfied,124.12,18.618,110.54200000000002
+ORD00274,CUST0220,Chris Wilson,21.0,Male,Chicago,TX,Home & Garden,Lamp,2,472.45,20,7.82,Cash,2024-02-04,10,4.0,Dissatisfied,944.9,188.98000000000002,763.74
+ORD00169,CUST0113,Emily Davis,32.0,Male,New York,PA,Food,Basketball,1,77.81,10,4.43,Debit Card,2024-11-11,14,3.0,Very Satisfied,77.81,7.781000000000001,74.459
+ORD00413,CUST0160,David Brown,33.0,Male,Houston,CA,Home & Garden,Laptop,1,222.99,5,2.25,Credit Card,2024-12-19,8,5.0,Very Satisfied,222.99,11.149500000000002,214.09050000000002
+ORD00054,CUST0218,Tom Martinez,52.0,Male,Philadelphia,NY,Home & Garden,Laptop,2,424.21,0,19.12,Cash,2024-11-24,2,4.0,Very Satisfied,848.42,0.0,867.54
+ORD00564,CUST0144,Tom Martinez,32.0,Female,San Antonio,NY,Electronics,Smartphone,5,29.63,15,11.29,PayPal,2024-05-10,8,,Neutral,148.15,22.2225,137.2175
+ORD00807,CUST0203,Jennifer Lee,19.0,Male,Houston,FL,Home & Garden,Novel,2,183.95,10,5.78,Debit Card,2024-07-08,10,5.0,Very Satisfied,367.9,36.79,336.88999999999993
+ORD00324,CUST0153,Sarah Williams,65.0,Female,Chicago,AZ,Toys,Sofa,4,469.97,0,9.92,Cash,2024-12-06,14,5.0,Neutral,1879.88,0.0,1889.8000000000002
+ORD00132,CUST0045,Tom Martinez,23.0,Female,New York,NY,Electronics,Headphones,1,377.01,0,14.81,Credit Card,2024-08-27,13,5.0,Neutral,377.01,0.0,391.82
+ORD00026,CUST0188,Chris Wilson,29.0,Male,New York,PA,Home & Garden,Jeans,3,217.94,5,4.63,Credit Card,2024-05-26,3,5.0,Neutral,653.8199999999999,32.690999999999995,625.7589999999999
+ORD00828,CUST0178,James Harris,46.0,Male,New York,CA,Sports,Doll,1,363.96,25,10.24,Cash,2024-07-21,10,4.0,Very Satisfied,363.96,90.99,283.21
